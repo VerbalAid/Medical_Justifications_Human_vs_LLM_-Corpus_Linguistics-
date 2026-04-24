@@ -1,0 +1,226 @@
+case_file,snomed_concept_a,snomed_concept_b,depth_a,depth_b,depth_gap_abs,isa_broader_side,entity_example_a,entity_example_b
+case_001.txt,90935002,64572001,8,2,6,model_concept_broader,hemophilia,disorders
+case_001.txt,90935002,64779008,8,6,2,model_concept_broader,hemophilia,coagulation disorder
+case_001.txt,90935002,28293008,8,9,1,human_concept_broader,hemophilia,hemophilia a
+case_003.txt,113091000,122503006,11,5,6,model_concept_broader,mri,assessment
+case_005.txt,61685007,65490005,10,18,8,human_concept_broader,lower limb,lateral femoral cutaneous nerve
+case_005.txt,61685007,182299007,10,15,5,human_concept_broader,lower limb,lateral aspect
+case_005.txt,61685007,61396006,10,15,5,human_concept_broader,lower limb,left thigh
+case_005.txt,61685007,30021000,10,14,4,human_concept_broader,lower limb,leg
+case_005.txt,61685007,72696002,10,14,4,human_concept_broader,lower limb,knee
+case_006.txt,723158004,42658009,12,6,6,model_concept_broader,lower limbs,peripheral neuropathy
+case_006.txt,33653009,44077006,10,8,2,human_concept_broader,anesthesia,numbness
+case_006.txt,75693000,106148006,9,7,2,model_concept_broader,vibratory,sensory function
+case_006.txt,106146005,32566006,9,10,1,human_concept_broader,reflexes,dysmetria
+case_006.txt,49755003,418560003,3,4,1,human_concept_broader,lesion,absence
+case_008.txt,64572001,8250007,2,16,14,human_concept_broader,disease,subcutaneous cellular tissue
+case_008.txt,64572001,89155008,2,10,8,human_concept_broader,disease,systemic scleroderma
+case_010.txt,30288003,301095005,21,8,13,model_concept_broader,vsd,cardiac finding
+case_010.txt,48724000,301095005,15,8,7,model_concept_broader,mitral insufficiency,cardiac finding
+case_010.txt,88610006,301095005,13,8,5,model_concept_broader,murmur,cardiac finding
+case_010.txt,88610006,31574009,13,15,2,human_concept_broader,murmur,systolic murmur
+case_011.txt,79440004,116568000,6,19,13,human_concept_broader,corticosteroids,dexamethasone
+case_012.txt,770626007,61514009,20,15,5,model_concept_broader,claude bernard,miosis
+case_013.txt,59433001,40940006,19,20,1,human_concept_broader,hcg,bhcg
+case_014.txt,246188002,197671004,1,12,11,human_concept_broader,finding,renal function impairment
+case_014.txt,246188002,34436003,1,11,10,human_concept_broader,finding,hematuria
+case_014.txt,386100006,78014005,15,14,1,model_concept_broader,sediment,urine
+case_016.txt,277473004,64572001,21,2,19,model_concept_broader,b-cll,disease
+case_016.txt,1260406003,64572001,17,2,15,model_concept_broader,tp53,disease
+case_016.txt,405749004,64572001,13,2,11,model_concept_broader,diagnosed,disease
+case_016.txt,67023009,64572001,13,2,11,model_concept_broader,lymphocytosis,disease
+case_016.txt,722967008,64572001,9,2,7,model_concept_broader,mutations,disease
+case_016.txt,277473004,92814006,21,19,2,model_concept_broader,b-cll,cll
+case_017.txt,236503001,64572001,13,2,11,model_concept_broader,renal crisis,disease
+case_017.txt,19216006,64572001,11,2,9,model_concept_broader,esophageal,disease
+case_017.txt,195295006,64572001,10,2,8,model_concept_broader,raynaud's,disease
+case_017.txt,89155008,64572001,10,2,8,model_concept_broader,systemic sclerosis,disease
+case_017.txt,201441006,64572001,9,2,7,model_concept_broader,scleroderma,disease
+case_018.txt,235599003,16761005,13,11,2,model_concept_broader,eosinophilic esophagitis,esophagitis
+case_018.txt,19597002,40739000,11,10,1,model_concept_broader,intermittent dysphagia,dysphagia
+case_021.txt,724637001,64572001,15,2,13,model_concept_broader,isolated thrombocytopenia,disease
+case_021.txt,724637001,70786006,15,10,5,model_concept_broader,isolated thrombocytopenia,thrombocytopenia
+case_023.txt,387961004,106831000,5,12,7,human_concept_broader,animals,ticks
+case_026.txt,2533004,55867006,2,16,14,human_concept_broader,drug,aminophylline
+case_026.txt,187275001,75478009,13,4,9,model_concept_broader,intoxications,toxicity
+case_027.txt,75053002,127086001,15,14,1,model_concept_broader,kawasaki disease,cervical lymphadenopathy
+case_028.txt,46956008,82275008,12,19,7,human_concept_broader,polyangiitis,egpa
+case_028.txt,36171008,82275008,15,19,4,human_concept_broader,glomerulonephritis,egpa
+case_029.txt,246188002,420272005,1,17,16,human_concept_broader,finding,soft drusen
+case_029.txt,280927000,5665001,36,20,16,model_concept_broader,central retinal vein,retina
+case_029.txt,420272005,64572001,17,2,15,model_concept_broader,soft drusen,disease
+case_029.txt,13937002,64572001,16,2,14,model_concept_broader,subretinal hemorrhage,disease
+case_029.txt,312956001,64572001,16,2,14,model_concept_broader,central serous chorioretinopathy,disease
+case_029.txt,246188002,16350000,1,14,13,human_concept_broader,finding,central vision
+case_029.txt,246188002,237967002,1,13,12,human_concept_broader,finding,amd
+case_029.txt,246188002,312999006,1,13,12,human_concept_broader,finding,macular disorder
+case_029.txt,246188002,42134006,1,13,12,human_concept_broader,finding,metamorphopsia
+case_029.txt,37231002,64572001,14,2,12,model_concept_broader,macular edema,disease
+case_029.txt,246188002,40031005,1,12,11,human_concept_broader,finding,loss of vision
+case_029.txt,42134006,64572001,13,2,11,model_concept_broader,metamorphopsia,disease
+case_029.txt,246188002,38950008,1,11,10,human_concept_broader,finding,central scotoma
+case_029.txt,40031005,64572001,12,2,10,model_concept_broader,visual loss,disease
+case_029.txt,246188002,225860008,1,5,4,human_concept_broader,finding,short period
+case_029.txt,37231002,312999006,14,13,1,model_concept_broader,macular edema,macular disorder
+case_030.txt,116568000,79440004,19,6,13,model_concept_broader,dexamethasone,corticosteroids
+case_030.txt,246062003,134198009,4,5,1,human_concept_broader,origin,etiology
+case_030.txt,75540009,35105006,8,7,1,model_concept_broader,elevated,increased
+case_031.txt,35917007,108369006,13,8,5,model_concept_broader,adenocarcinoma,tumor
+case_032.txt,16403005,2533004,8,2,6,model_concept_broader,nsaid,medication
+case_032.txt,25246002,2533004,7,2,5,model_concept_broader,allopurinol,medication
+case_032.txt,46785007,35885006,16,14,2,model_concept_broader,hyperuricemic,hyperuricemia
+case_032.txt,46785007,90560007,16,14,2,model_concept_broader,hyperuricemic,gout
+case_033.txt,86406008,111880001,7,8,1,human_concept_broader,hiv infection,acute hiv infection
+case_034.txt,49755003,108369006,3,8,5,human_concept_broader,lesion,tumor
+case_035.txt,112283007,4748007,14,2,12,model_concept_broader,escherichia coli,organisms
+case_036.txt,109081006,2533004,9,2,7,model_concept_broader,metformin,medication
+case_036.txt,326058001,2533004,9,2,7,model_concept_broader,pioglitazone,medication
+case_036.txt,47429007,263491009,6,4,2,model_concept_broader,associated with,context
+case_036.txt,326058001,109086001,9,8,1,model_concept_broader,pioglitazone,thiazolidinedione
+case_039.txt,74556005,48692003,20,3,17,model_concept_broader,thromboendarterectomy,surgical procedure
+case_039.txt,233935004,371039008,14,11,3,model_concept_broader,pulmonary thromboembolism,thromboembolic
+case_043.txt,86273004,7246002,11,15,4,human_concept_broader,biopsy,renal biopsy
+case_044.txt,314618003,252142004,15,7,8,model_concept_broader,abdominal ultrasound,investigations
+case_044.txt,71651007,252142004,13,7,6,model_concept_broader,mammography,investigations
+case_044.txt,16310003,252142004,11,7,4,model_concept_broader,ultrasound,investigations
+case_044.txt,314618003,16310003,15,11,4,model_concept_broader,abdominal ultrasound,ultrasonography
+case_045.txt,443094001,373673007,17,10,7,model_concept_broader,paroxysmal hemicrania,characterized
+case_045.txt,725058003,373673007,17,10,7,model_concept_broader,sunct,characterized
+case_045.txt,60149003,16403005,9,8,1,model_concept_broader,indomethacin,nsaid
+case_046.txt,64349004,324643005,10,5,5,model_concept_broader,griseofulvin,antifungal
+case_049.txt,36070007,234532001,20,7,13,model_concept_broader,wiskott-aldrich syndrome,immunodeficiency disorder
+case_049.txt,36070007,70786006,20,10,10,model_concept_broader,wiskott-aldrich syndrome,thrombocytopenia
+case_049.txt,70786006,36070007,10,20,10,human_concept_broader,thrombocytopenia,wiskott-aldrich syndrome
+case_049.txt,191009009,234532001,14,7,7,model_concept_broader,hyper-ige,immunodeficiency disorder
+case_049.txt,35105006,75540009,7,8,1,human_concept_broader,increased,elevated
+case_049.txt,88714009,234532001,8,7,1,model_concept_broader,transient hypogammaglobulinemia of infancy,immunodeficiency disorder
+case_052.txt,6042001,10446001,12,13,1,human_concept_broader,pulmonary aspergillosis,aspergilloma
+case_054.txt,9221009,118292001,21,3,18,model_concept_broader,surgical treatment,removal
+case_054.txt,234687006,71861002,19,4,15,model_concept_broader,bone defect,placement
+case_054.txt,1431002,1204449003,4,17,13,human_concept_broader,fixation,tibial fracture
+case_054.txt,64572001,724176001,2,13,11,human_concept_broader,disease,growth factors
+case_054.txt,31511007,18867006,12,3,9,model_concept_broader,pseudoarthrosis,healing
+case_054.txt,8451008,40388003,11,5,6,model_concept_broader,intramedullary nail,implant
+case_054.txt,87784001,128530007,6,12,6,human_concept_broader,soft tissues,bone
+case_054.txt,87784001,72651009,6,12,6,human_concept_broader,soft tissues,nail
+case_054.txt,278280003,40388003,10,5,5,model_concept_broader,external fixator,implant
+case_054.txt,40388003,278280003,5,10,5,human_concept_broader,implant,external fixator
+case_056.txt,111395007,15771004,15,12,3,model_concept_broader,nephrogenic diabetes insipidus,diabetes insipidus
+case_056.txt,77671006,126189002,17,20,3,human_concept_broader,adh,desmopressin
+case_057.txt,64572001,197284004,2,14,12,human_concept_broader,diseases,autoimmune hepatitis
+case_057.txt,64572001,80515008,2,12,10,human_concept_broader,diseases,hepatomegaly
+case_058.txt,720982007,116223007,20,4,16,model_concept_broader,midface,complication
+case_058.txt,87642003,112638000,7,5,2,model_concept_broader,dislocation,displacement
+case_059.txt,113091000,122503006,11,5,6,model_concept_broader,mri,evaluation
+case_062.txt,2533004,395246009,2,9,7,human_concept_broader,drug,escitalopram
+case_062.txt,2533004,36236003,2,7,5,human_concept_broader,drug,antidepressant
+case_066.txt,237851007,43339004,12,11,1,model_concept_broader,hypokalemic,hypokalemia
+case_067.txt,3723001,67224007,10,18,8,human_concept_broader,arthritis,reiter's syndrome
+case_067.txt,67224007,3723001,18,10,8,model_concept_broader,reiter's syndrome,arthritis
+case_067.txt,67224007,31822004,18,12,6,model_concept_broader,reiter's syndrome,urethritis
+case_067.txt,67224007,9826008,18,12,6,model_concept_broader,reiter's syndrome,conjunctivitis
+case_067.txt,236683007,31822004,15,12,3,model_concept_broader,chlamydial urethritis,urethritis
+case_068.txt,51185008,39607008,11,15,4,human_concept_broader,thorax,lung
+case_068.txt,49755003,19130008,3,6,3,human_concept_broader,lesion,trauma
+case_068.txt,51185008,78904004,11,13,2,human_concept_broader,thorax,chest wall
+case_068.txt,262784001,210075003,15,16,1,human_concept_broader,pulmonary contusion,lung contusion
+case_071.txt,66019005,59126009,7,14,7,human_concept_broader,limb,right arm
+case_071.txt,66019005,85562004,7,13,6,human_concept_broader,limb,hand
+case_071.txt,48333001,77140003,8,9,1,human_concept_broader,burn,superficial burn
+case_072.txt,250546000,278297009,16,13,3,model_concept_broader,po2,blood gas analysis
+case_072.txt,250564007,278297009,16,13,3,model_concept_broader,pco2,blood gas analysis
+case_072.txt,250546000,25579001,16,17,1,human_concept_broader,po2,pao2
+case_072.txt,250564007,25284008,16,15,1,model_concept_broader,pco2,paco2
+case_072.txt,39607008,3341006,15,16,1,human_concept_broader,lung,right lung
+case_073.txt,31574009,88610006,15,13,2,model_concept_broader,systolic murmur,murmur
+case_073.txt,31574009,71201008,15,16,1,human_concept_broader,systolic murmur,holosystolic
+case_074.txt,122503006,241045007,5,18,13,human_concept_broader,evaluation,styloid process
+case_074.txt,64572001,238149007,2,6,4,human_concept_broader,disease,inflammatory response
+case_076.txt,788913001,64572001,17,2,15,model_concept_broader,early age,syndrome
+case_076.txt,6204001,64572001,13,2,11,model_concept_broader,juvenile myoclonic epilepsy,syndrome
+case_076.txt,73714002,64572001,12,2,10,model_concept_broader,complex partial seizures,syndrome
+case_076.txt,373673007,64572001,10,2,8,model_concept_broader,characterized,syndrome
+case_076.txt,6204001,84757009,13,9,4,model_concept_broader,juvenile myoclonic epilepsy,epilepsy
+case_076.txt,51042001,392521001,5,4,1,model_concept_broader,history,history of
+case_076.txt,6204001,37356005,13,12,1,model_concept_broader,juvenile myoclonic epilepsy,myoclonic seizures
+case_078.txt,2492009,427698009,6,8,2,human_concept_broader,malnutrition,refeeding syndrome
+case_078.txt,427698009,2492009,8,6,2,model_concept_broader,refeeding syndrome,malnutrition
+case_079.txt,25121006,73320003,18,10,8,model_concept_broader,autoimmune hemolytic anemia,hemolysis
+case_079.txt,73320003,25121006,10,18,8,human_concept_broader,hemolysis,aiha
+case_079.txt,25121006,61261009,18,14,4,model_concept_broader,autoimmune hemolytic anemia,hemolytic anemia
+case_079.txt,61261009,25121006,14,18,4,human_concept_broader,hemolytic anemia,aiha
+case_079.txt,61261009,73320003,14,10,4,model_concept_broader,hemolytic anemia,hemolysis
+case_079.txt,73320003,61261009,10,14,4,human_concept_broader,hemolysis,hemolytic anemia
+case_079.txt,45486003,418560003,6,4,2,model_concept_broader,aplasia,absence
+case_079.txt,87612001,2522002,14,15,1,human_concept_broader,blood,extravascular
+case_082.txt,102518004,102519007,7,8,1,human_concept_broader,age,apparent
+case_083.txt,42134006,69456008,13,12,1,model_concept_broader,metamorphopsia,visual distortions
+case_086.txt,64572001,19311003,2,15,13,human_concept_broader,disease,collagenous colitis
+case_086.txt,64572001,64766004,2,15,13,human_concept_broader,disease,chronic ulcerative colitis
+case_086.txt,64572001,19719003,2,14,12,human_concept_broader,disease,lymphocytic infiltration
+case_086.txt,64572001,24526004,2,11,9,human_concept_broader,disease,ibd
+case_086.txt,64572001,373673007,2,10,8,human_concept_broader,disease,characterized
+case_086.txt,19311003,24526004,15,11,4,model_concept_broader,collagenous colitis,ibd
+case_086.txt,34000006,24526004,13,11,2,model_concept_broader,crohn's disease,ibd
+case_086.txt,13331008,446689007,6,7,1,human_concept_broader,atrophy,epithelial atrophy
+case_088.txt,113091000,71388002,11,1,10,model_concept_broader,mri,procedure
+case_089.txt,446722008,122503006,15,5,10,model_concept_broader,tropism,evaluation
+case_089.txt,78277001,52718009,23,24,1,human_concept_broader,temporal lobe,left temporal lobe
+case_090.txt,255409004,224526002,7,6,1,model_concept_broader,pregnant woman,woman
+case_092.txt,246188002,21454007,1,16,15,human_concept_broader,finding,subarachnoid hemorrhage
+case_092.txt,64572001,21454007,2,16,14,human_concept_broader,syndrome,subarachnoid hemorrhage
+case_092.txt,246188002,12900003,1,13,12,human_concept_broader,finding,third nerve palsy
+case_092.txt,64572001,12900003,2,13,11,human_concept_broader,syndrome,third nerve palsy
+case_092.txt,246188002,95883001,1,11,10,human_concept_broader,finding,bacterial meningitis
+case_092.txt,246188002,129679001,1,10,9,human_concept_broader,finding,ct scan
+case_092.txt,64572001,95883001,2,11,9,human_concept_broader,syndrome,bacterial meningitis
+case_092.txt,113091000,363679005,11,8,3,model_concept_broader,mri,imaging
+case_092.txt,4147007,108369006,5,8,3,human_concept_broader,mass,tumor
+case_092.txt,367647000,4147007,7,5,2,model_concept_broader,cystic changes,mass
+case_092.txt,367327000,246100006,6,5,1,model_concept_broader,sudden onset,onset
+case_092.txt,50960005,8573003,5,6,1,human_concept_broader,hemorrhage,acute bleeding
+case_093.txt,5759005,237251001,17,19,2,human_concept_broader,gestational trophoblastic disease,gestational trophoblastic neoplasia
+case_093.txt,35105006,75540009,7,8,1,human_concept_broader,increased,elevated
+case_095.txt,11639007,49755003,11,3,8,model_concept_broader,puncture,lesion
+case_095.txt,16310003,122503006,11,5,6,model_concept_broader,ultrasound,evaluation
+case_095.txt,27925004,49755003,6,3,3,model_concept_broader,nodule,lesion
+case_095.txt,27925004,4147007,6,5,1,model_concept_broader,nodule,mass
+case_096.txt,706970001,55342001,20,4,16,model_concept_broader,triple negative,neoplasia
+case_096.txt,427685000,55342001,19,4,15,model_concept_broader,her2,neoplasia
+case_096.txt,254837009,55342001,14,4,10,model_concept_broader,breast cancer,neoplasia
+case_096.txt,254837009,422399001,14,20,6,human_concept_broader,breast cancer,infiltrating ductal carcinoma
+case_096.txt,254837009,427685000,14,19,5,human_concept_broader,breast cancer,her2-positive
+case_097.txt,230690007,371041009,13,16,3,human_concept_broader,stroke,embolic stroke
+case_099.txt,193030005,64572001,18,2,16,model_concept_broader,variants,disease
+case_099.txt,26929004,64572001,12,2,10,model_concept_broader,alzheimer's disease,disease
+case_099.txt,26929004,386806002,12,8,4,model_concept_broader,alzheimer's disease,cognitive deficit
+case_102.txt,116566001,116602009,10,18,8,human_concept_broader,steroid,prednisone
+case_102.txt,32273002,70786006,18,10,8,model_concept_broader,idiopathic thrombocytopenic purpura,thrombocytopenia
+case_103.txt,51282000,61853006,15,16,1,human_concept_broader,vertebra,spinal canal
+case_106.txt,64572001,279049005,2,15,13,human_concept_broader,disease,post-surgery
+case_106.txt,64572001,66931009,2,14,12,human_concept_broader,disease,hypercalcemia
+case_106.txt,237885008,66931009,15,14,1,model_concept_broader,familial hypocalciuric hypercalcemia,hypercalcemia
+case_108.txt,64572001,413239008,2,9,7,human_concept_broader,disease,surgical intervention
+case_109.txt,41006004,394924000,9,10,1,human_concept_broader,depression,depressive symptoms
+case_110.txt,81609008,350612007,7,8,1,human_concept_broader,furosemide,oral furosemide
+case_112.txt,66696003,255316004,8,6,2,model_concept_broader,empyema,purulent
+case_113.txt,41146007,5933001,6,14,8,human_concept_broader,bacterium,clostridium difficile
+case_113.txt,41146007,264395009,6,3,3,model_concept_broader,bacterium,microorganism
+case_113.txt,62315008,301469002,12,14,2,human_concept_broader,diarrhea,antibiotic-associated diarrhea
+case_114.txt,75129005,8205005,20,13,7,model_concept_broader,distal radius,wrist
+case_114.txt,49755003,5383004,3,9,6,human_concept_broader,lesion,fracture-dislocation
+case_114.txt,49755003,19130008,3,6,3,human_concept_broader,lesion,injury
+case_114.txt,62413002,75129005,17,20,3,human_concept_broader,radius,distal radius
+case_114.txt,49755003,6081001,3,5,2,human_concept_broader,lesion,deformity
+case_117.txt,64572001,1237341006,2,21,19,human_concept_broader,disease,pancreatic neoplasm
+case_117.txt,64572001,59282003,2,13,11,human_concept_broader,disease,pulmonary embolism
+case_119.txt,49755003,51608009,3,14,11,human_concept_broader,lesion,serous cystadenoma
+case_119.txt,246188002,80608005,1,10,9,human_concept_broader,finding,appropriate
+case_119.txt,49755003,86049000,3,10,7,human_concept_broader,lesion,malignancy
+case_119.txt,246188002,308273005,1,3,2,human_concept_broader,finding,follow-up
+case_120.txt,61261009,127059001,14,21,7,human_concept_broader,hemolytic anemia,immune hemolytic anemia
+case_120.txt,25121006,61261009,18,14,4,model_concept_broader,autoimmune hemolytic anemia,hemolytic anemia
+case_120.txt,25121006,127059001,18,21,3,human_concept_broader,autoimmune hemolytic anemia,immune hemolytic anemia
+case_121.txt,55607006,89362005,5,9,4,human_concept_broader,problem,weight loss
+case_122.txt,285420006,64572001,22,2,20,model_concept_broader,iga myeloma,disorder
+case_122.txt,285420006,277576009,22,15,7,model_concept_broader,iga myeloma,plasma cell disorder

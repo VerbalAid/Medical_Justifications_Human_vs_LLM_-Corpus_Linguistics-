@@ -1,0 +1,5 @@
+The first option seems to be the correct one, due to the low probability of P. jirovecii infection in a patient with more than 500 CD4 lymphocytes and undetectable viral load.
+
+It is most likely to be a pneumococcal infection that we cover with Ceftriaxone and with azithromycin we cover the so-called "atypical" ones.
+
+Meropenem is an antibiotic with too broad a spectrum, which would be an option in in-hospital pneumonia caused by P. aeruginosa, a bacterial agent that can also cause pneumonia in HIV patients, but this is not common.

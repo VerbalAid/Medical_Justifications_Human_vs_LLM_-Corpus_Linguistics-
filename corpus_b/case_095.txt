@@ -1,0 +1,9 @@
+Given the patient's presentation of a firm, smooth, and mobile neck mass that rises with swallowing, the most likely diagnosis is a thyroid goitre. Although the presence of a neck mass can be associated with various conditions, the absence of symptoms and the mobility of the mass suggest a benign lesion rather than a malignant one.
+
+In this case, the initial diagnostic tests should aim to confirm the thyroid origin of the mass and assess its functional status. Therefore, I would order:
+
+1. A determination of thyroglobulin in blood. This protein is specific to thyroid follicular cells and its level can help differentiate between a benign and malignant goitre.
+
+2. A fine needle puncture could be considered for cytological evaluation, but given the patient's lack of symptoms and the possibility of a benign goitre, it may not be necessary at the outset.
+
+3. Determining circulating antithyroid antibodies (antithyroglobulin and antiperoxidase) might be useful to assess for autoimmune thyroid disease

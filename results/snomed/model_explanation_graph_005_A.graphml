@@ -1,0 +1,1011 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="rel" attr.type="string" />
+  <key id="d2" for="node" attr.name="sctid" attr.type="string" />
+  <key id="d1" for="node" attr.name="label" attr.type="string" />
+  <key id="d0" for="node" attr.name="kind" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="A_S0">
+      <data key="d0">sentence</data>
+      <data key="d1">In this case, when speaking of "reappearance of the symptoms when we lift the lower limb with the knee extended" we are describing the Lasègue Maneuver.</data>
+    </node>
+    <node id="A_S1">
+      <data key="d0">sentence</data>
+      <data key="d1">This maneuver is positive in cases of lumbosciatic pain, since it causes a stretching of the sciatic nerve, therefore the correct answer is number 3.</data>
+    </node>
+    <node id="A_S2">
+      <data key="d0">sentence</data>
+      <data key="d1">The rest of the pathologies do not have a positive Lasègue maneuver, so these options would not be correct.</data>
+    </node>
+    <node id="A_E:case">
+      <data key="d0">entity</data>
+      <data key="d1">case</data>
+    </node>
+    <node id="A_C:398241000">
+      <data key="d0">concept</data>
+      <data key="d2">398241000</data>
+      <data key="d1">case (qualifier value)</data>
+    </node>
+    <node id="A_E:speaking">
+      <data key="d0">entity</data>
+      <data key="d1">speaking</data>
+    </node>
+    <node id="A_C:87335007">
+      <data key="d0">concept</data>
+      <data key="d2">87335007</data>
+      <data key="d1">speaking (function)</data>
+    </node>
+    <node id="A_E:reappearance">
+      <data key="d0">entity</data>
+      <data key="d1">reappearance</data>
+    </node>
+    <node id="A_C:225447006">
+      <data key="d0">concept</data>
+      <data key="d2">225447006</data>
+      <data key="d1">reappearance of old thoughts (finding)</data>
+    </node>
+    <node id="A_E:symptoms">
+      <data key="d0">entity</data>
+      <data key="d1">symptoms</data>
+    </node>
+    <node id="A_C:139552004">
+      <data key="d0">concept</data>
+      <data key="d2">139552004</data>
+      <data key="d1">eye symptoms</data>
+    </node>
+    <node id="A_E:lift">
+      <data key="d0">entity</data>
+      <data key="d1">lift</data>
+    </node>
+    <node id="A_C:360304005">
+      <data key="d0">concept</data>
+      <data key="d2">360304005</data>
+      <data key="d1">lift (physical object)</data>
+    </node>
+    <node id="A_E:lower limb">
+      <data key="d0">entity</data>
+      <data key="d1">lower limb</data>
+    </node>
+    <node id="A_C:61685007">
+      <data key="d0">concept</data>
+      <data key="d2">61685007</data>
+      <data key="d1">lower limb structure (body structure)</data>
+    </node>
+    <node id="A_E:knee">
+      <data key="d0">entity</data>
+      <data key="d1">knee</data>
+    </node>
+    <node id="A_C:72696002">
+      <data key="d0">concept</data>
+      <data key="d2">72696002</data>
+      <data key="d1">knee region structure (body structure)</data>
+    </node>
+    <node id="A_E:extended">
+      <data key="d0">entity</data>
+      <data key="d1">extended</data>
+    </node>
+    <node id="A_C:288467006">
+      <data key="d0">concept</data>
+      <data key="d2">288467006</data>
+      <data key="d1">extended (qualifier value)</data>
+    </node>
+    <node id="A_E:maneuver">
+      <data key="d0">entity</data>
+      <data key="d1">maneuver</data>
+    </node>
+    <node id="A_C:116320007">
+      <data key="d0">concept</data>
+      <data key="d2">116320007</data>
+      <data key="d1">hip maneuver (procedure)</data>
+    </node>
+    <node id="A_E:positive">
+      <data key="d0">entity</data>
+      <data key="d1">positive</data>
+    </node>
+    <node id="A_C:393474000">
+      <data key="d0">concept</data>
+      <data key="d2">393474000</data>
+      <data key="d1">positive</data>
+    </node>
+    <node id="A_E:cases">
+      <data key="d0">entity</data>
+      <data key="d1">cases</data>
+    </node>
+    <node id="A_E:stretching">
+      <data key="d0">entity</data>
+      <data key="d1">stretching</data>
+    </node>
+    <node id="A_C:122546009">
+      <data key="d0">concept</data>
+      <data key="d2">122546009</data>
+      <data key="d1">stretching procedure (procedure)</data>
+    </node>
+    <node id="A_E:sciatic nerve">
+      <data key="d0">entity</data>
+      <data key="d1">sciatic nerve</data>
+    </node>
+    <node id="A_C:41519007">
+      <data key="d0">concept</data>
+      <data key="d2">41519007</data>
+      <data key="d1">structure of sciatic nerve (body structure)</data>
+    </node>
+    <node id="A_E:options">
+      <data key="d0">entity</data>
+      <data key="d1">options</data>
+    </node>
+    <node id="A_C:223487003">
+      <data key="d0">concept</data>
+      <data key="d2">223487003</data>
+      <data key="d1">discussion about options (procedure)</data>
+    </node>
+    <node id="A_E:correct">
+      <data key="d0">entity</data>
+      <data key="d1">correct</data>
+    </node>
+    <node id="A_C:152352009">
+      <data key="d0">concept</data>
+      <data key="d2">152352009</data>
+      <data key="d1">patient dob ? correct</data>
+    </node>
+    <node id="A_C:36456004">
+      <data key="d0">concept</data>
+      <data key="d2">36456004</data>
+      <data key="d1">mental state finding (finding)</data>
+    </node>
+    <node id="A_C:122465003">
+      <data key="d0">concept</data>
+      <data key="d2">122465003</data>
+      <data key="d1">reconstruction procedure (procedure)</data>
+    </node>
+    <node id="A_C:255203001">
+      <data key="d0">concept</data>
+      <data key="d2">255203001</data>
+      <data key="d1">additional values (qualifier value)</data>
+    </node>
+    <node id="A_C:288542006">
+      <data key="d0">concept</data>
+      <data key="d2">288542006</data>
+      <data key="d1">using verbal communication (qualifier value)</data>
+    </node>
+    <node id="A_C:223482009">
+      <data key="d0">concept</data>
+      <data key="d2">223482009</data>
+      <data key="d1">discussion (procedure)</data>
+    </node>
+    <node id="A_C:38866009">
+      <data key="d0">concept</data>
+      <data key="d2">38866009</data>
+      <data key="d1">body part structure (body structure)</data>
+    </node>
+    <node id="A_C:36433008">
+      <data key="d0">concept</data>
+      <data key="d2">36433008</data>
+      <data key="d1">hip examination (procedure)</data>
+    </node>
+    <node id="A_C:787050004">
+      <data key="d0">concept</data>
+      <data key="d2">787050004</data>
+      <data key="d1">structure of joint region of lower extremity (body structure)</data>
+    </node>
+    <node id="A_C:277132007">
+      <data key="d0">concept</data>
+      <data key="d2">277132007</data>
+      <data key="d1">therapeutic procedure (procedure)</data>
+    </node>
+    <node id="A_C:787469003">
+      <data key="d0">concept</data>
+      <data key="d2">787469003</data>
+      <data key="d1">structure of soft tissue of thigh (body structure)</data>
+    </node>
+    <node id="A_C:272142003">
+      <data key="d0">concept</data>
+      <data key="d2">272142003</data>
+      <data key="d1">extensiveness (qualifier value)</data>
+    </node>
+    <node id="A_C:123955006">
+      <data key="d0">concept</data>
+      <data key="d2">123955006</data>
+      <data key="d1">thigh part (body structure)</data>
+    </node>
+    <node id="A_C:120575009">
+      <data key="d0">concept</data>
+      <data key="d2">120575009</data>
+      <data key="d1">lower extremity part (body structure)</data>
+    </node>
+    <node id="A_C:361395007">
+      <data key="d0">concept</data>
+      <data key="d2">361395007</data>
+      <data key="d1">nerve of sacral plexus distribution (body structure)</data>
+    </node>
+    <node id="A_C:129182005">
+      <data key="d0">concept</data>
+      <data key="d2">129182005</data>
+      <data key="d1">procedure on joint of lower extremity (procedure)</data>
+    </node>
+    <node id="A_C:75382007">
+      <data key="d0">concept</data>
+      <data key="d2">75382007</data>
+      <data key="d1">differentiated vocalization (function)</data>
+    </node>
+    <node id="A_C:284400003">
+      <data key="d0">concept</data>
+      <data key="d2">284400003</data>
+      <data key="d1">examination of hip joint (procedure)</data>
+    </node>
+    <node id="A_C:261324000">
+      <data key="d0">concept</data>
+      <data key="d2">261324000</data>
+      <data key="d1">vehicle (physical object)</data>
+    </node>
+    <node id="A_C:62397004">
+      <data key="d0">concept</data>
+      <data key="d2">62397004</data>
+      <data key="d1">sacral plexus structure (body structure)</data>
+    </node>
+    <node id="A_C:49062001">
+      <data key="d0">concept</data>
+      <data key="d2">49062001</data>
+      <data key="d1">device (physical object)</data>
+    </node>
+    <node id="A_C:118711008">
+      <data key="d0">concept</data>
+      <data key="d2">118711008</data>
+      <data key="d1">procedure on hip (procedure)</data>
+    </node>
+    <node id="A_C:260787004">
+      <data key="d0">concept</data>
+      <data key="d2">260787004</data>
+      <data key="d1">physical object (physical object)</data>
+    </node>
+    <node id="A_C:43272002">
+      <data key="d0">concept</data>
+      <data key="d2">43272002</data>
+      <data key="d1">communicating (qualifier value)</data>
+    </node>
+    <node id="A_C:116367006">
+      <data key="d0">concept</data>
+      <data key="d2">116367006</data>
+      <data key="d1">psychological finding (finding)</data>
+    </node>
+    <node id="A_C:112697007">
+      <data key="d0">concept</data>
+      <data key="d2">112697007</data>
+      <data key="d1">operation on musculoskeletal system (procedure)</data>
+    </node>
+    <node id="A_C:225217007">
+      <data key="d0">concept</data>
+      <data key="d2">225217007</data>
+      <data key="d1">psychodynamic and supportive psychotherapeutic interventions (procedure)</data>
+    </node>
+    <node id="A_C:119270007">
+      <data key="d0">concept</data>
+      <data key="d2">119270007</data>
+      <data key="d1">management procedure (procedure)</data>
+    </node>
+    <node id="A_C:285835004">
+      <data key="d0">concept</data>
+      <data key="d2">285835004</data>
+      <data key="d1">use of language (qualifier value)</data>
+    </node>
+    <node id="A_C:229315006">
+      <data key="d0">concept</data>
+      <data key="d2">229315006</data>
+      <data key="d1">manual therapy (procedure)</data>
+    </node>
+    <node id="A_C:314745007">
+      <data key="d0">concept</data>
+      <data key="d2">314745007</data>
+      <data key="d1">sciatic nerve and its branches (body structure)</data>
+    </node>
+    <node id="A_C:122464004">
+      <data key="d0">concept</data>
+      <data key="d2">122464004</data>
+      <data key="d1">augmentation procedure (procedure)</data>
+    </node>
+    <node id="A_C:71388002">
+      <data key="d0">concept</data>
+      <data key="d2">71388002</data>
+      <data key="d1">procedure (procedure)</data>
+    </node>
+    <node id="A_C:303102005">
+      <data key="d0">concept</data>
+      <data key="d2">303102005</data>
+      <data key="d1">special disorder atoms (qualifier value)</data>
+    </node>
+    <node id="A_C:284393006">
+      <data key="d0">concept</data>
+      <data key="d2">284393006</data>
+      <data key="d1">examination of joint (procedure)</data>
+    </node>
+    <node id="A_C:118749007">
+      <data key="d0">concept</data>
+      <data key="d2">118749007</data>
+      <data key="d1">procedure on hip joint (procedure)</data>
+    </node>
+    <node id="A_C:1148960009">
+      <data key="d0">concept</data>
+      <data key="d2">1148960009</data>
+      <data key="d1">communication function (observable entity)</data>
+    </node>
+    <node id="A_C:118666003">
+      <data key="d0">concept</data>
+      <data key="d2">118666003</data>
+      <data key="d1">procedure on musculoskeletal system (procedure)</data>
+    </node>
+    <node id="A_C:128927009">
+      <data key="d0">concept</data>
+      <data key="d2">128927009</data>
+      <data key="d1">procedure by method (procedure)</data>
+    </node>
+    <node id="A_C:387713003">
+      <data key="d0">concept</data>
+      <data key="d2">387713003</data>
+      <data key="d1">surgical procedure (procedure)</data>
+    </node>
+    <node id="A_C:118699001">
+      <data key="d0">concept</data>
+      <data key="d2">118699001</data>
+      <data key="d1">procedure on pelvis (procedure)</data>
+    </node>
+    <node id="A_C:785818007">
+      <data key="d0">concept</data>
+      <data key="d2">785818007</data>
+      <data key="d1">structure of joint region (body structure)</data>
+    </node>
+    <node id="A_C:19207007">
+      <data key="d0">concept</data>
+      <data key="d2">19207007</data>
+      <data key="d1">manipulation (procedure)</data>
+    </node>
+    <node id="A_C:120573002">
+      <data key="d0">concept</data>
+      <data key="d2">120573002</data>
+      <data key="d1">extremity part (body structure)</data>
+    </node>
+    <node id="A_C:280350004">
+      <data key="d0">concept</data>
+      <data key="d2">280350004</data>
+      <data key="d1">branch of sacral plexus (body structure)</data>
+    </node>
+    <node id="A_C:247619007">
+      <data key="d0">concept</data>
+      <data key="d2">247619007</data>
+      <data key="d1">thought finding (finding)</data>
+    </node>
+    <node id="A_C:384821006">
+      <data key="d0">concept</data>
+      <data key="d2">384821006</data>
+      <data key="d1">mental state, behavior and/or psychosocial function finding (finding)</data>
+    </node>
+    <node id="A_C:48692003">
+      <data key="d0">concept</data>
+      <data key="d2">48692003</data>
+      <data key="d1">surgical procedure (procedure)</data>
+    </node>
+    <node id="A_C:91251008">
+      <data key="d0">concept</data>
+      <data key="d2">91251008</data>
+      <data key="d1">physical therapy procedure (regime/therapy)</data>
+    </node>
+    <node id="A_C:271595008">
+      <data key="d0">concept</data>
+      <data key="d2">271595008</data>
+      <data key="d1">mental state, behavior and/or psychosocial function finding (finding)</data>
+    </node>
+    <node id="A_C:43914001">
+      <data key="d0">concept</data>
+      <data key="d2">43914001</data>
+      <data key="d1">laryngeal voice function (function)</data>
+    </node>
+    <node id="A_C:36030000">
+      <data key="d0">concept</data>
+      <data key="d2">36030000</data>
+      <data key="d1">transport vehicle, device (physical object)</data>
+    </node>
+    <node id="A_C:244476009">
+      <data key="d0">concept</data>
+      <data key="d2">244476009</data>
+      <data key="d1">peripheral nerve of lower limb (body structure)</data>
+    </node>
+    <node id="A_C:66019005">
+      <data key="d0">concept</data>
+      <data key="d2">66019005</data>
+      <data key="d1">limb structure (body structure)</data>
+    </node>
+    <node id="A_C:67328008">
+      <data key="d0">concept</data>
+      <data key="d2">67328008</data>
+      <data key="d1">structure of soft tissues of lower extremity (body structure)</data>
+    </node>
+    <node id="A_C:360300001">
+      <data key="d0">concept</data>
+      <data key="d2">360300001</data>
+      <data key="d1">transport (physical object)</data>
+    </node>
+    <node id="A_C:127951001">
+      <data key="d0">concept</data>
+      <data key="d2">127951001</data>
+      <data key="d1">region of lower extremity (body structure)</data>
+    </node>
+    <node id="A_C:416631005">
+      <data key="d0">concept</data>
+      <data key="d2">416631005</data>
+      <data key="d1">pelvis and/or lower extremety structure (body structure)</data>
+    </node>
+    <node id="A_C:699617006">
+      <data key="d0">concept</data>
+      <data key="d2">699617006</data>
+      <data key="d1">structure of free lower limb (body structure)</data>
+    </node>
+    <node id="A_C:84782009">
+      <data key="d0">concept</data>
+      <data key="d2">84782009</data>
+      <data key="d1">peripheral nerve structure (body structure)</data>
+    </node>
+    <node id="A_C:68367000">
+      <data key="d0">concept</data>
+      <data key="d2">68367000</data>
+      <data key="d1">thigh structure (body structure)</data>
+    </node>
+    <node id="A_C:282259008">
+      <data key="d0">concept</data>
+      <data key="d2">282259008</data>
+      <data key="d1">psychotherapeutic, behavioral and communication procedures (procedure)</data>
+    </node>
+    <node id="A_C:373930000">
+      <data key="d0">concept</data>
+      <data key="d2">373930000</data>
+      <data key="d1">cognitive function finding (finding)</data>
+    </node>
+    <node id="A_C:302773001">
+      <data key="d0">concept</data>
+      <data key="d2">302773001</data>
+      <data key="d1">examination of limb (procedure)</data>
+    </node>
+    <node id="A_C:314747004">
+      <data key="d0">concept</data>
+      <data key="d2">314747004</data>
+      <data key="d1">branch of sacral plexus to lower limb (body structure)</data>
+    </node>
+    <node id="A_C:69548008">
+      <data key="d0">concept</data>
+      <data key="d2">69548008</data>
+      <data key="d1">lower body part structure (body structure)</data>
+    </node>
+    <node id="A_C:1231522001">
+      <data key="d0">concept</data>
+      <data key="d2">1231522001</data>
+      <data key="d1">structure of pelvic cross-sectional segment of trunk and/or lower limb (body structure)</data>
+    </node>
+    <node id="A_C:415825004">
+      <data key="d0">concept</data>
+      <data key="d2">415825004</data>
+      <data key="d1">vocal function (observable entity)</data>
+    </node>
+    <node id="A_C:128263001">
+      <data key="d0">concept</data>
+      <data key="d2">128263001</data>
+      <data key="d1">lower body structure (body structure)</data>
+    </node>
+    <node id="A_C:362981000">
+      <data key="d0">concept</data>
+      <data key="d2">362981000</data>
+      <data key="d1">qualifier value (qualifier value)</data>
+    </node>
+    <node id="A_C:415826003">
+      <data key="d0">concept</data>
+      <data key="d2">415826003</data>
+      <data key="d1">vocalizing (observable entity)</data>
+    </node>
+    <node id="A_C:119260005">
+      <data key="d0">concept</data>
+      <data key="d2">119260005</data>
+      <data key="d1">lower extremity nerve (body structure)</data>
+    </node>
+    <node id="A_C:255590007">
+      <data key="d0">concept</data>
+      <data key="d2">255590007</data>
+      <data key="d1">extents (qualifier value)</data>
+    </node>
+    <node id="A_C:4365001">
+      <data key="d0">concept</data>
+      <data key="d2">4365001</data>
+      <data key="d1">surgical repair (procedure)</data>
+    </node>
+    <node id="A_C:79466001">
+      <data key="d0">concept</data>
+      <data key="d2">79466001</data>
+      <data key="d1">vocal resonance (qualifier value)</data>
+    </node>
+    <node id="A_C:116319001">
+      <data key="d0">concept</data>
+      <data key="d2">116319001</data>
+      <data key="d1">physical examination maneuver related to lower extremity (procedure)</data>
+    </node>
+    <node id="A_C:4605009">
+      <data key="d0">concept</data>
+      <data key="d2">4605009</data>
+      <data key="d1">cerebral function (function)</data>
+    </node>
+    <edge source="A_S0" target="A_E:case">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="A_S0" target="A_E:speaking">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="A_S0" target="A_E:reappearance">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="A_S0" target="A_E:symptoms">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="A_S0" target="A_E:lift">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="A_S0" target="A_E:lower limb">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="A_S0" target="A_E:knee">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="A_S0" target="A_E:extended">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="A_S0" target="A_E:maneuver">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="A_S1" target="A_E:maneuver">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="A_S1" target="A_E:positive">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="A_S1" target="A_E:cases">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="A_S1" target="A_E:stretching">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="A_S1" target="A_E:sciatic nerve">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="A_S1" target="A_E:correct">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="A_S2" target="A_E:maneuver">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="A_S2" target="A_E:positive">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="A_S2" target="A_E:options">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="A_S2" target="A_E:correct">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="A_E:case" target="A_C:398241000">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="A_C:398241000" target="A_C:255203001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_E:speaking" target="A_C:87335007">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="A_C:87335007" target="A_C:75382007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:87335007" target="A_C:285835004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:87335007" target="A_C:43914001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_E:reappearance" target="A_C:225447006">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="A_C:225447006" target="A_C:247619007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:225447006" target="A_C:36456004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_E:symptoms" target="A_C:139552004">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="A_E:lift" target="A_C:360304005">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="A_C:360304005" target="A_C:49062001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:360304005" target="A_C:36030000">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:360304005" target="A_C:360300001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_E:lower limb" target="A_C:61685007">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="A_C:61685007" target="A_C:66019005">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:61685007" target="A_C:416631005">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:61685007" target="A_C:69548008">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:61685007" target="A_C:1231522001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_E:knee" target="A_C:72696002">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="A_C:72696002" target="A_C:120575009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:72696002" target="A_C:699617006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:72696002" target="A_C:787050004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_E:extended" target="A_C:288467006">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="A_C:288467006" target="A_C:272142003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_E:maneuver" target="A_C:116320007">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="A_C:116320007" target="A_C:116319001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:116320007" target="A_C:284400003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:116320007" target="A_C:118749007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_E:positive" target="A_C:393474000">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="A_E:cases" target="A_C:398241000">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="A_E:stretching" target="A_C:122546009">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="A_C:122546009" target="A_C:122464004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:122546009" target="A_C:229315006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:122546009" target="A_C:112697007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:122546009" target="A_C:128927009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:122546009" target="A_C:19207007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_E:sciatic nerve" target="A_C:41519007">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="A_C:41519007" target="A_C:314745007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:41519007" target="A_C:119260005">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:41519007" target="A_C:123955006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:41519007" target="A_C:280350004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:41519007" target="A_C:68367000">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:41519007" target="A_C:314747004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:41519007" target="A_C:787469003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_E:options" target="A_C:223487003">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="A_C:223487003" target="A_C:223482009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_E:correct" target="A_C:152352009">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="A_C:36456004" target="A_C:116367006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:36456004" target="A_C:271595008">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:36456004" target="A_C:384821006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:122465003" target="A_C:4365001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:255203001" target="A_C:362981000">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:223482009" target="A_C:225217007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:223482009" target="A_C:128927009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:223482009" target="A_C:119270007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:223482009" target="A_C:282259008">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:36433008" target="A_C:302773001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:36433008" target="A_C:118711008">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:787050004" target="A_C:785818007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:787469003" target="A_C:67328008">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:787469003" target="A_C:123955006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:272142003" target="A_C:303102005">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:272142003" target="A_C:255590007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:123955006" target="A_C:68367000">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:120575009" target="A_C:120573002">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:120575009" target="A_C:69548008">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:120575009" target="A_C:61685007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:361395007" target="A_C:84782009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:75382007" target="A_C:79466001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:75382007" target="A_C:415825004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:75382007" target="A_C:415826003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:284400003" target="A_C:284393006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:284400003" target="A_C:118749007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:284400003" target="A_C:302773001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:284400003" target="A_C:36433008">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:261324000" target="A_C:49062001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:261324000" target="A_C:260787004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:49062001" target="A_C:260787004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:118711008" target="A_C:118699001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:112697007" target="A_C:118666003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:112697007" target="A_C:48692003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:112697007" target="A_C:387713003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:112697007" target="A_C:128927009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:225217007" target="A_C:282259008">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:119270007" target="A_C:71388002">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:119270007" target="A_C:128927009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:285835004" target="A_C:288542006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:285835004" target="A_C:43272002">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:285835004" target="A_C:4605009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:285835004" target="A_C:1148960009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:229315006" target="A_C:91251008">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:314745007" target="A_C:314747004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:122464004" target="A_C:4365001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:122464004" target="A_C:122465003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:122464004" target="A_C:128927009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:118749007" target="A_C:129182005">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:118749007" target="A_C:118711008">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:118749007" target="A_C:118699001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:128927009" target="A_C:71388002">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:387713003" target="A_C:128927009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:387713003" target="A_C:71388002">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:19207007" target="A_C:277132007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:19207007" target="A_C:128927009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:19207007" target="A_C:71388002">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:120573002" target="A_C:66019005">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:280350004" target="A_C:62397004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:280350004" target="A_C:361395007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:247619007" target="A_C:36456004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:247619007" target="A_C:373930000">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:384821006" target="A_C:116367006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:48692003" target="A_C:128927009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:43914001" target="A_C:79466001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:43914001" target="A_C:415825004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:36030000" target="A_C:261324000">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:36030000" target="A_C:360300001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:244476009" target="A_C:67328008">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:66019005" target="A_C:38866009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:67328008" target="A_C:61685007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:67328008" target="A_C:120575009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:360300001" target="A_C:260787004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:127951001" target="A_C:61685007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:127951001" target="A_C:120575009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:416631005" target="A_C:69548008">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:699617006" target="A_C:127951001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:68367000" target="A_C:120575009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:68367000" target="A_C:699617006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:373930000" target="A_C:36456004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:373930000" target="A_C:384821006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:314747004" target="A_C:244476009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:314747004" target="A_C:280350004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:69548008" target="A_C:128263001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:1231522001" target="A_C:69548008">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:415825004" target="A_C:1148960009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:128263001" target="A_C:38866009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:119260005" target="A_C:84782009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:119260005" target="A_C:61685007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:4365001" target="A_C:48692003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:4365001" target="A_C:387713003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:4365001" target="A_C:128927009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="A_C:116319001" target="A_C:118666003">
+      <data key="d3">is_a</data>
+    </edge>
+  </graph>
+</graphml>

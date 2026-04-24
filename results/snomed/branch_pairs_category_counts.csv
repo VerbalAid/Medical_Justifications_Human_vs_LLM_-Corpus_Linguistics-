@@ -1,0 +1,19 @@
+category,total_pairs,n_a_deeper,n_b_deeper,n_equal_depth,pct_a_deeper,pct_b_deeper,pct_equal_depth
+SNOMED root,622818,279990,298566,44262,44.96,47.94,7.11
+Clinical finding,116680,61020,46802,8858,52.3,40.11,7.59
+Other or unclassified,60158,22664,23647,13847,37.67,39.31,23.02
+Special concept,41316,20601,18395,2320,49.86,44.52,5.62
+Procedure,9299,4327,4305,667,46.53,46.3,7.17
+Body structure,6669,2405,3848,416,36.06,57.7,6.24
+Substance,6072,2752,3059,261,45.32,50.38,4.3
+Observable entity,4030,1688,1828,514,41.89,45.36,12.75
+Pharmaceutical / biologic product,2489,938,1180,371,37.69,47.41,14.91
+Morphologically abnormal structure,2332,963,954,415,41.3,40.91,17.8
+Physical force,286,143,106,37,50.0,37.06,12.94
+Situation with explicit context,207,103,88,16,49.76,42.51,7.73
+Organism,122,48,54,20,39.34,44.26,16.39
+Social context,111,41,47,23,36.94,42.34,20.72
+Environment or geographical location,14,2,11,1,14.29,78.57,7.14
+Event,13,13,0,0,100.0,0.0,0.0
+Specimen,3,0,3,0,0.0,100.0,0.0
+ALL,872619,397698,402893,72028,45.58,46.17,8.25

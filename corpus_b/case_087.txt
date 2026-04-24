@@ -1,0 +1,7 @@
+Given the history of splenectomy and a dog bite causing a wound, the risk of bacterial infections, particularly tetanus and rabies, is heightened. While antibiotics may be considered, the priority should be vaccination against rabies due to the potential for fatal encephalitis. Tetanus toxoid is also important but secondary, as tetanus signs usually present later (>7 days post-injury) and are characterized by stiffness and spasms rather than fever and pain, as in this case.
+
+Therefore, the most indicated action would be:
+
+1- Send to hospital for rabies and tetanus vaccination and keep under observation.
+
+Additionally, if available, tetanus prophylaxis should be considered, but it is not the immediate priority

@@ -1,0 +1,6 @@
+The number needed to treat (NNT) to prevent embolic stroke with anticoagulation therapy in this 86-year-old woman with a CHADS2 score of 3 points, given that similar patients on warfarin therapy have a stroke risk of 2.2% versus 5.2% in patients without warfarin, can be calculated as follows:
+
+1. The risk difference between the treated and untreated group is 5.2% - 2.2% = 3%.
+2. Inverse the risk difference to find the NNT, 1/3% = 33.33 (rounded to 33).
+
+Therefore, the NNT for this patient is approximately 33, option 3. This means that for every 33 patients with similar characteristics treated with

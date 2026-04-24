@@ -1,0 +1,7 @@
+The patient's rapid onset of dyspnea, syncope, and hypotension, coupled with poor perfusion, suggest a catastrophic event affecting the pulmonary circulation, as evidenced by the echocardiogram showing pulmonary hypertension and the angio-CT demonstrating multiple occlusions in the main pulmonary arteries. This strongly suggests a thromboembolic event, most likely pulmonary thromboembolism (PTE).
+
+Thrombolytic therapy, such as systemic fibrinolysis with rt-PA (alteplase), would be the most appropriate treatment to rapidly address the acute hemodynamic instability in this case. By dissolving the obstructing thrombi, alteplase can improve pulmonary blood flow and alleviate the resulting hypotension and hypoxemia.
+
+Alternatively, intravenous sodium heparin can be administered to prevent further thrombus formation, but it would not provide the rapid hemodynamic improvement that is needed in this critical situation. Thromboendarterectomy, while a potential treatment option for chronic thromboembolic pulmonary hypertension (CTEPH), would be inappropriate in the acute phase of PTE. An inferior vena cava filter would not address the pulmonary artery occlusions and is not indicated in this case.
+
+Thus, systemic fibrinolysis with rt-PA (alteplase) is the most likely treatment to result in the most rapid hemodynamic improvement in this patient with severe acute pulmonary thromboembolism.

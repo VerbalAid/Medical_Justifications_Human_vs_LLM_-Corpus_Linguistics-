@@ -1,0 +1,7 @@
+Based on the vignette, the patient presents with petechiae and ecchymosis, as well as thrombocytopenia (platelet count 7000/mm3) without other obvious causes, such as infection or disseminated intravascular coagulation. This suggests an autoimmune etiology, such as ITP (Idiopathic Thrombocytopenic Purpura).
+
+Therefore, initial treatment should likely be:
+
+5- Prednisone at 1 mg/day for 2-3 weeks (a common first-line treatment for ITP).
+
+Although other options like rituximab and cyclophosphamide may be considered for refractory or severe cases, they are generally reserved for patients who do not respond to corticosteroids or

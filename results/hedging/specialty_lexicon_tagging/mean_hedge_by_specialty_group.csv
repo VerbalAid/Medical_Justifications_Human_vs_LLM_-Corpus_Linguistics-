@@ -1,0 +1,17 @@
+medical_area,n_cases,A_mean_per_1000,B_mean_per_1000,mean_delta_B_minus_A,A_tokens_sum,B_tokens_sum
+General medicine (no clear lexical match),47,22.1526,35.7229,13.5703,3836,5887
+Obstetrics & gynaecology,7,0.0,39.1733,39.1733,579,866
+Nephrology & urology,7,19.9475,30.2414,10.2939,588,786
+Respiratory medicine,7,28.7524,51.3729,22.6205,722,955
+Orthopaedics & trauma,6,12.2131,37.5883,25.3752,836,1016
+Gastroenterology & hepatology,6,23.1831,30.5388,7.3557,349,584
+Cardiovascular medicine,6,14.0108,43.8432,29.8324,443,655
+Multi-specialty stem (tied lexical scores),6,25.53,46.451,20.921,431,763
+Endocrinology & metabolic medicine,5,36.1051,41.8188,5.7137,453,611
+Haematology & coagulation,5,4.3267,39.8097,35.4829,533,726
+Clinical oncology,5,4.3478,31.6635,27.3156,205,541
+Infectious diseases,3,37.4411,15.3362,-22.105,392,527
+Rheumatology & musculoskeletal medicine,2,20.0,47.619,27.619,85,189
+Dermatology,2,22.5572,27.2624,4.7052,131,189
+Neurology,2,26.1301,34.7608,8.6307,312,367
+Psychiatry & psychological medicine,1,0.0,35.2941,35.2941,114,170

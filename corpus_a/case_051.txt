@@ -1,0 +1,3 @@
+BI-RADS Breast Imaging Reporting and Data System.
+
+BI-RADS 3 is defined by answer 3.

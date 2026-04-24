@@ -1,0 +1,9 @@
+Based on the clinical presentation of a 15-year-old female with delayed menarche and short stature, without intellectual disability, the most likely underlying genetic condition is not associated with a known chromosomal abnormality, making a karyotype (option 4) less likely. While it can be useful for identifying gross chromosomal abnormalities, it may not be sensitive enough to detect subtle genetic alterations or microdeletions/duplications that could be contributing to this patient's symptoms.
+
+FISH (option 2) is a cytogenetic technique that can identify specific chromosomal abnormalities. However, it is limited in its ability to detect small deletions or duplications, making it less suitable for this case.
+
+DNA and/or RNA microarrays (option 3) can detect copy number variations (CNVs) and are useful for identifying genetic changes associated with a wide range of genetic disorders. While they can be valuable in diagnosing conditions causing delayed menarche and short stature, they may not be the first-line test due to their complexity, cost, and the need for specialized equipment and expertise.
+
+Massive sequencing (NGS; option 1) is a powerful technique for identifying genetic variations. It can detect single nucleotide variants, indels, and copy number variations, making it highly sensitive and specific. Given the patient's presentation, an NGS panel focusing on genes known to be associated with delayed menarche and short stature would be the most appropriate first-line test.
+
+If NGS does not reveal a definit

@@ -1,0 +1,22 @@
+{
+  "n_cases": 40,
+  "hedge_per_1000": {
+    "A": 20.65778744223974,
+    "B_keyed": 37.56884343036979,
+    "B_unkeyed": 38.46912606036694,
+    "delta_unkeyed_minus_keyed": 0.9002826299971503
+  },
+  "most_likely_per_1000": {
+    "A": 0.5436259853220984,
+    "B_keyed": 2.5570416994492526,
+    "B_unkeyed": 2.959163543105149,
+    "delta_unkeyed_minus_keyed": 0.4021218436558964
+  },
+  "mean_snomed_depth_shared_entities": {
+    "A_on_triple": 8.839622641509434,
+    "B_keyed_on_triple": 8.839622641509434,
+    "B_unkeyed_on_triple": 8.839622641509434,
+    "delta_unkeyed_minus_keyed_B": 0.0,
+    "n_entities_triple_intersection": 106
+  }
+}

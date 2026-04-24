@@ -1,0 +1,412 @@
+entity,snomed_concept,depth_a,depth_b,depth_diff
+abdomen,113345001,12,12,0
+abortion,70317007,16,16,0
+absence,418560003,4,4,0
+absences,248227006,11,11,0
+absent,2667000,6,6,0
+absolute,56136002,6,6,0
+accumulation,87862008,14,14,0
+accurate,263656005,5,5,0
+acth,40789008,19,19,0
+action,129264002,4,4,0
+activation,33230000,11,11,0
+acute,53737009,6,6,0
+adequate,88323005,6,6,0
+adh,77671006,17,17,0
+administering,714418004,11,11,0
+affected,247591002,6,6,0
+afferent,49530007,6,6,0
+age,102518004,7,7,0
+agonists,223063008,11,11,0
+albuminuria,29738008,11,11,0
+aldosterone,42605004,18,18,0
+alleviate,225353007,5,5,0
+allogeneic bone marrow transplantation,58390007,11,11,0
+allopurinol,25246002,7,7,0
+als,739123003,12,12,0
+alzheimer's disease,26929004,12,12,0
+ama,416413003,12,12,0
+amd,237967002,13,13,0
+amoxicillin,27658006,10,10,0
+analysis,272389005,6,6,0
+androgens,346324007,6,6,0
+animals,387961004,5,5,0
+antibiotic therapy,281789004,9,9,0
+antibody,68498002,17,17,0
+anxiety,38237000,9,9,0
+area,42798000,6,6,0
+arterial,263954005,7,7,0
+arterial hypertension,39018007,14,14,0
+arthritis,3723001,10,10,0
+aspergillus,2429008,12,12,0
+aspiration,68052005,9,9,0
+aspirin,7947003,16,16,0
+assessing,1069811000000104,8,8,0
+associated with,47429007,6,6,0
+association,263534001,4,4,0
+asymptomatic,84387000,8,8,0
+attack,216299002,4,4,0
+attitude,225464009,6,6,0
+atypical,112231000,6,6,0
+autoimmune disease,85828009,7,7,0
+autoimmune hemolytic anemia,25121006,18,18,0
+azithromycin,96034006,7,7,0
+bacteria,41146007,6,6,0
+bacterial meningitis,95883001,11,11,0
+basal,57195005,6,6,0
+benign,30807003,6,6,0
+bicarbonate,68615006,15,15,0
+bilateral,51440002,7,7,0
+biopsy,86273004,11,11,0
+birefringence,250532000,3,3,0
+blood,87612001,14,14,0
+blood flow,58190003,8,8,0
+blood pressure,75367002,8,8,0
+body image,405045001,7,7,0
+bone age,123980006,8,8,0
+brain,12738006,14,14,0
+bronchiolitis,4120002,16,16,0
+c5,59397002,7,7,0
+cap,228254002,6,6,0
+carrier,29679002,6,6,0
+case,398241000,3,3,0
+cases,398241000,3,3,0
+cerebral blood flow,250847003,7,7,0
+cerebral edema,2032001,9,9,0
+cerebrospinal fluid,65216001,13,13,0
+cervix,71252005,25,25,0
+cesarean section,11466000,20,20,0
+characteristics,246196007,6,6,0
+characterized,373673007,10,10,0
+chest,51185008,11,11,0
+choice,408855004,4,4,0
+clinical,58147004,6,6,0
+closed,29179001,6,6,0
+collagen,61472002,16,16,0
+collagenous colitis,19311003,15,15,0
+colon cancer,31001000119109,14,14,0
+confirmation,248992004,12,12,0
+conization,108941000119102,7,7,0
+conjunctival injection,425223000,11,11,0
+consistent with,7883008,3,3,0
+contact with,11723008,4,4,0
+contents,276824008,5,5,0
+contraindicated,410536001,5,5,0
+controls,285943005,10,10,0
+corticosteroids,79440004,6,6,0
+cortisol,56423005,19,19,0
+cough,49727002,6,6,0
+course,260908002,5,5,0
+crisis,32937002,5,5,0
+criteria,717350000,3,3,0
+crp,61425002,17,17,0
+crystals,250448002,12,12,0
+ct scan,129679001,10,10,0
+cyclophosphamide,74470007,10,10,0
+damage,37782003,5,5,0
+days,258703001,5,5,0
+debridement,36777000,6,6,0
+decline,154091000119106,4,4,0
+decrease,260370003,5,5,0
+decreased,1250004,7,7,0
+deformity,6081001,5,5,0
+delivery,66348005,8,8,0
+dementia,52448006,9,9,0
+deposition,46595003,5,5,0
+depression,41006004,9,9,0
+detect,397592007,6,6,0
+development,103378002,3,3,0
+develops,370789001,7,7,0
+dexamethasone,116568000,19,19,0
+diagnose,1382104006,6,6,0
+diagnosed,405749004,13,13,0
+diagnosis,439401001,3,3,0
+diagnostic laparoscopy,76735009,17,17,0
+dialysis,1231460007,3,3,0
+diarrhea,62315008,12,12,0
+disease,64572001,2,2,0
+distal,46053002,6,6,0
+distal radius,75129005,20,20,0
+distortion,20967005,6,6,0
+dose,408102007,4,4,0
+doses,426519003,6,6,0
+drusen,18695008,5,5,0
+dry,13880007,6,6,0
+duration,103335007,5,5,0
+e. coli,112283007,14,14,0
+edema,79654002,6,6,0
+eeg,54550000,11,11,0
+effect,253861007,4,4,0
+effusion,41699000,6,6,0
+elderly,105437002,7,7,0
+elevated,75540009,8,8,0
+elevation,103720008,5,5,0
+empyema,66696003,8,8,0
+endometrial cytology,468999002,9,9,0
+enophthalmos,80093006,12,12,0
+eosinophilic esophagitis,235599003,13,13,0
+episodes,272128006,7,7,0
+er,33761008,8,8,0
+erosion,15498001,7,7,0
+escherichia coli,112283007,14,14,0
+esr,165466008,10,10,0
+estradiol,126172005,17,17,0
+etiology,134198009,5,5,0
+evaluation,122503006,5,5,0
+evolution,5088004,15,15,0
+extended,288467006,6,6,0
+extension,255536004,6,6,0
+external fixator,278280003,10,10,0
+exudative,255305006,6,6,0
+face,89545001,13,13,0
+failure,76797004,6,6,0
+false,64100000,7,7,0
+features,248185005,9,9,0
+fever,248425001,9,9,0
+finding,246188002,1,1,0
+fio2,250774007,7,7,0
+fish,90580008,8,8,0
+fixation,1431002,4,4,0
+floor,709280007,2,2,0
+fluid,33463005,3,3,0
+fna,257759008,11,11,0
+follow-up,308273005,3,3,0
+frequency,260864003,5,5,0
+frequent,70232002,6,6,0
+functional,40143009,6,6,0
+gabapentin,108402001,7,7,0
+giant cell arteritis,155442004,12,12,0
+girl,431549007,9,9,0
+glomerulonephritis,36171008,15,15,0
+goiter,3716002,11,11,0
+granulomatosis,44328006,9,9,0
+griseofulvin,64349004,10,10,0
+half-life,304283002,7,7,0
+halo sign,29851005,14,14,0
+hcg,59433001,19,19,0
+hemodynamic,422773005,4,4,0
+hemodynamic instability,422773005,4,4,0
+her2,427685000,19,19,0
+high,75540009,8,8,0
+history,51042001,5,5,0
+hiv,19030005,12,12,0
+hiv infection,86406008,7,7,0
+hormone receptors,444901007,5,5,0
+hours,258702006,5,5,0
+hypercapnia,29596007,8,8,0
+hypercortisolism,47270006,11,11,0
+hyperkalemia,14140009,11,11,0
+hyperthyroidism,34486009,11,11,0
+hypoventilation,31515003,6,6,0
+hypoxemia,30869003,8,8,0
+idiopathic thrombocytopenic purpura,32273002,18,18,0
+iga myeloma,285420006,22,22,0
+immunocompromised patient,275828002,7,7,0
+impaired,260379002,6,6,0
+incidence,112125007,7,7,0
+incorrect,281267002,10,10,0
+increase,260366006,5,5,0
+increased,35105006,7,7,0
+independence,225346003,9,9,0
+indication,410665000,6,6,0
+indications,424295009,5,5,0
+indomethacin,60149003,9,9,0
+infarction,55641003,7,7,0
+infected,73154007,6,6,0
+inferior vena cava filter,216051000119102,7,7,0
+initial,884001,7,7,0
+initiate,286388005,13,13,0
+injury,19130008,6,6,0
+insufficient,423437008,5,5,0
+insulin,67866001,18,18,0
+intellectual disability,110359009,9,9,0
+intense,248098003,11,11,0
+interventricular septum,589001,25,25,0
+intracellular,83167003,6,6,0
+intracranial pressure,250844005,6,6,0
+intraepithelial,89947002,4,4,0
+intramedullary nail,8451008,11,11,0
+intubation,52765003,6,6,0
+involvement,278112009,6,6,0
+irregular,49608001,6,6,0
+joint,39352004,9,9,0
+juvenile myoclonic epilepsy,6204001,13,13,0
+kawasaki disease,75053002,15,15,0
+knee,72696002,14,14,0
+left,7771000,6,6,0
+lesion,49755003,3,3,0
+leukocytes,275741008,12,12,0
+level,276625007,4,4,0
+levels,258395000,4,4,0
+lifting,258141001,12,12,0
+light chains,414761008,15,15,0
+limb,66019005,7,7,0
+lithium,85899009,11,11,0
+loss of vision,40031005,12,12,0
+low,62482003,6,6,0
+low risk,723505004,5,5,0
+low-dose,51251000112106,9,9,0
+lower limb,61685007,10,10,0
+lower limbs,723158004,12,12,0
+lung,39607008,15,15,0
+lupus,200936003,8,8,0
+lymphocytes,709252005,16,16,0
+lymphocytosis,67023009,13,13,0
+lysis,30750004,6,6,0
+males,74398009,10,10,0
+mammography,71651007,13,13,0
+mass,4147007,5,5,0
+maxilla,70925003,19,19,0
+measure,246445000,4,4,0
+measures,367346004,3,3,0
+metamorphopsia,42134006,13,13,0
+metformin,109081006,9,9,0
+microsatellite instability,443412009,3,3,0
+minutes,258701004,5,5,0
+miscarriage,17369002,17,17,0
+mitral insufficiency,48724000,15,15,0
+moderate,6736007,7,7,0
+months,258706009,5,5,0
+mood,85256008,9,9,0
+morphine,73572009,8,8,0
+mortality,409651001,3,3,0
+mri,113091000,11,11,0
+murmur,88610006,13,13,0
+mutations,722967008,9,9,0
+myoclonus,17450006,10,10,0
+natural,510009,6,6,0
+nature,246425008,4,4,0
+neurogenic claudication,303081002,15,15,0
+neuropathic pain,247398009,12,12,0
+ngs,1366450005,8,8,0
+non-invasive,22762002,6,6,0
+normal,17621005,6,6,0
+nsaid,16403005,8,8,0
+observation,122544007,6,6,0
+ocular,372472002,5,5,0
+older,53201003,10,10,0
+opioids,312060001,6,6,0
+options,223487003,8,8,0
+oral,260548002,7,7,0
+orbit,181143004,16,16,0
+orbital,263826004,7,7,0
+orthosis,224898003,6,6,0
+painful,22253000,9,9,0
+painless,255350008,5,5,0
+pancreas,15776009,18,18,0
+pancytopenia,127034005,15,15,0
+partial,255609007,6,6,0
+patient,116154003,5,5,0
+pattern,255711007,4,4,0
+pelvic movements,229262002,11,11,0
+pericardial effusion,70370001,12,12,0
+pernicious anemia,84027009,17,17,0
+ph,27327002,7,7,0
+physical examination,5880005,8,8,0
+picture,257445002,7,7,0
+pioglitazone,326058001,9,9,0
+plasma,50863008,16,16,0
+plasmapheresis,20720000,14,14,0
+platelets,259727009,6,6,0
+polyangiitis,46956008,12,12,0
+polychromatophilia,52300009,6,6,0
+potassium-sparing diuretic,47755009,6,6,0
+precocious,235246008,5,5,0
+pregnancy,77386006,12,12,0
+pregnant,77386006,12,12,0
+presence,386397008,7,7,0
+pressure,13543005,6,6,0
+prevent,101445003,6,6,0
+primary,63161005,6,6,0
+prognosis,20481000,6,6,0
+prolonged,255224006,6,6,0
+prophylaxis,46167008,5,5,0
+prosthesis,53350007,5,5,0
+puberty,18991001,10,10,0
+puerperium,86569001,13,13,0
+pulmonary contusion,262784001,15,15,0
+pupillary defect,247017005,14,14,0
+ra,12396006,12,12,0
+radicular pain,11679003,16,16,0
+rare,89292003,6,6,0
+reading,50360004,10,10,0
+recurrent infections,1187114007,13,13,0
+refeeding syndrome,427698009,8,8,0
+reiter's syndrome,67224007,18,18,0
+renal crisis,236503001,13,13,0
+respiratory distress,271825005,7,7,0
+rest,258157001,6,6,0
+rhinorrhea,6696001,11,11,0
+risk factor,80943009,3,3,0
+rubella,36653000,15,15,0
+salbutamol,91143003,9,9,0
+schistocytes,726510009,6,6,0
+secretion,35184007,8,8,0
+seizures,407621003,7,7,0
+sensitive,83185005,5,5,0
+sensitivity,35209006,9,9,0
+severe,24484000,7,7,0
+severity,246112005,6,6,0
+short stature,277266007,8,8,0
+skin,39937001,9,9,0
+skin lesions,274949005,13,13,0
+sle,10429004,15,15,0
+small uterus,289624004,13,13,0
+soft drusen,420272005,18,18,0
+spironolactone,13929005,9,9,0
+sporadic,75741005,8,8,0
+stable,58158008,7,7,0
+stage,258214002,5,5,0
+stroke,230690007,13,13,0
+study,224699009,10,10,0
+subacute thyroiditis,38727009,12,12,0
+subepithelial,427987005,15,15,0
+sudden onset,367327000,6,6,0
+suppuration,41034006,7,7,0
+surgery,257556004,5,5,0
+surgical,83578000,6,6,0
+surgical intervention,413239008,9,9,0
+suspected,76053005,8,8,0
+suspicion,706876006,8,8,0
+symptomatic,264931009,5,5,0
+syndrome,64572001,2,2,0
+systemic,31099001,6,6,0
+systemic symptoms,702809001,8,8,0
+systole,111973004,8,8,0
+temporal lobe,78277001,23,23,0
+tests,272393004,6,6,0
+thrombocytopenia,70786006,10,10,0
+ticlopidine,108971003,6,6,0
+tolerance,71412006,7,7,0
+toxicity,75478009,4,4,0
+toxicoderma,95326004,10,10,0
+tp53,1260406003,17,17,0
+treated,28995006,3,3,0
+treatments,386439008,8,8,0
+tsh,65428006,19,19,0
+turner syndrome,38804009,19,19,0
+ultrasound,16310003,11,11,0
+unstable,263922001,6,6,0
+uric acid,1710001,17,17,0
+urinalysis,27171005,12,12,0
+urine,78014005,14,14,0
+ventricular extrasystoles,17338001,15,15,0
+vertical gaze,246773002,12,12,0
+visual disturbances,194656007,12,12,0
+visual loss,40031005,12,12,0
+vitamin b12,259664005,18,18,0
+walking,63448001,17,17,0
+warfarin,48603004,8,8,0
+weeks,258705008,5,5,0
+weight,726527001,4,4,0
+weight gain,8943002,9,9,0
+weight loss,89362005,9,9,0
+wet,17461003,6,6,0
+wet form,39439008,12,12,0
+wiskott-aldrich syndrome,36070007,20,20,0
+woman,224526002,6,6,0
+worsening,230993007,7,7,0
+wound,13924000,8,8,0
+year,258707000,5,5,0
+years,258707000,5,5,0
+young,84422007,6,6,0

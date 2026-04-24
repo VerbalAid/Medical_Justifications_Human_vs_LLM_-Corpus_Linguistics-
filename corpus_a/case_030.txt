@@ -1,0 +1,23 @@
+This question is a bit convoluted for the diagnosis of Cushing's syndrome but easy if the steps are clear.
+
+We all agree that the patient seems to have Cushing's syndrome (we rule out 1).
+
+For the diagnosis we have to measure urinary free cortisol, do a dexamethasone suppression test or measure nocturnal salivary cortisol.
+
+If hypercortisolism is confirmed, the origin should be sought; the ACTH measurement indicates the origin: suppressed in hypercortisolism of adrenal origin or prolonged use of corticoids and elevated or normal if the origin is pituitary or by ectopic ACTH secretion.
+
+(Therefore, 4 and 5 are false).
+
+If ACTH is low, a CT scan of the abdomen should be performed to locate the origin.
+
+If ACTH is normal or high, a pituitary MRI should be performed (pituitary adenomas responsible for Cushing's syndrome are very small and CT of the pituitary is less sensitive than MRI).
+
+It is very important to perform the order well to arrive at a proper diagnosis: 1st: confirm hypercortisolism or s.
+
+Cushing's syndrome, 2nd: measure ACTH to orient etiology.
+
+3rd: imaging test according to ACTH levels.
+
+Therefore, answer 2 is false (abdominal CT is not a test to rule out s. Cushing's); an imaging test should only be done once a clear diagnosis of hypercortisolism has been made.
+
+Therefore, the true one is 3.

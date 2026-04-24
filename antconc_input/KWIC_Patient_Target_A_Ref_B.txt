@@ -1,0 +1,49 @@
+File	KPF	Left Context	Hit	Right Context
+corpus_a_merged.txt	14	the orbit (option 3 discarded).We are being described an acute pain crisis in a 	patient 	with gonarthrosis.  In this situation, the first thing to do is to resolve 
+corpus_a_merged.txt	14	an arthritis that would justify a debridement and washing so 3 is false.  In a 	patient 	with gonarthrosis there will always be meniscopathy, it is part of the degenerative 
+corpus_a_merged.txt	13	option is that she was studying the MIR).We describe the case of a 	patient 	with a hyperkalemic emergency (potassium >6.5 mmol/l with ECG alterations).  The first step 
+corpus_a_merged.txt	13	the presence of panagglutinin.Direct response question.  The question tells the story of a 	patient 	with acute pancreatitis who is developing acute respiratory failure.  The statement lists the 
+corpus_a_merged.txt	13	three options.  An autologous transplant is not reasonable, since the bone marrow of a 	patient 	with bone marrow aplasia is less than 25%, so little can be obtained.  Therefore, 
+corpus_a_merged.txt	13	will not reduce the dose but will associate the adjuvants.  We would manage the 	patient 	with gabapentin and corticosteroids (true answer 4); we would not decrease the dose of 
+corpus_a_merged.txt	13	the correct one, due to the low probability of P. jirovecii infection in a 	patient 	with more than 500 CD4 lymphocytes and undetectable viral load.  It is most likely 
+corpus_a_merged.txt	13	is also ruled out, because it usually occurs in older patients, although what a 	patient 	with myopia magna may present with is myopic macular degeneration (with a similar 
+corpus_a_merged.txt	13	right border (think of the direction of blood flow).We have before us a 	patient 	with neuropathic pain, which due to the origin of the tumor, is most 
+corpus_a_merged.txt	13	indicated due to the high risk of possible complications.We are presented with a 	patient 	with resistant arterial hypertension, assuming that he has primary hyperaldosteronism due to hypokalemic 
+corpus_a_merged.txt	13	will happen is that the v wave will be very large?This is a 	patient 	with rheumatoid arthritis.  In my opinion, as in these six months she has 
+corpus_a_merged.txt	8	at 15 days or later).Orthosis.  Cobb angle between 25º - 45º.  Immature skeleton (Risser 0).The 	patient 	is already diagnosed with chronic lymphocytic leukemia B (B-CLLL), presents lymphocytosis that 
+corpus_a_merged.txt	8	characteristic of ulcerative colitis and Crohn's disease) support this diagnosis.Since a splenectomized 	patient 	is considered a "special" patient, he should receive antibiotic treatment as soon as 
+corpus_a_merged.txt	8	is yours (you should ask if the animal is correctly vaccinated) and if the 	patient 	is correctly vaccinated (5 doses of tetanus, it would not require tetanus); make a 
+corpus_a_merged.txt	8	antecedents are there).  In addition, it is only 3 weeks since the contact, so our 	patient 	is probably in the "window period" during which serological techniques may be unprofitable.  
+corpus_a_merged.txt	8	at a certain distance, called neurogenic claudication, is the typical picture of stenosis.  The 	patient 	is relieved by flexing the spine forward because it widens the lumbar canal 
+corpus_a_merged.txt	8	its rapid administration and action.  Sodium heparin is reserved for cases in which the 	patient 	is stable.  Thromboendarterectomy could be performed urgently in selected centers (not available in 
+corpus_a_merged.txt	5	linear trajectories.We are faced with polyuria.  Initially we rule out diabetes mellitus (our 	patient 	has a normal blood glucose of 96mg/dl).  The analytical data suggest diabetes 
+corpus_a_merged.txt	5	The correct answer is 1.  The statement perfectly defines a tolerance phenomenon in which the 	patient 	has become "used to" the dose and needs more in order to have 
+corpus_a_merged.txt	5	cases, to water retention.This is a typical case of cervical incompetence (and this 	patient 	has conization as a risk factor).  This pathology consists of dilatation of the 
+corpus_a_merged.txt	5	of the antidepressant drug, according to the patient, but if we look at the 	patient'	s ability to maintain sleep, there is a clear fact that "rules out" 
+corpus_a_merged.txt	5	distal esophageal ring and eosinophilic esophagitis; both are possible, but the insistence on the 	patient'	s atopic burden indicates the likelihood of the latter.Answer 2 is false (Turner 
+corpus_a_merged.txt	5	asked in the MIR.It is a coxarthrosis.  The surgical criteria depends on the 	patient'	s symptoms and failure of medical treatment.  No medication slows down or modifies 
+corpus_a_merged.txt	4	may overlap with OFT and DERMA, but as I understand it, in an immunocompromised 	patient 	and also with data of ocular involvement, admission for intravenous treatment would be 
+corpus_a_merged.txt	4	corresponds to albuminuria less than 30 mg/ml.  Therefore the correct option is 1.Transfusing this 	patient 	and stuffing him with antibiotics is giving him bread for today and hunger 
+corpus_a_merged.txt	4	conjunctival injection, red lips, raspberry tongue, edema of acral parts and adenopathy).In this 	patient, 	he presents with a granulomatosis with polyangiitis formerly known as Wegener's granulomatosis.  
+corpus_a_merged.txt	4	Crohn's disease) support this diagnosis.Since a splenectomized patient is considered a "special" 	patient, 	he should receive antibiotic treatment as soon as possible, even if the wound 
+corpus_a_merged.txt	4	with very well (something that does not seem to be the case).  In this 	patient 	it is indicated to maintain the treatment and reevaluate in no more than 
+corpus_a_merged.txt	4	thyroid function prior to the puncture; but since he is talking about an asymptomatic 	patient, 	it seems clear that she is not hyperthyroid.  I do not think it 
+corpus_a_merged.txt	3	by answer 3.The halo sign is characteristic of pulmonary aspergillosis, especially in an immuodepressed 	patient.  	But it is not pathognomonic; it has also been associated with TB, some 
+corpus_a_merged.txt	3	limit, but within normality.The confusional picture is determined by the dementia that the 	patient 	already suffers, so no matter how much we delay surgery, we are not 
+corpus_a_merged.txt	3	or immature delivery.  The cerclage is ideally performed electively, programmed, and not when the 	patient 	arrives at the ER "in extemis" (which are also done, but with a 
+corpus_a_merged.txt	3	of an affective shift after the introduction of the antidepressant drug, according to the 	patient, 	but if we look at the patient's ability to maintain sleep, there 
+corpus_a_merged.txt	3	as several males have died of a similar clinical condition (the father of the 	patient 	contributed the Y chromosome, the mother the X).  Among the X-linked immunodeficiencies 
+corpus_a_merged.txt	3	several genetic pathologies, but this is the MIR and we are told that the 	patient 	does not have an intellectual disability.  In the MIR, an adolescent with pubertal 
+corpus_a_merged.txt	3	disease and therefore request a direct Coombs test, since if it is positive the 	patient, 	except in extreme cases, will not be transfused and the primary cause should 
+corpus_a_merged.txt	3	a chlamydial urethritis, perhaps asymptomatic (they do not explain urethral exudate).  Of course, the 	patient 	may also have HIV infection or even secondary syphilis (in addition to Reiter'
+corpus_a_merged.txt	3	and before considering changes in treatment, the possibility of empyematization should be evaluated.A 	patient 	of adolescent age with myoclonus ("violent jumps") at breakfast time will almost always 
+corpus_a_merged.txt	3	be correct.This year's Neurology section's burning question.  He presents a diabetic 	patient 	on insulin treatment with good control (although diabetic neuropathies do not only develop 
+corpus_a_merged.txt	3	radicular pain with lower limb involvement and neurogenic claudication.  Low back pain in a 	patient 	over 60 years of age accompanied by leg weakness when walking, which has to 
+corpus_a_merged.txt	3	but with a lower success rate... the ideal is to do them cold).The 	patient 	presented pulmonary thromboembolism which, in addition to being bilateral, produced severe hemodynamic involvement, 
+corpus_a_merged.txt	3	arthritis (the presence of intracellular crystals with negative birefringence confirms this) in a hyperuricemic 	patient 	previously treated with allopurinol, an NSAID should be added until the crisis subsides.  
+corpus_a_merged.txt	3	systemic fibrinolysis is much clearer, as in the case presented in the question.The 	patient 	probably presents with bronchiolitis.  At this stage, no additional tests should be performed 
+corpus_a_merged.txt	3	be associated with Von-Hippel-Lindau syndrome.The clinical and biological picture of this 	patient 	raises suspicion of hemolytic anemia in the context of systemic lupus erythematosus.  If 
+corpus_a_merged.txt	3	s syndrome but easy if the steps are clear.  We all agree that the 	patient 	seems to have Cushing's syndrome (we rule out 1).  For the diagnosis we 
+corpus_a_merged.txt	3	answer, 3.We are being shown a picture of lumbar canal stenosis (Answer 4 correct).  The 	patient 	shows the characteristic clinical picture: lumbar pain that is relieved by flexing the 
+corpus_a_merged.txt	3	is an analgesic) and then to the stressful situation that leads an already hypertensive 	patient 	to increase her blood pressure, so labetalol could help us.  The last answer 
+corpus_a_merged.txt	3	treatment, such as neurolytic treatment or plexus blockade.  However, we should not leave the 	patient 	without a treatment that can alleviate but rather solve the current situation.  He 

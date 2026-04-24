@@ -1,0 +1,5 @@
+The patient is already diagnosed with chronic lymphocytic leukemia B (B-CLLL), presents lymphocytosis that is maintained for more than 3 months and by flow cytometry presents a phenotype compatible with it.
+
+Therefore, we must first know the risk factors that will indicate with what priority treatment will need to be initiated, their intensity and prognosis; the presence of TP53 mutations or 17p deletions depends on this.
+
+The bone marrow aspirate or biopsy is only indicated if there are other accompanying cytopenias that are not justified by the B-CLL itself, PET-CT is only indicated if Ritcher's syndrome is suspected and we do not have enough data to suspect it, there are no B symptoms, nor is there any mention of LDH elevation.

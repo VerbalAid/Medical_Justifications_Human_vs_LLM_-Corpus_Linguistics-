@@ -1,0 +1,3 @@
+In this case, given the antibiotic treatment given and the severity of the diarrhea, it seems that we are dealing with a Clostridium infection.
+
+Option 2 is not very credible, in fact, as much as patients with CAP may have associated diarrhea, it is unlikely that a bacterium is sensitive to an antibiotic at the beginning of the picture and stops being so after 3 days.

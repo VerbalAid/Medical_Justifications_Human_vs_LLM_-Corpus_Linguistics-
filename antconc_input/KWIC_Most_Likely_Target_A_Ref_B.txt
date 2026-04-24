@@ -1,0 +1,7 @@
+File	KPF	Left Context	Hit	Right Context
+corpus_a_merged.txt	10	the intensity of the lesion and the child's sex and family history, the 	most likely 	diagnosis is hemophilia.Knowing that we have taken measures of sleep hygiene, 
+corpus_a_merged.txt	10	a UTI due to E Coli.  Many E Coli are resistant to amoxicillin.1- The 	most likely 	diagnosis is retractile testis.  2- Wait until two years of age for spontaneous 
+corpus_a_merged.txt	8	drugs are a good choice in urinary tract infections caused by large negative bacilli (	most likely: 	E. coli).  The presence of leukocytes + nitrites in the urine is very 
+corpus_a_merged.txt	8	a patient with neuropathic pain, which due to the origin of the tumor, is 	most likely 	due to involvement of the celiac plexus.  It is important to have 
+corpus_a_merged.txt	8	Apart from anti-proteinase 3 antibodies, which are not related to scleroderma (incorrect answer 3), the 	most likely 	ones would be antiRNA polymerase III antibodies, which appear in younger patients 
+corpus_a_merged.txt	8	in a patient with more than 500 CD4 lymphocytes and undetectable viral load.  It is 	most likely 	to be a pneumococcal infection that we cover with Ceftriaxone and with 

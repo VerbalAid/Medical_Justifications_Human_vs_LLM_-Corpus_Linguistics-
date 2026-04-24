@@ -1,0 +1,3 @@
+We describe the case of a patient with a hyperkalemic emergency (potassium >6.5 mmol/l with ECG alterations).
+
+The first step is the administration of iv calcium gluconate to counteract the cardiac toxicity of hyperkalemia (option 3 correct), giving us more time to initiate hypokalemic treatments (initially saline glucose with insulin, salbutamol, furosemide, and assessing dialysis if there is no good response).

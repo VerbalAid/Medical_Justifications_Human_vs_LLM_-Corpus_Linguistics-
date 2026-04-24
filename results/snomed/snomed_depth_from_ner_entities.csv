@@ -1,0 +1,4257 @@
+entity,corpus,frequency,snomed_concept,depth
+patient,A,44,116154003,5
+case,A,32,398241000,3
+treatment,A,30,151269007,
+patients,A,27,184191002,
+correct,A,21,152352009,
+diagnosis,A,21,439401001,3
+presence,A,19,386397008,7
+data,A,16,138974005,
+symptoms,A,15,139552004,
+involvement,A,14,278112009,6
+question,A,14,76053005,8
+months,A,13,258706009,5
+answers,A,11,,
+picture,A,11,257445002,7
+false,A,10,64100000,7
+low,A,10,62482003,6
+options,A,10,223487003,8
+choice,A,8,408855004,4
+disease,A,8,64572001,2
+severe,A,8,24484000,7
+asymptomatic,A,7,84387000,8
+cases,A,7,398241000,3
+clinical picture,A,7,,
+frequent,A,7,70232002,6
+history,A,7,51042001,5
+ldh,A,7,166681001,
+level,A,7,276625007,4
+mri,A,7,113091000,11
+pain,A,7,366981002,
+risk,A,7,366990009,
+absence,A,6,418560003,4
+acth,A,6,40789008,19
+associated with,A,6,47429007,6
+fever,A,6,248425001,9
+incorrect,A,6,281267002,10
+increased,A,6,35105006,7
+lesion,A,6,49755003,3
+mir,A,6,118364009,7
+panagglutinin,A,6,,
+pathology,A,6,393402002,
+treat,A,6,148040007,
+woman,A,6,224526002,6
+affected,A,5,247591002,6
+biopsy,A,5,86273004,11
+characterized,A,5,373673007,10
+complications,A,5,156097009,
+decrease,A,5,260370003,5
+elevation,A,5,103720008,5
+fibrinolysis,A,5,59141009,7
+infection,A,5,257551009,
+ki67,A,5,259981004,15
+management,A,5,393450003,
+orbit,A,5,181143004,16
+origin,A,5,246062003,4
+positive,A,5,393474000,
+progressive,A,5,62789008,
+sensitive,A,5,83185005,5
+study,A,5,224699009,10
+suspicion,A,5,706876006,8
+test,A,5,165734002,
+acute,A,4,53737009,6
+age,A,4,102518004,7
+answer,A,4,9288000,14
+antibiotic,A,4,41000005,
+benefit,A,4,138333002,
+cause,A,4,152527006,
+characteristics,A,4,246196007,6
+clinical,A,4,58147004,6
+corticosteroids,A,4,79440004,6
+course,A,4,260908002,5
+ct,A,4,146287002,
+ct scan,A,4,129679001,10
+cushing's syndrome,A,4,154705004,
+days,A,4,258703001,5
+diagnosed,A,4,405749004,13
+dose,A,4,408102007,4
+elevated,A,4,75540009,8
+entity,A,4,397659008,7
+examination,A,4,263749006,
+features,A,4,248185005,9
+finding,A,4,246188002,1
+hypercortisolism,A,4,47270006,11
+information,A,4,136824003,
+initial,A,4,884001,7
+metamorphopsia,A,4,42134006,13
+normal,A,4,17621005,6
+option,A,4,395322004,7
+ph,A,4,27327002,7
+prolonged,A,4,255224006,6
+puberty,A,4,18991001,10
+situation,A,4,158120008,
+statement,A,4,153184004,
+tests,A,4,272393004,6
+treatments,A,4,386439008,8
+visual loss,A,4,40031005,12
+weeks,A,4,258705008,5
+absences,A,3,248227006,11
+action,A,3,129264002,4
+adh,A,3,77671006,17
+adolescent,A,3,133937008,5
+age-related macular degeneration,A,3,155112007,
+analytical data,A,3,,
+anemia,A,3,64593003,
+array,A,3,62280008,8
+behavioral,A,3,166001,8
+benign,A,3,30807003,6
+blood,A,3,87612001,14
+changes,A,3,147903004,
+clinical case,A,3,,
+cluster headache,A,3,55865003,
+collagenous colitis,A,3,19311003,15
+colon cancer,A,3,31001000119109,14
+complicated,A,3,255302009,5
+conjunctival injection,A,3,425223000,11
+contact,A,3,147718008,
+depression,A,3,41006004,9
+diagnose,A,3,1382104006,6
+diagnostic suspicion,A,3,,
+eeg,A,3,54550000,11
+fundus,A,3,14347000,23
+general condition,A,3,276325004,7
+giant cell arteritis,A,3,155442004,12
+girl,A,3,431549007,9
+gonarthrosis,A,3,239873007,14
+headache,A,3,139490008,
+high,A,3,75540009,8
+hyperkalemia,A,3,14140009,11
+hypoxemia,A,3,30869003,8
+imaging test,A,3,,
+indomethacin,A,3,60149003,9
+irregular,A,3,49608001,6
+lesions,A,3,364643006,
+lymphocytes,A,3,709252005,16
+males,A,3,74398009,10
+measure,A,3,246445000,4
+monitoring,A,3,147847009,
+negative,A,3,393476003,
+oral,A,3,260548002,7
+paroxysmal hemicrania,A,3,443094001,17
+partial,A,3,255609007,6
+patient's,A,3,152365000,
+pituitary,A,3,312270009,
+precocious,A,3,235246008,5
+prognosis,A,3,20481000,6
+protocol,A,3,394404009,
+response,A,3,151263008,
+seizures,A,3,407621003,7
+sleep,A,3,86636006,
+surgery,A,3,257556004,5
+surgical treatment,A,3,9221009,21
+symptomatic,A,3,264931009,5
+symptomatology,A,3,158738000,
+technique,A,3,246501002,6
+thrombosis,A,3,70281000,8
+undetectable,A,3,,
+urinalysis,A,3,27171005,12
+warfarin,A,3,48603004,8
+years,A,3,258707000,5
+abrupt,A,2,52147007,11
+acidosis,A,2,154757004,
+acute phase,A,2,255251009,6
+adenocarcinoma,A,2,35917007,13
+adjuvants,A,2,,
+afferent,A,2,49530007,6
+aggressive,A,2,255325005,6
+amd,A,2,237967002,13
+analgesic,A,2,255630003,
+analysis,A,2,272389005,6
+anorexia nervosa,A,2,154926005,
+answered,A,2,,
+antibiotic therapy,A,2,281789004,9
+antibiotic treatment,A,2,,
+antibodies,A,2,143260007,
+arthritis,A,2,3723001,10
+aspirin,A,2,7947003,16
+atelectasis,A,2,46621007,11
+atopic dermatitis,A,2,156331003,
+autoimmune disease,A,2,85828009,7
+autoimmune hemolytic anemia,A,2,25121006,18
+baker's cyst,A,2,82675004,14
+bi-rads,A,2,1348266008,3
+bilirubin,A,2,79706000,16
+blood pressure,A,2,75367002,8
+bone marrow,A,2,256888005,
+bone marrow aplasia,A,2,,
+brucellosis,A,2,154296006,
+burn,A,2,48333001,8
+cardiac tamponade,A,2,35304003,12
+centers,A,2,228839001,7
+cerclage,A,2,1455007,7
+chest pain,A,2,139228007,
+choluria,A,2,,
+comment,A,2,393206001,
+compensate,A,2,17842005,10
+complete,A,2,91277000,
+confirmation,A,2,248992004,12
+consecutive,A,2,232099002,13
+conservative treatment,A,2,,
+contraindicated,A,2,410536001,5
+contralateral eye,A,2,,
+criteria,A,2,717350000,3
+cured,A,2,139890002,
+cyclophosphamide,A,2,74470007,10
+day,A,2,264721006,
+definition,A,2,900000000000550004,4
+degenerative,A,2,30523006,15
+delay,A,2,389369003,
+determination,A,2,146392003,
+diagnostic criteria,A,2,147834004,
+diagnostic test,A,2,142005002,
+diarrhea,A,2,62315008,12
+differential diagnosis,A,2,47965005,4
+differentiate,A,2,,
+difficult,A,2,401335003,
+diplopia,A,2,139545001,
+dissociation,A,2,246726008,
+distal,A,2,46053002,6
+disturbances,A,2,206746001,8
+drug,A,2,2533004,2
+drugs,A,2,363723000,
+drusen,A,2,18695008,5
+e coli,A,2,186451007,
+effective,A,2,112234008,
+effusion,A,2,41699000,6
+elisa,A,2,143440002,
+empyematization,A,2,,
+episodes,A,2,272128006,7
+etiology,A,2,134198009,5
+evaluated,A,2,,
+evolution,A,2,5088004,15
+exudative,A,2,255305006,6
+eye,A,2,367568005,
+failure,A,2,76797004,6
+false answer,A,2,,
+filling,A,2,827081001,6
+flexing,A,2,298334009,8
+floor,A,2,709280007,2
+fna,A,2,257759008,11
+formula,A,2,100672008,6
+fracture,A,2,157169007,
+fractures,A,2,157254003,
+frequency,A,2,260864003,5
+gonadotrophins,A,2,346565008,8
+hemodynamic,A,2,422773005,4
+hemolytic anemia,A,2,61261009,14
+her2,A,2,427685000,19
+high risk,A,2,723509005,5
+higher,A,2,151568000,
+hiv,A,2,19030005,12
+hiv infection,A,2,86406008,7
+hours,A,2,258702006,5
+hr,A,2,15508007,5
+hr+,A,2,,
+hypercapnia,A,2,29596007,8
+hypokalemic,A,2,237851007,12
+i,A,2,257469003,7
+igg,A,2,143328001,
+immature,A,2,1090009,6
+incidence,A,2,112125007,7
+increase,A,2,260366006,5
+infections,A,2,157123007,
+initiate,A,2,286388005,13
+insufficient,A,2,423437008,5
+insulin,A,2,67866001,18
+intellectual disability,A,2,110359009,9
+intensity,A,2,80035002,11
+intermediate risk,A,2,,
+intracellular,A,2,83167003,6
+introduction,A,2,107733003,3
+joint,A,2,39352004,9
+lacrimation,A,2,301973009,9
+lasègue maneuver,A,2,,
+leaves,A,2,90737002,13
+left,A,2,7771000,6
+leptospirosis,A,2,186953000,
+lesser extent,A,2,,
+limb,A,2,66019005,7
+lithium,A,2,85899009,11
+loss,A,2,138214005,
+loss of vision,A,2,40031005,12
+low risk,A,2,723505004,5
+lower limb,A,2,61685007,10
+lung,A,2,39607008,15
+macroscopic,A,2,199619001,
+malnutrition,A,2,2492009,6
+marrow,A,2,227250008,7
+measures,A,2,367346004,3
+mechanical ventilation,A,2,25638009,
+medical treatment,A,2,699389008,12
+monitored,A,2,394073006,
+monoclonal peak,A,2,,
+monthly,A,2,89185003,9
+murmur,A,2,88610006,13
+myopia magna,A,2,,
+nature,A,2,246425008,4
+neurogenic claudication,A,2,303081002,15
+neurology,A,2,393381006,
+neuropathic pain,A,2,247398009,12
+nnt,A,2,,
+observation,A,2,122544007,6
+ocular,A,2,372472002,5
+orbital cavity,A,2,280541000,17
+pain crisis,A,2,39565009,11
+papillary edema,A,2,238593003,13
+pathognomonic,A,2,38173001,5
+pco2,A,2,250564007,16
+period,A,2,161728000,
+periods,A,2,248957007,11
+physical examination,A,2,5880005,8
+pituitary apoplexy,A,2,237701005,16
+plasmapheresis,A,2,20720000,14
+platelets,A,2,259727009,6
+pneumonia,A,2,60363000,
+polymyalgia rheumatica,A,2,156656001,
+potassium,A,2,88480006,8
+pregnancy,A,2,77386006,12
+pregnant,A,2,77386006,12
+pregnant women,A,2,,
+premature telarche,A,2,,
+prepubertal uterus,A,2,,
+preservation,A,2,29284004,7
+prevent,A,2,101445003,6
+problem,A,2,55607006,5
+pubertal,A,2,419960003,11
+pulmonary,A,2,264164005,7
+pupillary defect,A,2,247017005,14
+reality,A,2,7865000,13
+reflexes,A,2,106146005,9
+renal level,A,2,,
+resistant,A,2,30714006,5
+respiratory infection,A,2,195705000,
+rib fractures,A,2,208135004,
+risk factors,A,2,156148003,
+rra,A,2,66238006,21
+rules,A,2,228348001,11
+short stature,A,2,277266007,8
+skin,A,2,39937001,9
+small uterus,A,2,289624004,13
+spanish society of gynecology and obstetrics,A,2,,
+speaking,A,2,87335007,13
+spherocytosis,A,2,142886003,
+spironolactone,A,2,13929005,9
+stable,A,2,58158008,7
+subgroup,A,2,260836008,5
+sunct,A,2,725058003,17
+surface epithelium,A,2,254649008,12
+systemic,A,2,31099001,6
+systole,A,2,111973004,8
+t2,A,2,67673008,9
+t4,A,2,143688006,
+tetanus,A,2,154312006,
+thrombocytopenia,A,2,70786006,10
+thyroid nodule,A,2,190234009,
+times,A,2,417929005,5
+tumor,A,2,108369006,8
+turner,A,2,751008,11
+ultrasound,A,2,16310003,11
+unstable,A,2,263922001,6
+urinary tract infections,A,2,162183000,
+urine,A,2,78014005,14
+uti,A,2,162597002,
+vaccinated,A,2,,
+viral load,A,2,392965004,
+visible,A,2,24054004,6
+water,A,2,11713004,8
+wegener's granulomatosis,A,2,390001000,
+weight,A,2,726527001,4
+who,A,2,103415007,5
+17p deletions,A,1,,
+2-year-old,A,1,,
+22q11 deletion syndrome,A,1,449818005,12
+4th thoracic nerve,A,1,,
+abdomen,A,1,113345001,12
+abdominal ct,A,1,,
+abdominal mri,A,1,,
+abdominal ultrasound,A,1,314618003,15
+abnormal blood flow,A,1,1939005,6
+abortion,A,1,70317007,16
+abortions,A,1,161761007,11
+abscess,A,1,44132006,6
+absent,A,1,2667000,6
+absolute,A,1,56136002,6
+accumulation,A,1,87862008,14
+accurate,A,1,263656005,5
+acenocoumarol,A,1,79356008,8
+acral parts,A,1,,
+activation,A,1,33230000,11
+acute gouty arthritis,A,1,36009009,
+acute hemorrhagic dpv,A,1,,
+acute pain crisis,A,1,,
+acute pancreatitis,A,1,155834006,
+acute phase reactants,A,1,,
+acute renal failure,A,1,155855008,
+acute respiratory acidosis,A,1,70644008,10
+acute respiratory distress syndrome,A,1,67782005,15
+acute respiratory failure,A,1,65710008,8
+acute stage,A,1,,
+acute urticaria,A,1,402408009,13
+added,A,1,248690009,12
+adenomas,A,1,189578007,
+adenopathy,A,1,141342003,
+adequate,A,1,88323005,6
+administering,A,1,714418004,11
+administration,A,1,152269009,
+admission,A,1,367072004,
+adrenal carcinoma,A,1,255035007,20
+adrenal origin,A,1,17318002,12
+advanced mammary,A,1,,
+afebrile,A,1,86699002,7
+affectation,A,1,,
+affected area,A,1,22201000087104,7
+affecting,A,1,123127006,
+agonists,A,1,223063008,11
+aino,A,1,90680003,14
+albuminuria,A,1,29738008,11
+aldosterone,A,1,42605004,18
+aldosterone-producing adenoma,A,1,768470007,21
+alleviate,A,1,225353007,5
+allogeneic bone marrow transplantation,A,1,58390007,11
+allopurinol,A,1,25246002,7
+als,A,1,739123003,12
+alterations,A,1,123646006,9
+always,A,1,271818003,
+alzheimer's disease,A,1,26929004,12
+ama,A,1,416413003,12
+ambiguous,A,1,900000000000484002,6
+amenorrhea,A,1,14302001,15
+amount,A,1,246205007,5
+amoxicillin,A,1,27658006,10
+amputation,A,1,81723002,6
+amsterdam criteria,A,1,,
+amyloidosis,A,1,154769007,
+analgesia,A,1,38433004,11
+analgesic effect,A,1,,
+analytical hormonal,A,1,,
+analytical markers,A,1,,
+anatomy,A,1,260717007,6
+androgens,A,1,346324007,6
+anesthesia,A,1,33653009,10
+animal,A,1,39866004,3
+animal aggression,A,1,,
+animal births,A,1,,
+animals,A,1,387961004,5
+anisocytosis,A,1,57241006,6
+annular pattern,A,1,,
+anomalies,A,1,205589009,
+antecedents,A,1,,
+anterior,A,1,36592002,
+anterior ischemic optic neuropathy,A,1,404659001,15
+anteriorly,A,1,443100003,6
+anti-gbm antibodies,A,1,,
+anti-proteinase 3 antibodies,A,1,,
+anti-smooth muscle,A,1,121122009,21
+anti-tnf alpha,A,1,,
+antibiograms,A,1,,
+antibiotherapy,A,1,,
+antibiotic-releasing substances,A,1,,
+antibiotics,A,1,324287006,
+antibody,A,1,68498002,17
+anticoagulation,A,1,260678004,6
+antidepressant drug,A,1,283012004,
+antiepileptic drugs,A,1,,
+antirna polymerase iii antibodies,A,1,,
+anxiety,A,1,38237000,9
+anyone,A,1,,
+aphasia,A,1,87486003,6
+aplasia,A,1,45486003,6
+appearance,A,1,43175008,9
+architectural alterations,A,1,,
+ards,A,1,67782005,15
+area,A,1,42798000,6
+arterial,A,1,263954005,7
+arterial hypertension,A,1,39018007,14
+arteritic,A,1,402862000,15
+arthralgias,A,1,,
+arthrokinetic,A,1,,
+aspergillus,A,1,2429008,12
+aspiration,A,1,68052005,9
+assess,A,1,142591008,
+assessable,A,1,424555008,9
+assessing,A,1,1069811000000104,8
+associated cause,A,1,,
+associated in,A,1,,
+associated infection,A,1,413590008,7
+associated to,A,1,1373746006,21
+association,A,1,263534001,4
+asynchronous limb,A,1,,
+atlas,A,1,14806007,21
+atopic,A,1,156331003,
+atria,A,1,263960005,19
+atrophic,A,1,255280000,6
+atrophy,A,1,13331008,6
+attack,A,1,216299002,4
+attending,A,1,153682004,
+attitude,A,1,225464009,6
+atypical,A,1,112231000,6
+auriculotemporal nerve,A,1,12110008,21
+auriculotemporal syndrome,A,1,45294007,12
+autoimmune origin,A,1,,
+autoimmune phenomena,A,1,,
+autologous transplant,A,1,1332249003,11
+autosomal dominant disorder,A,1,,
+azithromycin,A,1,96034006,7
+b,A,1,257961005,7
+b-cll,A,1,277473004,21
+bacteria,A,1,41146007,6
+bacterial agent,A,1,111117008,11
+bacterial meningitis,A,1,95883001,11
+bacterium,A,1,41146007,6
+barrett's esophagus,A,1,76355008,
+basal,A,1,57195005,6
+basement membrane,A,1,68989006,6
+basic semiology,A,1,,
+be,A,1,138037009,
+beta-hcg,A,1,396700001,14
+bicarbonate,A,1,68615006,15
+bilateral,A,1,51440002,7
+bilateral pulmonary infiltrates,A,1,,
+biliary tract malformations,A,1,,
+bilirubinemia,A,1,14783006,11
+binding,A,1,257768005,7
+biochemically confirmed,A,1,,
+biofilm,A,1,1359925001,20
+biological,A,1,12893009,5
+biological improvement,A,1,,
+biopsies,A,1,246444001,5
+biopsy-aspirate,A,1,,
+birefringence,A,1,250532000,3
+births,A,1,440425000,6
+bitemporal hemianopsia,A,1,,
+blasts,A,1,109999001,17
+bleeding,A,1,303123004,
+bleedings,A,1,,
+blindly,A,1,,
+blindness,A,1,139548004,
+blistering,A,1,339008,9
+blood flow,A,1,58190003,8
+bloody diarrhea,A,1,95545007,14
+bnp,A,1,407060002,18
+body creams,A,1,,
+body image,A,1,405045001,7
+body surface,A,1,102495000,
+bone age,A,1,123980006,8
+bone alterations,A,1,,
+bone defect,A,1,234687006,19
+bone marrow aspirate,A,1,389761003,
+bones,A,1,128530007,12
+bony walls,A,1,,
+botulinum toxin,A,1,129470006,7
+bp,A,1,332752000,
+brain,A,1,12738006,14
+brain abscesses,A,1,724543006,14
+brain tumors,A,1,,
+bread,A,1,226559002,6
+breakfast time,A,1,307160001,7
+breast asymmetry,A,1,140645002,
+breast biopsy,A,1,142370004,
+breast cancer,A,1,254837009,14
+breast imaging reporting,A,1,146611000146107,5
+breast ultrasound,A,1,468044008,9
+broad,A,1,249334000,
+broad-spectrum antibiotherapy,A,1,,
+bronchiolitis,A,1,4120002,16
+bronchoaspiration,A,1,,
+brown-sequard,A,1,721404006,18
+bsa,A,1,388333004,23
+burden,A,1,1179760003,9
+burning,A,1,62404004,6
+burns,A,1,211657006,
+but,A,1,158704008,
+c1 root,A,1,,
+c4,A,1,75800005,7
+c5,A,1,59397002,7
+c7,A,1,209064001,21
+c8,A,1,244655006,21
+calcium-sensitive receptor,A,1,,
+calcium/creatinine urine ratio,A,1,,
+calculate,A,1,,
+calm,A,1,366978007,
+campimetric deficits,A,1,,
+cap,A,1,228254002,6
+cardiac,A,1,150755000,
+cardiogenic shock criteria,A,1,,
+caroli's disease,A,1,111331000,16
+carpal tunnel,A,1,64630009,17
+carpus,A,1,8205005,13
+carrier,A,1,29679002,6
+carriers,A,1,,
+cattle,A,1,79058000,8
+cavernous sinus,A,1,18782006,31
+cavities,A,1,303928007,18
+cd4,A,1,143461009,
+ceftriaxone,A,1,19841008,10
+celiac plexus,A,1,4150005,19
+cell-mediated immunity,A,1,190989004,
+cellular edema,A,1,88270009,7
+cellularity,A,1,188581007,
+celso's kerion,A,1,,
+centimeters,A,1,699502000,15
+central diabetes insipidus,A,1,154699008,
+central precocious,A,1,237816004,13
+central retinal vein,A,1,280927000,38
+central serous chorioretinopathy,A,1,312956001,17
+cerebral blood flow,A,1,250847003,7
+cerebral edema,A,1,2032001,9
+cerebral perfusion pressure,A,1,250846007,7
+cerebrospinal fluid,A,1,65216001,13
+cervical incompetence,A,1,156172008,
+cervical nerve,A,1,360497008,18
+cervical roots,A,1,,
+cervix,A,1,71252005,25
+cesarean section,A,1,11466000,20
+chain myeloma,A,1,188721008,
+challenge,A,1,142185002,
+characteristic fundus,A,1,,
+cherry red spot,A,1,49473001,11
+chest,A,1,51185008,11
+chest trauma,A,1,269340000,
+chiasm,A,1,230516008,
+chicken meat,A,1,703932008,13
+child,A,1,393494009,
+child's,A,1,138336005,
+children,A,1,151334007,
+chlamydial urethritis,A,1,236683007,15
+chordal,A,1,371813006,17
+chronic inflammatory infiltrate,A,1,,
+chronic lesion,A,1,,
+chronic lymphocytic leukemia b (b-clll),A,1,,
+chronic osteomyelitis,A,1,156791003,
+ciemy type c,A,1,,
+circulating immunocomplexes,A,1,,
+circumcision,A,1,149775006,
+circumferential,A,1,64692003,
+claude bernard,A,1,770626007,20
+clearer,A,1,137012002,
+clinic,A,1,257585005,5
+clinical condition,A,1,,
+clinical data,A,1,701002007,10
+clinical expression,A,1,,
+clinical hematology,A,1,394803006,6
+clinical manifestations,A,1,405635002,10
+clinical presentation,A,1,,
+clinical suspicion,A,1,,
+clinical worsening,A,1,,
+closed,A,1,29179001,6
+closed osteosynthesis,A,1,,
+clostridium infection,A,1,186407003,
+clot,A,1,75753009,6
+cobb angle,A,1,285285000,7
+cold,A,1,13645005,14
+collagen,A,1,61472002,16
+collagen fibers,A,1,320991003,13
+collagen layer,A,1,,
+collagen-producing,A,1,,
+colonic mucosa,A,1,704910006,8
+combination,A,1,89780004,6
+comorbidity,A,1,762713009,3
+compartment,A,1,111245009,8
+compensatory,A,1,33325001,16
+complementary examinations,A,1,,
+complementary study,A,1,,
+complex partial seizures,A,1,73714002,12
+complicated question,A,1,,
+compress,A,1,1255521008,6
+compression,A,1,71173004,6
+compromise,A,1,,
+compromised,A,1,284670008,6
+concomitant,A,1,79970003,5
+conduction disturbances,A,1,,
+confusional picture,A,1,,
+conization,A,1,108941000119102,7
+consensus,A,1,1287646007,3
+conservation,A,1,385688007,6
+consistent with,A,1,7883008,3
+constant,A,1,420341009,3
+contact with,A,1,11723008,4
+contents,A,1,276824008,5
+continuing,A,1,217733006,8
+continuity,A,1,277052006,5
+contractions,A,1,87989004,
+contralateral pain,A,1,,
+controls,A,1,285943005,10
+convoluted,A,1,47573009,6
+cool,A,1,427733005,9
+coombs test,A,1,708130001,6
+coombs' test,A,1,,
+copies,A,1,413913003,5
+core,A,1,260235002,6
+correction,A,1,389431007,
+corticoids,A,1,95919007,15
+cortisol,A,1,56423005,19
+costal volet,A,1,,
+cough,A,1,49727002,6
+coverage,A,1,100270006,6
+coxarthrosis,A,1,203749004,9
+crises,A,1,1172698005,13
+crisis,A,1,32937002,5
+criterion,A,1,704230004,3
+crohn's disease,A,1,34000006,13
+crp,A,1,61425002,17
+crvo,A,1,68478007,19
+crying,A,1,139499009,
+crypts,A,1,66532008,28
+crystals,A,1,250448002,12
+cultures,A,1,,
+curative,A,1,373808002,8
+cushing's,A,1,154705004,
+cutaneous abscesses,A,1,,
+cutoff,A,1,703497008,8
+cystic changes,A,1,367647000,7
+cytopenias,A,1,,
+cytotoxic,A,1,734873001,4
+damage,A,1,37782003,5
+data sheet,A,1,,
+data system,A,1,1362106001,3
+dealing,A,1,228441006,10
+deaths,A,1,246210006,7
+debride,A,1,,
+debridement,A,1,36777000,6
+decline,A,1,154091000119106,4
+decreased,A,1,1250004,7
+deep endometriosis,A,1,724457006,13
+deep thrombosis,A,1,,
+deep vein thrombosis,A,1,195403006,
+deformity,A,1,6081001,5
+degree,A,1,246173007,6
+delay surgery,A,1,,
+delivery,A,1,66348005,8
+dementia,A,1,52448006,9
+dementias,A,1,154845000,
+density,A,1,125146005,4
+dental malocclusion,A,1,,
+deposited,A,1,,
+deposition,A,1,46595003,5
+deposits,A,1,40449001,12
+derma,A,1,100321009,6
+dermatomyositis,A,1,156456005,
+desquamation,A,1,14411002,8
+destroyed,A,1,148908005,
+destruction,A,1,64597002,4
+detect,A,1,397592007,6
+development,A,1,103378002,3
+develops,A,1,370789001,7
+dexamethasone,A,1,116568000,19
+diabetes,A,1,162661000,
+diabetes insipidus,A,1,15771004,12
+diabetes mellitus,A,1,191044006,
+diabetic,A,1,138058003,
+diabetic neuropathies,A,1,,
+diagnostic criterion,A,1,,
+diagnostic laparoscopy,A,1,76735009,17
+diagnostic possibilities,A,1,,
+diagnostic process,A,1,,
+diagnostic scheme,A,1,,
+dialysis,A,1,1231460007,3
+died,A,1,162851009,
+differentiation,A,1,263522009,7
+dilatation,A,1,25322007,5
+direct response,A,1,,
+direction,A,1,260672003,4
+disappearance,A,1,105417001,5
+disease i,A,1,156139008,
+diseases,A,1,64572001,2
+dislocation,A,1,87642003,7
+distal radius,A,1,75129005,20
+distance,A,1,246132006,6
+distortion,A,1,20967005,6
+distribution,A,1,246457009,4
+dm-2,A,1,,
+dog,A,1,69986009,16
+dopler ultrasound,A,1,,
+dose-dependent,A,1,,
+doses,A,1,426519003,6
+dosing,A,1,1162388008,8
+dpv,A,1,,
+drug intoxication,A,1,191488007,
+dry,A,1,13880007,6
+dumping syndrome,A,1,266458008,
+duration,A,1,103335007,5
+dyspnea,A,1,49233005,
+e antigen rules,A,1,,
+e. coli,A,1,112283007,14
+earliest,A,1,,
+early age,A,1,788913001,18
+early stages,A,1,,
+ears,A,1,95515009,16
+ec,A,1,101580001,6
+ecg alterations,A,1,,
+echo,A,1,699390004,12
+echo-doppler,A,1,,
+echoendoscopy,A,1,,
+ectopic,A,1,298109001,6
+eczema,A,1,156326000,
+edema,A,1,79654002,6
+effect,A,1,253861007,4
+elderly,A,1,105437002,7
+elderly women,A,1,,
+electively,A,1,,
+electrocardiographic changes,A,1,,
+electrolyte disturbances,A,1,206681005,17
+eliminate,A,1,104137002,14
+emergency,A,1,25876001,6
+emergency escharotomy,A,1,,
+emergency reasoning,A,1,,
+emg,A,1,153454001,
+emilio,A,1,,
+empyema,A,1,66696003,8
+endemic area points,A,1,,
+endocrine block,A,1,,
+endometrial,A,1,176874006,
+endometrial biopsy,A,1,176885008,
+endometrial cytology,A,1,468999002,9
+endophthalmitis,A,1,1847009,18
+endoscopic,A,1,129238008,5
+endothoracic tube,A,1,,
+enlargement,A,1,56246009,5
+enophthalmos,A,1,80093006,12
+ent,A,1,118530006,4
+enteral,A,1,225770002,7
+entrapment,A,1,363563002,6
+entry,A,1,394404009,
+environment,A,1,276339004,2
+eo,A,1,18669006,4
+eosinophilic esophagitis,A,1,235599003,13
+eosinophils,A,1,264832001,11
+epiretinal membrane,A,1,193391002,
+epithelial denudation,A,1,,
+er,A,1,33761008,8
+erosion,A,1,15498001,7
+erythematous-edematous,A,1,,
+escherichia coli,A,1,112283007,14
+esophageal,A,1,19216006,11
+esophageal ring,A,1,66889002,12
+esr,A,1,165466008,10
+estradiol,A,1,126172005,17
+estrogen,A,1,41598000,15
+evaluation,A,1,122503006,5
+evanescent,A,1,312951006,18
+evanescent lesions,A,1,,
+eventual,A,1,403225001,9
+everything,A,1,225473001,9
+evolution-,A,1,,
+evolve,A,1,,
+evolving,A,1,59381007,6
+exacerbation,A,1,367110001,
+exaltation,A,1,47544006,8
+examiner,A,1,12108006,11
+exanthema,A,1,112625008,6
+excretion,A,1,63911002,7
+exophthalmos,A,1,18265008,12
+experience,A,1,281141001,
+expiration,A,1,58322009,7
+exploration,A,1,122458006,9
+exploratory signs,A,1,,
+exposed,A,1,24932003,4
+exposed to,A,1,24932003,4
+expression,A,1,10012005,6
+extemis,A,1,,
+extended,A,1,288467006,6
+extension,A,1,255536004,6
+external fixator,A,1,278280003,10
+extracellular fluid,A,1,55450009,13
+face,A,1,89545001,13
+factor v,A,1,60208008,17
+fail,A,1,158279003,
+fails,A,1,142797009,
+false negatives,A,1,,
+familial hypercalcemia,A,1,,
+familial hypocalciuric hypercalcemia,A,1,237885008,15
+family history,A,1,137667000,
+family history of infections,A,1,,
+family-maternal history,A,1,,
+farm,A,1,257609008,5
+farmers,A,1,137191008,
+fat,A,1,256674009,12
+father,A,1,393492008,
+febrile fever,A,1,,
+females,A,1,8234004,10
+fetal,A,1,233611006,
+fetal extraction,A,1,,
+filtration rate,A,1,80274001,9
+findings,A,1,393473006,
+fio2,A,1,250774007,7
+fish,A,1,90580008,8
+fixation,A,1,1431002,4
+flow cytometry,A,1,64444005,10
+fluid,A,1,33463005,3
+follow-up,A,1,308273005,3
+forces,A,1,136941000,
+forewarned,A,1,,
+fresh,A,1,261013005,5
+frey's syndrome,A,1,45294007,12
+functional,A,1,40143009,6
+fundamental types,A,1,,
+furosemide,A,1,81609008,7
+g- bacteria,A,1,,
+g3a,A,1,,
+gabapentin,A,1,108402001,7
+general symptoms,A,1,139079008,
+generalized polyp,A,1,,
+genetic pathologies,A,1,,
+genetic syndrome,A,1,290028006,5
+genital secretions,A,1,,
+gestational trophoblastic disease,A,1,5759005,17
+gestational trophoblastic neoplasm,A,1,417475006,19
+glasgow,A,1,51190006,18
+glomerular basement membrane,A,1,390268001,
+glomerulonephritis,A,1,36171008,15
+glp-1,A,1,43004008,19
+glucose consumption,A,1,,
+gmn,A,1,,
+goiter,A,1,3716002,11
+good control,A,1,147993008,
+goodpasture's syndrome,A,1,195351002,
+granted,A,1,228131001,9
+granulomatosis,A,1,44328006,9
+graves' disease,A,1,154655004,
+griseofulvin,A,1,64349004,10
+group,A,1,246261001,5
+gypsum,A,1,463129007,8
+habitual test,A,1,,
+half-life,A,1,304283002,7
+halo sign,A,1,29851005,14
+hands,A,1,141636008,
+hbsag,A,1,166105007,
+hcg,A,1,59433001,19
+hcg dosage,A,1,,
+healthy adults,A,1,,
+healthy child,A,1,102506008,9
+heavy bleeding,A,1,351814001,17
+hemato-nephro,A,1,,
+hematocyte,A,1,,
+hemianopsia,A,1,79694000,11
+hemisection,A,1,23580000,19
+hemochromatosis,A,1,86781004,11
+hemodynamic instability,A,1,422773005,4
+hemolysis,A,1,73320003,10
+hemophilia,A,1,90935002,8
+hemopoietic progenitors,A,1,,
+hemorrhage,A,1,50960005,5
+hemorrhagic diseases,A,1,,
+hemorrhagic type,A,1,,
+hemothorax,A,1,31892009,12
+her2 +,A,1,,
+her2 + (,A,1,,
+her2+/,A,1,,
+her2-,A,1,427685000,19
+heterogeneity,A,1,,
+heterozygosis,A,1,,
+heterozygous,A,1,165733008,
+high jugular pressure,A,1,,
+high-risk,A,1,316236005,5
+histology,A,1,145586000,
+hla-identical sibling,A,1,,
+hormonal deficits,A,1,,
+hormone receptors,A,1,444901007,5
+horner syndrome,A,1,192922002,
+hospital admissions,A,1,160742004,
+hunger,A,1,55350005,6
+hyper-ige,A,1,191009009,14
+hyperkalemic emergency,A,1,,
+hypertensive,A,1,194756002,
+hyperthyroid,A,1,,
+hyperthyroidism,A,1,34486009,11
+hyperuricemic,A,1,46785007,16
+hyperventilation,A,1,68978004,6
+hypo/manic shift,A,1,,
+hypotension,A,1,155487000,
+hypothalamus-pituitary gland,A,1,,
+hypouricemic treatment,A,1,,
+hypoventilation,A,1,31515003,6
+hysteroscopy,A,1,142512000,
+ideal,A,1,148029004,
+idiopathic thrombocytopenic purpura,A,1,32273002,18
+ie,A,1,1222732004,6
+ig,A,1,111163002,12
+iga myeloma,A,1,285420006,22
+iga nephropathy,A,1,236407003,19
+iii-iv,A,1,,
+image,A,1,900000000000520007,5
+image distortion,A,1,,
+imaging tests,A,1,,
+immature skeleton,A,1,,
+immunocompromised patient,A,1,275828002,7
+immunocompromised patients,A,1,,
+immunodeficiency,A,1,64431000,
+immunoglobulins g,A,1,,
+immunosuppressed,A,1,389382006,
+immuodepressed,A,1,,
+impaired,A,1,260379002,6
+implant,A,1,40388003,5
+implants,A,1,52852000,15
+in-hospital pneumonia,A,1,,
+incidental,A,1,261087003,5
+incline,A,1,,
+independence,A,1,225346003,9
+indication,A,1,410665000,6
+indications,A,1,424295009,5
+infarction,A,1,55641003,7
+infarctions,A,1,,
+infected,A,1,73154007,6
+infectious clinic,A,1,,
+infectious diseases syllabus,A,1,,
+infectious esophagitis,A,1,,
+infectious picture,A,1,,
+inferior rectus muscle,A,1,47869003,21
+inferior vena cava filter,A,1,216051000119102,7
+infratemporal pathway,A,1,,
+inhibitors,A,1,412032002,6
+inhibits,A,1,,
+injury,A,1,19130008,6
+installation,A,1,136548003,
+intense,A,1,248098003,11
+interdigital,A,1,264041005,7
+intermittent dysphagia,A,1,19597002,11
+international headache society,A,1,,
+interrupted,A,1,261017006,5
+intervention,A,1,393449003,
+interventricular septum,A,1,589001,25
+intoxications,A,1,187275001,13
+intracranial pressure,A,1,250844005,6
+intraepithelial,A,1,89947002,4
+intramedullary,A,1,60213007,5
+intramedullary nail,A,1,8451008,11
+intraocular surgery,A,1,,
+intravenous administration,A,1,394040004,
+intravenous treatment,A,1,,
+intubation,A,1,52765003,6
+io,A,1,58091002,3
+ipsilateral,A,1,255208005,6
+irrigation,A,1,67889009,5
+irritative,A,1,235074006,
+ischemic,A,1,255426005,6
+isolated antibiotherapy,A,1,,
+isolated thrombocytopenia,A,1,724637001,15
+issue,A,1,152952000,
+iv calcium gluconate,A,1,,
+jaundice,A,1,263780001,
+jaw,A,1,661005,14
+jugular pulse,A,1,,
+juvenile myoclonic epilepsy,A,1,6204001,13
+kalemia,A,1,,
+kappa chains,A,1,,
+kappa light chains,A,1,,
+kawasaki disease,A,1,75053002,15
+knee,A,1,72696002,14
+knee arthroplasty,A,1,265102002,
+labetalol,A,1,46547007,8
+lack,A,1,138091007,
+lady,A,1,137025005,
+lambda type,A,1,,
+lamina propria,A,1,30751000,24
+laparoscopy,A,1,142523001,
+large,A,1,255509001,6
+lasting,A,1,725058003,17
+lasting seconds,A,1,,
+lateral wall,A,1,264067000,7
+lefort type i fracture,A,1,,
+lefort's type i fracture,A,1,,
+leg weakness,A,1,,
+leiden,A,1,143012004,
+lennox gastaut,A,1,,
+leukocytes,A,1,275741008,12
+levels,A,1,258395000,4
+lift,A,1,360304005,9
+lifting,A,1,258141001,12
+light chains,A,1,414761008,15
+likelihood,A,1,443404001,5
+limbic encephalitis,A,1,230192003,12
+limits of normality,A,1,,
+linear igg,A,1,,
+linear trajectories,A,1,,
+liver inflammation,A,1,,
+livestock,A,1,137146004,
+livestock workers,A,1,44585008,11
+local treatment,A,1,63743009,9
+loculated,A,1,90884009,6
+long term,A,1,184039000,
+low-dose,A,1,51251000112106,9
+lower limbs,A,1,723158004,12
+lower limit,A,1,260921009,7
+lumbar canal,A,1,,
+lumbar canal stenosis,A,1,,
+lumbar onset,A,1,,
+lumbar pain,A,1,139421003,
+lumbosciatic pain,A,1,,
+luminal,A,1,88138002,9
+lupus,A,1,200936003,8
+lymph nodes,A,1,141352004,
+lymphadenopathy,A,1,139134006,
+lymphocytic pleocytosis,A,1,,
+lymphocytosis,A,1,67023009,13
+lymphoid neoplasms,A,1,450940003,12
+lymphoma,A,1,21964009,12
+lysis,A,1,30750004,6
+m,A,1,257969007,6
+macrocytic anemia,A,1,83414005,14
+macular edema,A,1,37231002,15
+macular hemorrhages,A,1,,
+macular hole,A,1,193388002,
+maintained,A,1,385630006,7
+maintenance,A,1,367049001,
+malignization,A,1,,
+mammography,A,1,71651007,13
+mandibular claudication,A,1,,
+maneuver,A,1,116320007,16
+manifestation,A,1,111800004,9
+marrow aplasia,A,1,,
+marrow failure,A,1,1177173001,18
+mass,A,1,4147007,5
+masson's trichrome,A,1,,
+material,A,1,276731003,4
+maternal family,A,1,315871007,
+maxilla,A,1,70925003,19
+maxillary sinus,A,1,15924003,15
+mean arterial pressure,A,1,1285244000,10
+measurement,A,1,122869004,8
+mechanical,A,1,261018001,6
+mechanical complications,A,1,157766005,
+mechanisms,A,1,257544000,4
+medial,A,1,36263002,
+medial orbital rim,A,1,,
+medical,A,1,74188005,6
+medium,A,1,255508009,6
+megakaryocytes,A,1,145165006,
+membranous,A,1,83097008,6
+meningeal irritation,A,1,70784009,8
+meniscopathy,A,1,,
+meropenem,A,1,96062004,8
+metabolic alkalosis,A,1,1388004,9
+metabolic chain,A,1,,
+metformin,A,1,109081006,9
+microcystic adenoma,A,1,189580001,
+microhematuria,A,1,,
+microsatellite instability,A,1,443412009,3
+microtome,A,1,705219006,8
+midface,A,1,720982007,20
+midface fractures,A,1,,
+milk,A,1,70813002,7
+mine,A,1,136603005,
+minutes,A,1,258701004,5
+miscarriage,A,1,17369002,17
+mitral insufficiency,A,1,48724000,15
+moderate,A,1,6736007,7
+moderate-high doses,A,1,,
+modifies,A,1,,
+molar gestation,A,1,,
+mole,A,1,58817003,13
+molecular classification,A,1,,
+monocular amaurosis,A,1,,
+mononucleosis,A,1,154359004,
+month,A,1,258706009,5
+mood,A,1,85256008,9
+morbidity,A,1,138439004,
+morphine,A,1,73572009,8
+mortality,A,1,409651001,3
+mother,A,1,393493003,
+motor ocular nerve,A,1,,
+motor symptoms,A,1,139510009,
+movement,A,1,255324009,9
+movements,A,1,141243005,
+ms,A,1,258697002,5
+mucosa,A,1,74301006,7
+mucus,A,1,49909006,13
+muscle reflexes,A,1,,
+muscular,A,1,263816006,7
+musical,A,1,136266009,
+mutation,A,1,471281007,8
+mutations,A,1,722967008,9
+myalgias,A,1,,
+mycophenolate,A,1,409330005,14
+myoclonus,A,1,17450006,10
+myodesopsias,A,1,,
+myopic macular degeneration,A,1,312898002,17
+nail dynamization,A,1,,
+naso-ethmoidal fractures,A,1,,
+natural,A,1,510009,6
+nausea,A,1,139330007,
+neck pain,A,1,81680005,11
+negative bacilli,A,1,,
+neoadjuvant,A,1,373847000,8
+neoplasms,A,1,187597000,
+nephrogenic diabetes insipidus,A,1,111395007,15
+nephrotic syndrome,A,1,155851004,
+nerve t1 under t1,A,1,,
+neurologist,A,1,56397003,12
+neurolytic treatment,A,1,,
+ngs,A,1,1366450005,8
+ngs panel,A,1,,
+nighttime departures,A,1,,
+nitrites,A,1,,
+nnt=,A,1,,
+no matter,A,1,,
+no value,A,1,408094002,4
+nocardia,A,1,59674005,16
+nocturnal,A,1,2546009,7
+nodule,A,1,27925004,6
+noia,A,1,,
+non-arteritic,A,1,230509007,14
+non-arteritic noia,A,1,,
+non-invasive,A,1,22762002,6
+non-obvious clinical pictures,A,1,,
+nonspecific,A,1,154388003,
+nonunion,A,1,302941001,11
+noonan syndrome,A,1,88327006,10
+normal blood glucose,A,1,,
+normal glycorrhachia,A,1,,
+normal population,A,1,,
+normality,A,1,276800000,4
+nose,A,1,45206002,14
+notification,A,1,147784004,
+nsaid,A,1,16403005,8
+null,A,1,276727009,5
+numbering,A,1,,
+occurrence,A,1,246454002,6
+ocular examination,A,1,,
+ocular manifestations,A,1,111399001,
+ocular motility,A,1,31763002,4
+oculomotor nerves,A,1,343271000119109,15
+oft,A,1,,
+older,A,1,53201003,10
+older patients,A,1,,
+open fracture,A,1,397181002,10
+opinion,A,1,186074001,
+opioids,A,1,312060001,6
+optic nerve,A,1,18234004,15
+option 2,A,1,,
+option 3,A,1,,
+orbital,A,1,263826004,7
+orbito-malar complex,A,1,,
+orbito-malar region,A,1,,
+orthosis,A,1,224898003,6
+osm,A,1,143099009,
+osteoarthritis,A,1,156486003,
+osteosynthesis material,A,1,,
+otorhinolaryngologic,A,1,60823005,6
+ovarian size,A,1,,
+overlap,A,1,276657008,6
+p. aeruginosa,A,1,,
+p. jirovecii infection,A,1,,
+pa,A,1,259016002,5
+painful,A,1,22253000,9
+painless,A,1,255350008,5
+palmo-plantar keratoderma,A,1,,
+palpable inguinal nodes,A,1,,
+pancreas,A,1,15776009,18
+pancytopenia,A,1,127034005,15
+pao2/fio2,A,1,,
+papulocoses,A,1,,
+papulopustular rash,A,1,,
+paradoxical pulse,A,1,52099006,11
+parameters,A,1,252116004,3
+parapneumonic pleural effusion,A,1,,
+parenteral nutritional therapy,A,1,,
+pathogens,A,1,,
+pathologic significance,A,1,,
+pathological,A,1,29458008,6
+pathological value,A,1,,
+pathologies,A,1,,
+pattern,A,1,255711007,4
+pcp<18,A,1,,
+pediatrics,A,1,394537008,6
+pelvic movements,A,1,229262002,11
+pelvis,A,1,12921003,13
+peptic stricture,A,1,235596005,15
+percentage,A,1,389446000,
+perfusion,A,1,88058003,6
+pericardial effusion,A,1,70370001,12
+periocular pain,A,1,,
+peripapillary,A,1,255565005,7
+peripheral blood,A,1,119273009,15
+peripheral blood smear,A,1,117023006,13
+peripheral polyneuropathy,A,1,,
+pernicious anemia,A,1,84027009,17
+persistence,A,1,130965009,11
+persists,A,1,,
+pertrochanteric fracture,A,1,208562000,17
+pesi,A,1,,
+pesis,A,1,304756004,4
+pet-ct,A,1,1373815000,15
+phenomenon,A,1,398123003,13
+phenotype,A,1,145678007,
+phospholipid syndrome,A,1,1263496006,12
+piante murmur,A,1,,
+pioglitazone,A,1,326058001,9
+pituitary adenomas,A,1,189628002,11
+pituitary insufficiency,A,1,74728003,12
+pituitary mri,A,1,,
+plasma,A,1,50863008,16
+plasma cells,A,1,269499001,16
+platelet count,A,1,142967005,
+platelet transfusions,A,1,,
+plexus block,A,1,307015004,14
+plexus blockade,A,1,,
+pmn,A,1,101380000,6
+pneumococcal infection,A,1,16814004,9
+pneumology,A,1,56775002,5
+po2,A,1,250546000,16
+polyangiitis,A,1,46956008,12
+polychromatophilia,A,1,52300009,6
+polycystic entity,A,1,,
+polyuria,A,1,139462009,
+poor control,A,1,147815004,
+poor girl,A,1,,
+poor response,A,1,405786003,3
+poorly,A,1,556001,6
+post-traumatic hypovolemia,A,1,,
+posterior cord,A,1,282786009,14
+posterior motor,A,1,,
+posterior vitreous detachment,A,1,247081001,15
+posteriori,A,1,,
+postgastrectomy,A,1,197126006,
+potassium-sparing diuretic,A,1,47755009,6
+pre-core mutant,A,1,,
+precocious puberty,A,1,154716006,
+precordial,A,1,139231008,
+pregnant woman,A,1,255409004,7
+prepathological value,A,1,,
+pressure,A,1,13543005,6
+pretibial myxedema,A,1,78146007,14
+primary,A,1,63161005,6
+primary biliary cirrhosis,A,1,31712002,16
+primary hyperaldosteronism,A,1,190507007,13
+priority treatment,A,1,,
+probability,A,1,273713006,4
+programmed,A,1,311598006,9
+progress,A,1,136791005,
+promotes,A,1,,
+prophylaxis,A,1,46167008,5
+prosthesis,A,1,53350007,5
+prothrombotic status,A,1,,
+pruritic,A,1,301444002,
+pseudarthrosis,A,1,240195004,
+pseudo-flu-like symptomatology,A,1,,
+pseudoarthrosis,A,1,31511007,12
+pseudocrisis,A,1,,
+pseudosyringomyelic,A,1,,
+psychiatry everything,A,1,,
+pti,A,1,,
+puerperium,A,1,86569001,13
+pulmonary aspergillosis,A,1,6042001,12
+pulmonary atelectasis,A,1,46621007,11
+pulmonary contusion,A,1,262784001,15
+pulmonary infections,A,1,233666007,19
+pulmonary infiltrates,A,1,196145005,
+pulmonary parenchyma,A,1,396918008,7
+pulmonary thromboembolism,A,1,233935004,14
+puncture,A,1,11639007,11
+punctured,A,1,,
+punished,A,1,,
+pvd,A,1,236078003,15
+pvds,A,1,,
+qt space,A,1,,
+quadrants,A,1,261083004,8
+quantification,A,1,1362011002,12
+question thinking,A,1,,
+questions,A,1,288796008,12
+quickest,A,1,,
+ra,A,1,12396006,12
+radicular pain,A,1,11679003,16
+radiological diagnosis,A,1,,
+radius,A,1,62413002,17
+ranges,A,1,277975002,5
+rapid administration,A,1,,
+rare,A,1,89292003,6
+raspberry tongue,A,1,5920007,13
+raynaud's,A,1,195295006,10
+read,A,1,367152006,
+reading,A,1,50360004,10
+real life,A,1,,
+reappearance,A,1,225447006,9
+reason,A,1,410666004,6
+recommendations,A,1,8050000,11
+reconstruction,A,1,122465003,6
+rectal cancer,A,1,363351006,18
+recurrent,A,1,37056003,
+recurrent infections,A,1,1187114007,13
+red cell destruction,A,1,,
+red lips,A,1,,
+refeeding syndrome,A,1,427698009,8
+refractive defects,A,1,,
+refractory,A,1,20646008,6
+regenerative,A,1,115963009,14
+region,A,1,18432002,6
+regular check-ups,A,1,,
+reiter's,A,1,154390002,
+reiter's syndrome,A,1,67224007,18
+release,A,1,115956009,4
+remeasurement,A,1,,
+remission,A,1,277022003,6
+renal crises,A,1,,
+renal crisis,A,1,236503001,13
+renopulmonary syndrome,A,1,,
+repercussion,A,1,,
+replenishment,A,1,,
+replication,A,1,74256009,9
+repolarization,A,1,428417006,12
+residency,A,1,,
+respiratory acidosis,A,1,12326000,9
+respiratory distress,A,1,271825005,7
+respiratory route,A,1,,
+responses,A,1,252971002,
+rest,A,1,258157001,6
+result,A,1,393456009,
+reticulocytosis,A,1,142899000,
+retinal,A,1,155104004,
+retinal detachment,A,1,155103005,
+review,A,1,393061004,
+rheumatoid arthritis,A,1,156471009,
+rheumatologist,A,1,45440000,12
+rhinorrhea,A,1,6696001,11
+right border,A,1,277929005,24
+right cavities,A,1,,
+right ventricular dysfunction,A,1,472774001,19
+risk factor,A,1,80943009,3
+risser,A,1,870537001,10
+ritcher's syndrome,A,1,,
+route,A,1,260670006,4
+routine,A,1,50811001,6
+rra=,A,1,,
+rsv-positive bronchiolitis,A,1,,
+rubella,A,1,36653000,15
+rupture,A,1,263896005,
+rv flow,A,1,,
+sad,A,1,66446005,10
+safety's,A,1,,
+salbutamol,A,1,91143003,9
+saline glucose,A,1,,
+sans sabrafens,A,1,,
+scabies,A,1,128869009,20
+scalp,A,1,41695006,13
+schistocytes,A,1,726510009,6
+sciatic nerve,A,1,41519007,19
+scleroderma,A,1,201441006,9
+secondary glomerulopathy,A,1,,
+secondary syphilis,A,1,154382002,
+secretion,A,1,35184007,8
+sediment,A,1,386100006,15
+sego,A,1,,
+self-induced weight loss,A,1,,
+sella turcica,A,1,42575006,21
+seminules,A,1,,
+sensitivity,A,1,35209006,9
+sensory picture,A,1,,
+separ,A,1,,
+sequential,A,1,251267008,13
+serological techniques,A,1,,
+serositis,A,1,370469003,6
+serous cystoadenoma,A,1,,
+serum aldolase,A,1,,
+serum thyroglobulin,A,1,389554000,
+serum thyroid stimulating hormone,A,1,166336006,12
+severity,A,1,246112005,6
+sex,A,1,57312000,5
+sglt-2,A,1,,
+shock,A,1,27942005,7
+short evolution time,A,1,,
+short onset time,A,1,,
+shortened,A,1,359530003,6
+shorter,A,1,248329006,8
+shorter duration,A,1,,
+shunt,A,1,74478000,6
+signal,A,1,394251009,
+significant,A,1,393478002,
+signs,A,1,141468009,
+situations,A,1,273814005,4
+skin abscesses,A,1,,
+skin induration,A,1,,
+skin lesions,A,1,274949005,13
+skull ct,A,1,,
+slaps,A,1,,
+slaughterhouses,A,1,,
+sle,A,1,10429004,15
+sleep hygiene,A,1,443483005,11
+small effusion,A,1,,
+smells,A,1,390082009,
+sodium heparin,A,1,466623002,6
+soft drusen,A,1,420272005,18
+soft tissues,A,1,87784001,6
+spanish society of hematology and hemotherapy,A,1,,
+special stain,A,1,69915000,13
+specimen,A,1,123038009,1
+spectrum,A,1,229710003,
+spike discharges,A,1,,
+spinal cord lesions,A,1,,
+spine forward,A,1,,
+splenectomized,A,1,,
+split gland,A,1,,
+sporadic,A,1,75741005,8
+stability,A,1,141721003,
+stabilization,A,1,115979005,3
+stage,A,1,258214002,5
+stage a1,A,1,261619008,6
+stage endometrial cancer,A,1,,
+stains type i collagen fibers,A,1,,
+staphylococcal shock,A,1,,
+stenosis,A,1,257554001,
+steps,A,1,217093000,9
+steroid,A,1,116566001,10
+steroids,A,1,147895000,
+stops,A,1,260890000,5
+stressful situation,A,1,,
+stretching,A,1,122546009,10
+stroke,A,1,230690007,13
+stuffing,A,1,227762008,7
+subacute thyroiditis,A,1,38727009,12
+subcapital fracture,A,1,21761007,19
+subcutaneous,A,1,263887005,7
+subepithelial,A,1,427987005,15
+subretinal hemorrhage,A,1,13937002,16
+subsides,A,1,,
+subtype,A,1,260837004,5
+success rate,A,1,,
+sudden onset,A,1,367327000,6
+superior,A,1,43014004,
+superior palpebral pseudo-ptosis,A,1,,
+supplemental oxygen therapy,A,1,,
+suppressed,A,1,245780008,6
+suppression test,A,1,50947004,11
+suppressive,A,1,36954008,
+suppuration,A,1,41034006,7
+surface antigen,A,1,143568001,
+surgical,A,1,83578000,6
+surgical criteria,A,1,,
+surgical intervention,A,1,413239008,9
+suspected,A,1,76053005,8
+suspecting,A,1,,
+symmetrical,A,1,255473004,7
+symptom,A,1,393457000,
+syndrome,A,1,64572001,2
+syringomyelic,A,1,,
+systemic disease,A,1,56019007,5
+systemic lupus erythematosus,A,1,156450004,
+systemic sclerosis,A,1,89155008,10
+systemic symptoms,A,1,702809001,8
+systolic murmur,A,1,31574009,15
+t1,A,1,23351008,9
+tachypnea,A,1,43186005,
+tag line,A,1,,
+talking,A,1,87335007,13
+tanner iv,A,1,,
+tb,A,1,60117003,3
+tbi,A,1,127295002,14
+techniques,A,1,272394005,5
+temperature,A,1,246508008,4
+temporal,A,1,255570003,7
+temporal arteritis,A,1,87511001,14
+temporal criteria,A,1,,
+temporal lobe,A,1,78277001,23
+temporomandibular ankylosis,A,1,,
+temporomandibular region,A,1,,
+tendinitis,A,1,312785002,
+teratogenicity,A,1,58694006,11
+territory,A,1,224024007,7
+textbook,A,1,,
+therapeutic approach,A,1,,
+thermoalgesic,A,1,,
+thermoalgesic anesthesia,A,1,,
+thickening,A,1,89977008,9
+thoracic roots,A,1,,
+thoracic trauma,A,1,,
+thorax,A,1,51185008,11
+thromboendarterectomy,A,1,74556005,20
+thrombophilia,A,1,191302007,
+thrombotic episode,A,1,,
+thyroid function,A,1,143701008,
+thyroid gland,A,1,69748006,14
+tibia fracture,A,1,,
+ticlopidine,A,1,108971003,6
+tissues,A,1,87784001,6
+today,A,1,101953001,6
+tolerance,A,1,71412006,7
+topical,A,1,359540000,6
+total,A,1,255619001,6
+total certainty,A,1,,
+toxicity,A,1,75478009,4
+toxicoderma,A,1,95326004,10
+tp53,A,1,1260406003,17
+traction,A,1,66391000,10
+transfused,A,1,157887007,
+transfusing,A,1,151002005,
+transient hypogammaglobulinemia of infancy,A,1,88714009,8
+transsphenoidal decompression,A,1,,
+traps superficial capillaries,A,1,,
+treated,A,1,28995006,3
+treated with,A,1,28995006,3
+trichrome staining,A,1,104207001,13
+trigemino-autonomic headache,A,1,,
+triple negative,A,1,706970001,20
+tropism,A,1,446722008,15
+troponin,A,1,102680009,16
+trunk forward,A,1,,
+tsh,A,1,65428006,19
+tuberculosis,A,1,154281007,
+tumor cell proliferation index,A,1,,
+tumor-like debridement,A,1,,
+turner syndrome,A,1,38804009,19
+type of fracture,A,1,260844008,6
+typical,A,1,66915001,11
+ulcerative colitis,A,1,155764007,
+ulnar green stalk,A,1,,
+uncontrolled,A,1,19032002,6
+unilateral neuralgiform headache,A,1,725058003,17
+union,A,1,134194006,11
+unprofitable,A,1,,
+unusual,A,1,141770004,
+upper limbs,A,1,192968004,
+urethral exudate,A,1,,
+uric acid,A,1,1710001,17
+urinary free,A,1,,
+urinary osm,A,1,,
+urinary osmolarity,A,1,,
+urine gram,A,1,,
+urine protein,A,1,50456001,15
+use of,A,1,260676000,5
+v/q disturbance,A,1,,
+valproic acid,A,1,13965000,11
+variable,A,1,255372005,5
+variants,A,1,193030005,18
+vascular event,A,1,,
+vascular profile,A,1,,
+vascular trunk,A,1,,
+vasodilatation,A,1,30017007,9
+vasopressin test,A,1,,
+vegetative fibers,A,1,,
+vegetative neuropathy,A,1,,
+ventilated areas,A,1,,
+ventricular extrasystoles,A,1,17338001,15
+verge,A,1,112233002,6
+vertebra,A,1,51282000,16
+vertebrae,A,1,52858001,16
+vertical gaze,A,1,246773002,12
+vessels,A,1,146274008,
+veterinarian,A,1,135769006,
+veterinarians,A,1,20090002,11
+vhz,A,1,,
+viability,A,1,367031001,
+vibratory,A,1,75693000,9
+viii edition,A,1,,
+violent jumps,A,1,,
+viral hepatitis,A,1,154346007,
+viral meningoencephalitis,A,1,82547005,15
+virus dna,A,1,121182007,11
+vision,A,1,61402003,10
+visual acuity,A,1,363983007,5
+visual disturbances,A,1,194656007,12
+vitamin b12,A,1,259664005,18
+vitreous hemorrhage,A,1,31341008,15
+vomiting,A,1,139337005,
+von-hippel-lindau syndrome,A,1,,
+vsd,A,1,30288003,21
+wait,A,1,151864005,
+walking,A,1,63448001,17
+warning,A,1,151366002,
+warning sign,A,1,713056003,8
+washing,A,1,257942006,
+water retention,A,1,,
+weight gain,A,1,8943002,9
+weight loss,A,1,89362005,9
+western-blot test,A,1,,
+wet,A,1,17461003,6
+wet form,A,1,39439008,12
+white coloration,A,1,,
+wilson's disease,A,1,88518009,12
+wiskott-aldrich syndrome,A,1,36070007,20
+women,A,1,225062001,6
+worded,A,1,,
+working hard,A,1,,
+worries,A,1,276075005,9
+worsen,A,1,385639007,5
+worsening,A,1,230993007,7
+worsens,A,1,,
+wound,A,1,13924000,8
+written,A,1,152847009,
+x,A,1,258002001,
+x-linked,A,1,263934009,6
+x-linked immunodeficiencies,A,1,,
+y chromosome,A,1,416911009,15
+year,A,1,258707000,5
+year's,A,1,,
+young,A,1,84422007,6
+young people,A,1,,
+younger patients,A,1,,
+yours,A,1,,
+patient's,B,97,152365000,
+diagnosis,B,95,439401001,3
+case,B,86,398241000,3
+symptoms,B,67,139552004,
+patient,B,44,116154003,5
+treatment,B,31,151269007,
+findings,B,30,393473006,
+presence,B,27,386397008,7
+presentation,B,27,246105001,4
+absence,B,25,418560003,4
+history,B,25,51042001,5
+risk,B,25,366990009,
+elevated,B,23,75540009,8
+increased,B,23,35105006,7
+consistent with,B,22,7883008,3
+option 3,B,20,,
+options,B,17,223487003,8
+condition,B,16,260905004,4
+infection,B,16,257551009,
+potential,B,16,151638002,
+severe,B,16,24484000,7
+conditions,B,15,157161005,
+option 2,B,15,,
+management,B,13,393450003,
+pain,B,13,366981002,
+abnormal,B,12,85531003,
+lack,B,12,138091007,
+option 4,B,12,,
+associated with,B,11,47429007,6
+inflammation,B,11,23583003,5
+involvement,B,11,278112009,6
+option 1,B,11,,
+complications,B,10,156097009,
+development,B,10,103378002,3
+effective,B,10,112234008,
+fever,B,10,248425001,9
+hypertension,B,10,38341003,8
+patients,B,10,184191002,
+progression,B,10,246450006,4
+hypoxemia,B,9,30869003,8
+individuals,B,9,785892007,5
+levels,B,9,258395000,4
+negative,B,9,393476003,
+urine,B,9,78014005,14
+affected,B,8,247591002,6
+blood,B,8,87612001,14
+characterized,B,8,373673007,10
+complication,B,8,116223007,4
+level,B,8,276625007,4
+months,B,8,258706009,5
+positive,B,8,393474000,
+progressive,B,8,62789008,
+test,B,8,165734002,
+age,B,7,102518004,7
+antibodies,B,7,143260007,
+cluster headaches,B,7,155048007,
+context,B,7,263491009,4
+diagnostic test,B,7,142005002,
+low,B,7,62482003,6
+monitoring,B,7,147847009,
+production,B,7,246848009,
+reducing,B,7,160661009,
+scenario,B,7,,
+action,B,6,129264002,4
+affecting,B,6,123127006,
+asthenia,B,6,274638001,
+bone marrow,B,6,256888005,
+cause,B,6,152527006,
+crp,B,6,61425002,17
+disease,B,6,64572001,2
+eye,B,6,367568005,
+headache,B,6,139490008,
+immediate,B,6,393483005,
+improvement,B,6,152877003,
+increase,B,6,260366006,5
+itp,B,6,32273002,18
+laboratory findings,B,6,309588008,5
+lesion,B,6,49755003,3
+low-risk,B,6,370912008,4
+normal,B,6,17621005,6
+oa,B,6,789698001,10
+pattern,B,6,255711007,4
+persistent,B,6,86639004,
+removal,B,6,118292001,3
+response,B,6,151263008,
+retina,B,6,5665001,20
+significant,B,6,393478002,
+weight loss,B,6,89362005,9
+woman,B,6,224526002,6
+adequate,B,5,88323005,6
+aiha,B,5,25121006,18
+atypical,B,5,112231000,6
+bacterial meningitis,B,5,95883001,11
+benign,B,5,30807003,6
+chest x-ray,B,5,55587003,14
+decreased,B,5,1250004,7
+diarrhea,B,5,62315008,12
+excessive,B,5,260378005,5
+exogenous,B,5,51352008,6
+exudative,B,5,255305006,6
+fracture,B,5,157169007,
+higher,B,5,151568000,
+hours,B,5,258702006,5
+hyperkalemia,B,5,14140009,11
+indomethacin,B,5,60149003,9
+initial,B,5,884001,7
+kidneys,B,5,146256004,
+lumbar puncture,B,5,148731000,
+lungs,B,5,146275009,
+managing,B,5,133959005,
+morphine,B,5,73572009,8
+nature,B,5,246425008,4
+neuropathic pain,B,5,247398009,12
+painless,B,5,255350008,5
+pneumonia,B,5,60363000,
+prednisone,B,5,116602009,18
+pregnancy,B,5,77386006,12
+prolonged,B,5,255224006,6
+red blood cells,B,5,126248006,8
+respiratory distress,B,5,271825005,7
+scid-x1,B,5,,
+sensitivity,B,5,35209006,9
+surgery,B,5,257556004,5
+tests,B,5,272393004,6
+weeks,B,5,258705008,5
+accumulation,B,4,87862008,14
+acute,B,4,53737009,6
+administration,B,4,152269009,
+amd,B,4,237967002,13
+antibiotics,B,4,324287006,
+appropriate,B,4,80608005,10
+cases,B,4,398241000,3
+changes,B,4,147903004,
+child,B,4,393494009,
+clinical case,B,4,,
+collagenous colitis,B,4,19311003,15
+confirmation,B,4,248992004,12
+corticosteroids,B,4,79440004,6
+course,B,4,260908002,5
+ct,B,4,146287002,
+ct scan,B,4,129679001,10
+damage,B,4,37782003,5
+days,B,4,258703001,5
+deep vein thrombosis,B,4,195403006,
+dyspnea,B,4,49233005,
+early stages,B,4,,
+edema,B,4,79654002,6
+elisa test,B,4,143440002,
+empyema,B,4,66696003,8
+enophthalmos,B,4,80093006,12
+female,B,4,139867007,
+fna,B,4,257759008,11
+follow-up,B,4,308273005,3
+growth,B,4,144464005,
+hcg,B,4,59433001,19
+hiv infection,B,4,86406008,7
+igg,B,4,143328001,
+individual,B,4,385435006,5
+information,B,4,136824003,
+lesions,B,4,364643006,
+long-term,B,4,263803006,7
+medication,B,4,2533004,2
+megakaryocytes,B,4,145165006,
+mild,B,4,18647004,
+mri,B,4,113091000,11
+msi,B,4,735385007,6
+paracetamol,B,4,90332006,13
+physical examination,B,4,5880005,8
+prevent,B,4,101445003,6
+puberty,B,4,18991001,10
+recurrent,B,4,37056003,
+relevant,B,4,137669002,
+results,B,4,423100009,5
+rubella,B,4,36653000,15
+seizures,B,4,407621003,7
+specificity,B,4,63700001,7
+stroke,B,4,230690007,13
+sweating,B,4,161857006,8
+tachycardia,B,4,3424008,13
+trauma,B,4,19130008,6
+adh,B,3,77671006,17
+adrenal glands,B,3,237758006,
+al amyloidosis,B,3,237864008,
+allergies,B,3,137650007,
+alternative diagnoses,B,3,,
+antibiotherapy,B,3,,
+antibiotic therapy,B,3,281789004,9
+anxiety,B,3,38237000,9
+aptt,B,3,42525009,15
+assessment,B,3,122503006,5
+azithromycin,B,3,96034006,7
+beta-blocker,B,3,33252009,5
+bilateral,B,3,51440002,7
+biopsy,B,3,86273004,11
+body's,B,3,351203009,
+bone healing,B,3,405043008,5
+bruising,B,3,37808005,9
+cataract surgery,B,3,110473004,13
+cerebral blood flow,B,3,250847003,7
+cervix,B,3,71252005,25
+chronic,B,3,90734009,6
+clinical presentation,B,3,,
+culture results,B,3,,
+debridement,B,3,36777000,6
+decrease,B,3,260370003,5
+deficiency,B,3,47563007,6
+desmopressin,B,3,126189002,20
+detected,B,3,260373001,5
+diagnosing,B,3,,
+difficulty,B,3,371157007,9
+disruption,B,3,76555007,6
+dose,B,3,408102007,4
+drusen,B,3,18695008,5
+eeg,B,3,54550000,11
+efficacy,B,3,1156332000,10
+elisa,B,3,143440002,
+episodes,B,3,272128006,7
+escitalopram,B,3,395246009,9
+exacerbated,B,3,68027008,4
+excess,B,3,144291005,
+exposure,B,3,71677004,6
+external fixator,B,3,278280003,10
+face,B,3,89545001,13
+family history,B,3,137667000,
+fear,B,3,139491007,
+features,B,3,248185005,9
+fetus,B,3,393497002,
+finding,B,3,246188002,1
+fluid,B,3,33463005,3
+formation,B,3,88833009,7
+gabapentin,B,3,108402001,7
+gca,B,3,414341000,14
+general malaise,B,3,,
+glomeruli,B,3,,
+goodpasture's disease,B,3,236506009,18
+haemophilus influenzae,B,3,44470000,14
+hands,B,3,141636008,
+hb,B,3,38082009,16
+histopathological,B,3,277059002,6
+hiv,B,3,19030005,12
+holosystolic murmur,B,3,71201008,16
+hormone,B,3,87568004,13
+hypercapnia,B,3,29596007,8
+hyperthyroidism,B,3,34486009,11
+impaired,B,3,260379002,6
+inadequate,B,3,71978007,6
+increases,B,3,170663008,8
+increasing,B,3,260369004,7
+infant's,B,3,,
+inflammatory process,B,3,,
+injury,B,3,19130008,6
+intense,B,3,248098003,11
+intervention,B,3,393449003,
+intravenous,B,3,255560000,7
+invasive,B,3,10179008,6
+irregular,B,3,49608001,6
+jme,B,3,6204001,13
+joint pain,B,3,57676002,12
+knee,B,3,72696002,14
+lcs,B,3,273555000,4
+ldh,B,3,166681001,
+leukocytosis,B,3,111583006,12
+life-threatening condition,B,3,,
+lithium,B,3,85899009,11
+location,B,3,246267002,4
+loss,B,3,138214005,
+lymphocytes,B,3,709252005,16
+mass,B,3,4147007,5
+mcv,B,3,426342006,5
+mdd,B,3,,
+measures,B,3,367346004,3
+method,B,3,260686004,6
+minutes,B,3,258701004,5
+mmhg,B,3,259018001,5
+moderate,B,3,6736007,7
+molar pregnancy,B,3,44782008,17
+mutations,B,3,722967008,9
+myalgia,B,3,68962001,12
+nail,B,3,72651009,12
+nausea,B,3,139330007,
+neurogenic claudication,B,3,303081002,15
+neurological symptoms,B,3,139607007,
+normal physical examination,B,3,,
+nsaid,B,3,16403005,8
+option 5,B,3,,
+osteophytes,B,3,239454000,12
+pallor,B,3,398979000,12
+pe,B,3,101618006,6
+placement,B,3,71861002,4
+plasmapheresis,B,3,20720000,14
+properties,B,3,405648003,2
+prophylaxis,B,3,46167008,5
+pulmonary embolism,B,3,59282003,13
+q fever,B,3,86012006,
+ra,B,3,12396006,12
+radiographic,B,3,258106000,4
+rare,B,3,89292003,6
+reiter's syndrome,B,3,67224007,18
+respiratory infection,B,3,195705000,
+sensitive,B,3,83185005,5
+short stature,B,3,277266007,8
+smd,B,3,181237009,21
+soft drusen,B,3,420272005,18
+source,B,3,260753009,5
+stability,B,3,141721003,
+stage,B,3,258214002,5
+standing,B,3,10904000,9
+statement,B,3,153184004,
+status,B,3,263490005,4
+streptococcus pneumoniae,B,3,9861002,16
+study,B,3,224699009,10
+subepithelial,B,3,427987005,15
+suspected,B,3,76053005,8
+tearing,B,3,139559008,
+thoracentesis,B,3,91602002,11
+time,B,3,118574008,4
+tissue,B,3,85756007,5
+trunk,B,3,22943007,7
+type 2 diabetes mellitus,B,3,44054006,13
+ultrasound,B,3,16310003,11
+urinary tract infection,B,3,68566005,10
+valproate,B,3,264325000,15
+vte,B,3,1145071008,3
+weight,B,3,726527001,4
+years,B,3,258707000,5
+absences,B,2,248227006,11
+abundant,B,2,766706007,13
+acidosis,B,2,154757004,
+activation,B,2,33230000,11
+activity,B,2,257733005,4
+acute hiv infection,B,2,111880001,8
+afferent,B,2,49530007,6
+alleviate,B,2,225353007,5
+als,B,2,739123003,12
+amitriptyline,B,2,40589005,9
+an,B,2,247326002,
+ana,B,2,45530001,21
+analgesics,B,2,151180002,
+analysis,B,2,272389005,6
+anemia,B,2,64593003,
+animals,B,2,387961004,5
+anorexia,B,2,79890006,7
+anorexia nervosa,B,2,154926005,
+anti-rna polymerase iii antibodies,B,2,,
+antibiotic,B,2,41000005,
+antibiotic treatment,B,2,,
+antigen-positive phase,B,2,,
+antinuclear antibodies,B,2,,
+apical infiltrates,B,2,,
+apparent,B,2,102519007,8
+area,B,2,42798000,6
+aspergillus fumigatus,B,2,32684000,14
+association,B,2,263534001,4
+attack,B,2,216299002,4
+attitude,B,2,225464009,6
+autoimmune disease,B,2,85828009,7
+autoimmune haemolytic anaemia,B,2,154803002,
+bacterial infection,B,2,87628006,4
+basal acth,B,2,,
+benefit,B,2,138333002,
+birads,B,2,,
+bleeding,B,2,303123004,
+blood flow,B,2,58190003,8
+blood tests,B,2,147033009,
+bone consolidation,B,2,,
+brain,B,2,12738006,14
+breast,B,2,76752008,18
+breast development,B,2,365402005,12
+brief,B,2,359535008,6
+calcium,B,2,5540006,8
+calcium gluconate,B,2,53691001,12
+cancer,B,2,86049000,10
+carbon dioxide,B,2,31811003,15
+carotid ultrasound,B,2,417218000,6
+carriers,B,2,,
+cdi,B,2,444296002,5
+central obesity,B,2,248311001,11
+central vision loss,B,2,,
+cerebrospinal fluid,B,2,65216001,13
+cervical insufficiency,B,2,17382005,16
+cervical lymphadenopathy,B,2,127086001,14
+cervical vertebrae,B,2,207936000,15
+cesarean section,B,2,11466000,20
+characterised,B,2,373673007,10
+characteristic symptoms,B,2,,
+child's,B,2,138336005,
+choice,B,2,408855004,4
+chromosomal abnormalities,B,2,316699005,
+chronic osteomyelitis,B,2,156791003,
+cll,B,2,92814006,19
+closed,B,2,29179001,6
+coagulation disorder,B,2,64779008,6
+collagen layer,B,2,,
+combined immunodeficiency,B,2,234572005,11
+compensatory response,B,2,,
+comprehensive,B,2,224854003,8
+conception,B,2,13693004,8
+confirm,B,2,703690001,6
+conjunctival injection,B,2,425223000,11
+corticosteroid,B,2,411213001,10
+corticosteroid therapy,B,2,325340008,5
+cortisol,B,2,56423005,19
+cost-effective,B,2,,
+creatinine,B,2,15373003,14
+critical situation,B,2,,
+crystals,B,2,250448002,12
+cushing's disease,B,2,190502001,14
+cushing's syndrome,B,2,154705004,
+d-dimer,B,2,25607008,14
+decline,B,2,154091000119106,4
+delayed bone age,B,2,123983008,9
+denervation,B,2,66277009,5
+dental malocclusion,B,2,,
+denudation,B,2,,
+deposition,B,2,46595003,5
+depression,B,2,41006004,9
+depressive disorder,B,2,35489007,10
+detect,B,2,397592007,6
+detection,B,2,367018006,
+determination,B,2,146392003,
+dexamethasone,B,2,116568000,19
+diabetes mellitus,B,2,191044006,
+diabetic nephropathy,B,2,127013003,13
+diagnostic,B,2,261004008,7
+diagnostic method,B,2,169289009,9
+diagnostic suspicion,B,2,,
+diagnostic tool,B,2,,
+differentiate,B,2,,
+dilating,B,2,229134003,15
+direct coombs test,B,2,77020008,16
+direct coombs' test,B,2,,
+disorders,B,2,64572001,2
+disrupted,B,2,425383001,9
+dizziness,B,2,69096003,11
+dna,B,2,24851008,9
+donor,B,2,261008006,5
+doses,B,2,426519003,6
+drainage,B,2,75823008,7
+dry form,B,2,41235001,13
+dyslipidemia,B,2,370992007,10
+e. coli,B,2,112283007,14
+elevated creatinine,B,2,,
+emergence,B,2,398025007,4
+emg,B,2,153454001,
+empirical,B,2,371018001,5
+enalapril,B,2,15222008,8
+endometriotic lesions,B,2,,
+endoscopy,B,2,34374007,12
+eosinophilic esophagitis,B,2,235599003,13
+epithelial atrophy,B,2,446689007,7
+er,B,2,33761008,8
+escharotomy,B,2,70177008,11
+escherichia coli,B,2,112283007,14
+esr,B,2,165466008,10
+evaluation,B,2,122503006,5
+exposure to,B,2,24932003,4
+extension,B,2,255536004,6
+extensive,B,2,41118005,6
+extent,B,2,260858005,5
+factor v leiden,B,2,143012004,
+failure,B,2,76797004,6
+fasciculations,B,2,,
+fertilising,B,2,,
+fish,B,2,90580008,8
+foramen,B,2,149166004,
+fourth thoracic nerve,B,2,244043004,16
+frequency,B,2,260864003,5
+frequent,B,2,70232002,6
+functional,B,2,40143009,6
+functional impairment,B,2,,
+functional impotence,B,2,8263001,15
+fungal infection,B,2,3218000,4
+glomerular filtration rate,B,2,80274001,9
+gout,B,2,90560007,14
+gpa,B,2,117508007,15
+griseofulvin,B,2,64349004,10
+haemolysis,B,2,260882000,5
+hand,B,2,85562004,13
+hard exudates,B,2,247131008,16
+hemimedullary syndrome,B,2,,
+hemodialysis,B,2,27392003,
+hemodynamic,B,2,422773005,4
+hemophilia a,B,2,28293008,9
+hepatitis b surface antigen,B,2,22290004,10
+her2 status,B,2,,
+hereditary spherocytosis,B,2,154795009,
+heterozygous,B,2,165733008,
+history of,B,2,392521001,4
+hla-identical,B,2,,
+hormonal deficit,B,2,87571007,11
+hospital admission,B,2,32485007,5
+hyperactivity,B,2,405026005,13
+hyperalgesia,B,2,55406008,12
+hypotension,B,2,155487000,
+hysteroscopy,B,2,142512000,
+iga,B,2,165942009,
+ige,B,2,165944005,
+igm,B,2,165941002,
+imaging,B,2,363679005,8
+immune complexes,B,2,143399001,
+immunocompromised,B,2,164708000,
+immunodeficiency,B,2,64431000,
+improving,B,2,385633008,7
+inappropriate,B,2,900000000000494007,6
+independence,B,2,225346003,9
+indicative,B,2,,
+individual's,B,2,,
+infected,B,2,73154007,6
+infectious,B,2,154347003,
+influenza,B,2,155559006,
+ingestion,B,2,111984006,7
+insomnia,B,2,62577008,
+insufficient,B,2,423437008,5
+intermediate,B,2,11896004,6
+interventricular septum,B,2,589001,25
+intervertebral,B,2,264042003,7
+intracranial pressure,B,2,250844005,6
+intraepithelial,B,2,89947002,4
+invasive aspergillosis,B,2,721798004,7
+invasive procedures,B,2,,
+investigation,B,2,164712006,
+irritability,B,2,55929007,9
+joint,B,2,39352004,9
+joints,B,2,81087007,8
+jugular venous pulse,B,2,22921004,8
+kappa light chains,B,2,,
+karyotype,B,2,145682009,
+kawasaki disease,B,2,75053002,15
+lancinating pain,B,2,,
+laparoscopy,B,2,142523001,
+late stage,B,2,236040000,5
+left leg,B,2,48979004,15
+left periocular pain,B,2,,
+limitation,B,2,246175000,6
+localized,B,2,255471002,7
+lormetacepam,B,2,,
+loss of appetite,B,2,79890006,7
+loss of vision,B,2,40031005,12
+low haemoglobin,B,2,,
+low platelet count,B,2,95605009,20
+lumbar canal stenosis,B,2,,
+lumbosciatica,B,2,,
+lupus,B,2,200936003,8
+magnetic resonance angiography,B,2,105370006,22
+magnetic resonance imaging,B,2,113091000,11
+malaria,B,2,154374002,
+malignancy,B,2,86049000,10
+mammography,B,2,71651007,13
+masson's trichrome technique,B,2,,
+maturation,B,2,164129002,
+mctd,B,2,33110008,9
+measles,B,2,154338006,
+medullary aplasia,B,2,,
+metabolic acidosis,B,2,59455009,9
+metamizol,B,2,,
+metamorphopsia,B,2,42134006,13
+microangiopathic haemolysis,B,2,,
+microorganism,B,2,264395009,3
+microsatellite instability,B,2,443412009,3
+microscopic haematuria,B,2,393594007,
+mineralocorticoid,B,2,419478000,16
+mitigate,B,2,,
+molar pregnancies,B,2,198818003,17
+mood changes,B,2,,
+motor symptoms,B,2,139510009,
+moxifloxacin,B,2,408008008,
+muscle,B,2,71616004,7
+muscle weakness,B,2,26544005,7
+myocardial infarction,B,2,233824008,
+myopia magna,B,2,,
+naproxen,B,2,11847009,10
+nerves,B,2,162191009,
+nitrites,B,2,,
+nnt,B,2,,
+nsaids,B,2,,
+obesity,B,2,154776002,
+observed,B,2,151174005,
+older,B,2,53201003,10
+onset of,B,2,77374008,4
+optic chiasm,B,2,244453006,22
+orbital,B,2,263826004,7
+orbitomalar fracture,B,2,,
+organisms,B,2,4748007,2
+organs,B,2,157344000,
+osteoarthritis,B,2,156486003,
+osteoporosis,B,2,156825006,
+oxygen delivery,B,2,16206004,5
+oxygen saturation,B,2,390357003,
+oxygen therapy,B,2,150975001,
+paco2,B,2,25284008,15
+pain management,B,2,278414003,5
+painful,B,2,22253000,9
+pao2,B,2,25579001,17
+paresthesias,B,2,,
+partial,B,2,255609007,6
+pathogens,B,2,,
+pathology,B,2,393402002,
+pathophysiology,B,2,,
+patient's pain,B,2,,
+pbc,B,2,71750001,6
+pcr,B,2,702675006,8
+periodic,B,2,81591007,5
+perioperative,B,2,398226000,5
+pheo,B,2,,
+phlebography,B,2,129108007,22
+physical findings,B,2,,
+platelet count,B,2,142967005,
+platelet transfusions,B,2,,
+platelets,B,2,259727009,6
+pleural effusion,B,2,155606001,
+pleural fluid,B,2,301988004,
+pleuritic pain,B,2,139233006,
+polydipsia,B,2,161847005,
+polymyositis,B,2,156457001,
+polyuria,B,2,139462009,
+portion,B,2,294345003,20
+pr,B,2,8319008,4
+predisposed,B,2,286704008,10
+pregnancies,B,2,127362006,12
+premature dilation,B,2,,
+pressure,B,2,13543005,6
+primary,B,2,63161005,6
+problem-solving,B,2,228552002,13
+procedure,B,2,71388002,1
+prominent,B,2,4657009,6
+promote,B,2,311648004,8
+protein levels,B,2,365773000,11
+proteinuria,B,2,144515004,
+psychogenic seizures,B,2,191714002,15
+puerperium,B,2,86569001,13
+pulmonary arteries,B,2,448470007,9
+pulmonary contusion,B,2,262784001,15
+pupillary defect,B,2,247017005,14
+radiological findings,B,2,,
+reasons,B,2,152435006,
+recommendation,B,2,420227002,6
+reduction,B,2,289928003,10
+relative rest,B,2,,
+relief,B,2,224978009,9
+renal dysfunction,B,2,236423003,11
+renal leak syndrome,B,2,,
+respiratory depression,B,2,80954004,6
+rest,B,2,258157001,6
+reticulocytosis,B,2,142899000,
+retinal detachment,B,2,155103005,
+rheumatoid arthritis,B,2,156471009,
+rhinorrhea,B,2,6696001,11
+right eye,B,2,18944008,17
+right sternal border,B,2,,
+risk factor,B,2,80943009,3
+risks,B,2,370995009,7
+rna microarrays,B,2,,
+rt-pa,B,2,387152000,22
+rupture,B,2,263896005,
+scarlatiniform rash,B,2,65036008,14
+scarlet fever,B,2,154303009,
+score,B,2,246262008,6
+secondary,B,2,2603003,6
+sensory deficits,B,2,,
+sensory disturbances,B,2,,
+septal rupture,B,2,371817007,16
+serum aldolase,B,2,,
+sexual development,B,2,112092002,10
+sexually transmitted infections,B,2,412712007,8
+signs,B,2,141468009,
+sinking,B,2,47044002,5
+skin,B,2,39937001,9
+skin lesions,B,2,274949005,13
+sle,B,2,10429004,15
+small,B,2,255507004,6
+sperm,B,2,6789008,19
+spironolactone,B,2,13929005,9
+splenectomy,B,2,64422000,
+spontaneous,B,2,5054005,6
+stable,B,2,58158008,7
+sudden,B,2,255363002,5
+symptom,B,2,393457000,
+syndrome,B,2,64572001,2
+systemic vasculitis,B,2,46956008,12
+t4,B,2,143688006,
+tachypnea,B,2,43186005,
+targeting,B,2,765109004,14
+therapeutic,B,2,262202000,7
+therapeutic option,B,2,,
+therapeutic response,B,2,102468005,6
+thickened,B,2,263899003,5
+thoracic vertebrae,B,2,273212000,9
+thrombocytopenia,B,2,70786006,10
+thrombopenic purpura,B,2,,
+thrombotic events,B,2,,
+tinea capitis,B,2,5441008,15
+tissue damage,B,2,37782003,5
+titer,B,2,118590008,5
+tolerance,B,2,71412006,7
+tonic-clonic seizures,B,2,54200006,10
+tp53,B,2,1260406003,17
+transmitted,B,2,60117003,3
+transvaginal ultrasound,B,2,427068001,23
+treatments,B,2,386439008,8
+tumour,B,2,108369006,8
+unresponsiveness,B,2,123173008,
+urinary tract infections,B,2,162183000,
+urine osmolality,B,2,144662003,
+uti,B,2,162597002,
+utis,B,2,,
+vertebral crushing,B,2,,
+viral load,B,2,392965004,
+vision loss,B,2,1231696003,13
+visual alteration,B,2,131182003,10
+visual loss,B,2,40031005,12
+vomiting,B,2,139337005,
+walking,B,2,63448001,17
+weight gain,B,2,8943002,9
+white blood cells,B,2,52501007,8
+x-ray,B,2,52250000,5
+xiphoid appendage,B,2,,
+zygomatico-maxillary suture,B,2,,
+**collagenous colitis,B,1,,
+**leptospirosis,B,1,,
+**normal response,B,1,,
+**option 4,B,1,,
+**retinal detachment,B,1,,
+**thrombotic thrombocytopenic purpura,B,1,,
+**tricuspid,B,1,,
+"1,25-oh",B,1,,
+25-oh d,B,1,,
+2d,B,1,101840000,6
+3-year history,B,1,,
+"45,x",B,1,,
+aad,B,1,,
+abdomen,B,1,113345001,12
+abdominal cramps,B,1,158504006,
+abdominal pain,B,1,139313005,
+abnormalities,B,1,158370002,
+abortion,B,1,70317007,16
+abrupt onset,B,1,75224007,4
+absent,B,1,2667000,6
+absolute,B,1,56136002,6
+acc,B,1,215867005,7
+accurate,B,1,263656005,5
+acid-base status,B,1,,
+acth,B,1,40789008,19
+activated partial thromboplastin time,B,1,142980008,
+active thrombosis,B,1,,
+activities,B,1,257733005,4
+acute attack,B,1,769366008,7
+acute bleeding diathesis,B,1,,
+acute exacerbations,B,1,26847009,7
+acute forms,B,1,,
+acute gout,B,1,770924008,16
+acute gout attacks,B,1,,
+acute illness,B,1,,
+acute knee pain,B,1,,
+acute pancreatitis,B,1,155834006,
+acute polyspike discharges,B,1,,
+acute process,B,1,,
+acute renal failure,B,1,155855008,
+acute setting,B,1,,
+acute thrombocytopenia,B,1,,
+acute treatment,B,1,,
+acute-phase protein,B,1,,
+acute-phase reactant,B,1,,
+acyclovir,B,1,41193000,7
+adenomas,B,1,189578007,
+administer,B,1,418283001,5
+administering,B,1,714418004,11
+adolescence,B,1,22396007,7
+adrenal masses,B,1,,
+adrenal tumour,B,1,127021009,16
+adrenocortical carcinoma,B,1,,
+advanced ckd,B,1,,
+advances,B,1,,
+aesthetic,B,1,1306761006,6
+afebrile status,B,1,,
+affected eye,B,1,,
+age-related,B,1,155127007,
+age-related finding,B,1,,
+age-related macular degeneration,B,1,155112007,
+aggravated,B,1,68027008,4
+agonist,B,1,363739007,
+agonists,B,1,223063008,11
+albumin,B,1,52454007,16
+albuminuria,B,1,29738008,11
+alcohol consumption,B,1,160573003,8
+aldolase,B,1,28598003,17
+aldosterone,B,1,42605004,18
+alignment,B,1,263645005,5
+alleviating,B,1,225977007,10
+allodynia,B,1,247404004,9
+allogeneic bone marrow transplantation,B,1,58390007,11
+allogeneic transplantation,B,1,50223000,8
+allopurinol,B,1,25246002,7
+alopecia,B,1,156408004,
+alteplase,B,1,27638005,13
+alteration,B,1,130948000,10
+alternative medications,B,1,,
+alternatives,B,1,432081000124100,7
+alveolar basement membrane,B,1,259896004,22
+alveolar pulmonary infiltrates,B,1,,
+alveoli,B,1,272687000,27
+alzheimer's disease,B,1,26929004,12
+ama,B,1,416413003,12
+amoxicillin,B,1,27658006,10
+amoxicillin-clavulanic acid,B,1,,
+amplification,B,1,12645001,8
+amyloidosis,B,1,154769007,
+amyotrophic lateral sclerosis,B,1,86044005,7
+anaemia,B,1,154786001,
+analgesic,B,1,255630003,
+analgesic effect,B,1,,
+analytical control,B,1,,
+analytical parameter,B,1,,
+androgens,B,1,346324007,6
+anemia's,B,1,,
+angio-ct,B,1,,
+angiotensin-converting enzyme,B,1,259304004,20
+anhedonia,B,1,28669007,8
+anhidrosis,B,1,156414006,
+ankle sprain,B,1,44465007,17
+annular,B,1,112627000,6
+anterior clinoid processes,B,1,,
+anti-gbm antibodies,B,1,,
+anti-hbs (,B,1,,
+anti-mitochondrial antibodies,B,1,,
+antibiotic-associated diarrhea,B,1,301469002,14
+antibiotic-induced disruption,B,1,,
+antibiotic-resistant bacteria,B,1,,
+antibody,B,1,68498002,17
+antibody response,B,1,,
+anticoagulant,B,1,81839001,5
+anticoagulation therapy,B,1,704034004,10
+anticonvulsant,B,1,255632006,6
+anticonvulsant properties,B,1,,
+antidepressant therapy,B,1,698456001,8
+antidepressants,B,1,321916002,8
+antidiuretic hormone,B,1,77671006,17
+antiepileptic drug,B,1,295960003,10
+antiepileptic drugs,B,1,,
+antiepileptics,B,1,346326009,
+antifungal agent,B,1,324643005,5
+antihypertensive medications,B,1,,
+antimicrobial treatment,B,1,,
+antithymocyte globulin,B,1,67213005,11
+antiviral therapy,B,1,427314002,8
+antivitamin k,B,1,,
+anxiety disorders,B,1,192399008,5
+aortic valve stenosis,B,1,60573004,16
+apa,B,1,,
+apathy,B,1,271597000,
+aromatase inhibitors,B,1,123371000119105,6
+arr,B,1,,
+arrhythmias,B,1,318178003,5
+arrival,B,1,147047008,
+arterial,B,1,263954005,7
+arterial blood gas analysis,B,1,389623009,
+arterial hypertension,B,1,39018007,14
+arteries,B,1,204483000,
+arthralgia,B,1,57676002,12
+arthritis,B,1,3723001,10
+asper,B,1,5281004,12
+aspergilloma,B,1,10446001,13
+aspergillosis,B,1,65553006,6
+aspergillus,B,1,2429008,12
+aspergillus spores,B,1,,
+aspiration,B,1,68052005,9
+aspirin,B,1,7947003,16
+assess,B,1,142591008,
+assessing,B,1,1069811000000104,8
+assisted ventilation,B,1,870391004,7
+assisting,B,1,119265000,3
+associated,B,1,147970002,
+asthma,B,1,155574008,
+asymmetric non-suppurative joint inflammation,B,1,,
+asymptomatic,B,1,84387000,8
+asymptomatic carrier,B,1,38691000087107,9
+ataxia,B,1,20262006,6
+atopic dermatitis,B,1,156331003,
+atrophic cervix,B,1,,
+atrophic pseudarthrosis,B,1,,
+attacks,B,1,162243001,
+auricular pavilion,B,1,,
+auscultation,B,1,37931006,10
+autoantibodies,B,1,143287006,
+autoantibody,B,1,30621004,19
+autoimmune destruction,B,1,,
+autoimmune diseases,B,1,95329006,8
+autoimmune disorder,B,1,85828009,7
+autoimmune etiology,B,1,,
+autoimmune haemolysis,B,1,,
+autoimmune hemolytic anemia,B,1,25121006,18
+autoimmune response,B,1,,
+autoimmune-mediated destruction,B,1,,
+autologous bone marrow transplantation,B,1,,
+autologous graft,B,1,15879007,10
+autonomic nerve,B,1,276145003,14
+avoidance,B,1,16735006,9
+avulsion,B,1,27515001,9
+awakening,B,1,421355008,5
+axillary hair,B,1,280911007,19
+b symptoms,B,1,268014007,6
+babinski's sign,B,1,,
+backward flow of blood,B,1,,
+bacteria,B,1,41146007,6
+bacterial cultures,B,1,,
+bacterial infections,B,1,186433006,5
+barbiturate,B,1,255638005,
+barrett's esophagus,B,1,76355008,
+basal,B,1,57195005,6
+basal dose,B,1,,
+behavioural changes,B,1,,
+bence-jones proteins,B,1,,
+bence-jones proteinuria,B,1,274771005,17
+benign lesions,B,1,,
+benign thyroid lesion,B,1,,
+benign tumours,B,1,,
+benzodiazepine receptor,B,1,22723006,12
+bernard-soulier disease,B,1,,
+bhcg,B,1,40940006,20
+bicarbonate,B,1,68615006,15
+bicycle accident,B,1,215107006,
+bilateral ocular redness,B,1,,
+bilateral pulmonary infiltrates,B,1,,
+bilirubin levels,B,1,,
+billroth ii reconstruction,B,1,,
+bioavailability,B,1,,
+biochemical,B,1,80534008,4
+bipolar disorder type i,B,1,,
+birefringence,B,1,250532000,3
+blackened,B,1,,
+blood cell,B,1,63370004,7
+blood pressure,B,1,75367002,8
+blood smear,B,1,737535000,7
+blood test,B,1,269965007,
+blood vessels,B,1,139915007,
+bmi,B,1,310252000,9
+body image,B,1,405045001,7
+body surface,B,1,102495000,
+bone,B,1,128530007,12
+bone age,B,1,123980006,8
+bone marrow analysis,B,1,,
+bone marrow aplasia,B,1,,
+borderline personality disorder,B,1,20010003,10
+boy,B,1,433152004,9
+bpd,B,1,281688001,6
+brain mri,B,1,,
+brain's,B,1,,
+breakdown,B,1,160793008,9
+breakfast,B,1,769561004,9
+breast biopsy,B,1,142370004,
+breasts,B,1,153891003,
+broad-spectrum antibiotic,B,1,,
+bronchiolitis,B,1,4120002,16
+burning sensations,B,1,,
+burns,B,1,211657006,
+burnt,B,1,157624000,
+buttocks,B,1,250022001,
+c-reactive protein,B,1,61425002,17
+c-reactive protein (,B,1,314110009,18
+c. difficile infection,B,1,,
+c5,B,1,59397002,7
+calcium loss,B,1,,
+caloric malnutrition,B,1,,
+campylobacter jejuni,B,1,66543000,14
+canagliflozin,B,1,703681008,6
+cancer-induced peripheral neuropathy,B,1,,
+cap,B,1,228254002,6
+carbamazepine,B,1,40820003,7
+cardiac,B,1,150755000,
+cardiac arrhythmias,B,1,53488008,13
+cardiac cells,B,1,,
+cardiac complications,B,1,157779001,
+cardiac cycle,B,1,246092007,7
+cardio-selective properties,B,1,,
+cardiotocographic recordings,B,1,,
+cardiovascular,B,1,154096002,
+carpal tunnel syndrome,B,1,155073007,
+carrier,B,1,29679002,6
+cat hair,B,1,256425001,14
+cation exchange resins,B,1,,
+cavity,B,1,2483006,6
+cd4 count,B,1,166080001,
+cd5/cd19/cd23 antigens,B,1,,
+cefazolin,B,1,81088002,10
+cefixime,B,1,96052006,10
+cefriaxone,B,1,,
+cefriaxone 2g,B,1,,
+cefuroxime-axetil,B,1,,
+cell count,B,1,392985000,
+cell growth,B,1,66819006,15
+cell type,B,1,250295001,9
+central calcification,B,1,,
+central cervical spinal cord injury,B,1,,
+central cord lesion,B,1,,
+central medulla,B,1,,
+central nervous system,B,1,21483005,10
+central part,B,1,188151006,17
+central puberty,B,1,,
+central vision,B,1,16350000,14
+centromedullary syringomyelia,B,1,,
+cerebellar,B,1,155012005,
+cerebral blood vessels,B,1,,
+cerebral edema,B,1,2032001,9
+cerebral palsy,B,1,128188000,10
+cerebral vascular flow,B,1,,
+cerebral vasodilation,B,1,,
+certainty,B,1,17162000,6
+cervical adenopathy,B,1,,
+cervical conization,B,1,108941000119102,7
+cervical ct scan,B,1,,
+ch,B,1,261729007,8
+chads2 score,B,1,438367009,5
+chances,B,1,,
+characteristic motor,B,1,,
+characteristics,B,1,246196007,6
+cheekbone,B,1,13881006,19
+chemical meningitis,B,1,193074007,11
+chemotherapy,B,1,150415003,
+chest,B,1,51185008,11
+chest pain,B,1,139228007,
+chest wall,B,1,78904004,13
+chlamydia,B,1,16241000,13
+chloracepate,B,1,,
+chlordiazepoxide,B,1,82746003,12
+chorionic gonadotrophin,B,1,59433001,19
+choroid,B,1,181172003,21
+chromosomal,B,1,137820001,
+chromosomal abnormality,B,1,157018005,
+chronic autoimmune disease,B,1,,
+chronic heart failure,B,1,48447003,13
+chronic lung disease,B,1,413839001,10
+chronic lymphocytic leukaemia,B,1,51092000,14
+chronic ulcerative colitis,B,1,64766004,15
+chronic watery diarrhea,B,1,,
+chronological age,B,1,424144002,7
+clinical,B,1,58147004,6
+clinical condition,B,1,,
+clinical features,B,1,774086001,4
+clinical process,B,1,,
+clinical scenario,B,1,,
+clinical suspicion,B,1,,
+clinically,B,1,141339009,
+clonazepam,B,1,69708003,12
+closed eyes,B,1,,
+clostridium difficile,B,1,5933001,14
+clots,B,1,37771000087101,12
+clotting factor viii,B,1,40598008,15
+co2,B,1,118312003,9
+coexisting,B,1,,
+cognitive decline,B,1,80216008,8
+cognitive deficit,B,1,386806002,8
+cognitive deficits,B,1,,
+coherent,B,1,690361000220101,10
+cold conditions,B,1,,
+collagen,B,1,61472002,16
+collapse,B,1,16277007,6
+collection,B,1,165366009,
+colon,B,1,71854001,24
+colon cancer,B,1,31001000119109,14
+colonisation,B,1,473047000,9
+colorectal cancers,B,1,,
+community-acquired pneumonia,B,1,,
+compartment syndrome,B,1,111245009,8
+compartments,B,1,178076002,16
+competence,B,1,32082000,6
+complement system,B,1,1148884002,14
+complementary tests,B,1,,
+complex injury,B,1,,
+complicating,B,1,54113008,18
+compound,B,1,62105006,6
+compressing,B,1,37204000,6
+compressive cervical spinal cord injury,B,1,,
+compressive disorders,B,1,,
+concentrating,B,1,,
+conciliation,B,1,,
+confirmatory,B,1,53479004,23
+congestive heart failure,B,1,42343007,13
+conization,B,1,108941000119102,7
+conjunctival jaundice,B,1,,
+connective tissue,B,1,21793004,7
+connective tissue disease,B,1,105969002,5
+constrictive pericarditis,B,1,155340008,
+contact,B,1,147718008,
+contact with,B,1,11723008,4
+contaminated air,B,1,102413006,5
+contaminated water,B,1,102414000,5
+contents,B,1,276824008,5
+contexts,B,1,,
+contextual risk factors,B,1,,
+continuous,B,1,255238004,6
+contraindicated,B,1,410536001,5
+contralateral,B,1,255209002,6
+control,B,1,100248008,6
+controlled reduction,B,1,,
+controls,B,1,285943005,10
+contusions,B,1,157440008,
+cooking,B,1,227613003,9
+copd,B,1,13645005,14
+cor pulmonale,B,1,83291003,15
+correct,B,1,152352009,
+corset,B,1,228167008,6
+corset-type orthosis,B,1,,
+cortical lesions,B,1,,
+cotrimoxazole,B,1,218348000,7
+cough,B,1,49727002,6
+counts,B,1,258734002,5
+coxiella burnetii,B,1,22533000,15
+cranial ct scan,B,1,,
+cranial nerves,B,1,141298000,
+craniopharyngioma,B,1,40009002,10
+crescentic contour,B,1,,
+crescentic glomerulonephritis,B,1,236398000,18
+crescents,B,1,264296008,5
+crisis,B,1,32937002,5
+criteria,B,1,717350000,3
+crossmatching,B,1,,
+crp level,B,1,,
+crying,B,1,139499009,
+culprit,B,1,371895000,10
+curvature,B,1,203626009,
+cushing's,B,1,154705004,
+cxr,B,1,171229005,15
+cyanosis,B,1,3415004,10
+cycles,B,1,1389345008,4
+cycles/second,B,1,259025008,5
+cyclophosphamide,B,1,74470007,10
+cyclosporin a,B,1,80906007,9
+cyclosporine,B,1,80906007,9
+cystic lesion,B,1,238274004,12
+cystic lesions,B,1,,
+cytological,B,1,40413002,6
+daily,B,1,69620002,9
+daily living,B,1,151573006,
+dark,B,1,255419005,5
+dead burnt,B,1,,
+decelerative fetal pattern,B,1,,
+decision,B,1,420072004,11
+decision-making,B,1,230453004,11
+decreased growth,B,1,59576002,5
+decreasing,B,1,260371004,7
+deep descending sinus x,B,1,,
+deep hemorrhages,B,1,,
+deep inspiration,B,1,,
+defects,B,1,155105003,
+deficiencies,B,1,154722002,
+deficits,B,1,389990003,
+deformity,B,1,6081001,5
+degeneration,B,1,33359002,5
+degenerative condition,B,1,,
+degenerative disc,B,1,202714003,15
+degradation,B,1,1290129009,3
+degree of,B,1,263521002,7
+delayed menarche,B,1,,
+delayed puberty,B,1,267487003,
+delayed-release,B,1,736848004,4
+delivery,B,1,66348005,8
+demands,B,1,,
+dementia,B,1,52448006,9
+dependency,B,1,142645007,
+depleted,B,1,256404001,9
+deposited,B,1,,
+depressed mood,B,1,366979004,9
+depressive phase,B,1,,
+depth,B,1,131197000,5
+dermatological,B,1,200580005,
+dermatomal,B,1,251627001,9
+dermatophytes,B,1,115651002,11
+detachment,B,1,155103005,
+detecting,B,1,225957000,7
+developing tolerance,B,1,,
+develops,B,1,370789001,7
+diabetes,B,1,162661000,
+diabetic,B,1,138058003,
+diacepam,B,1,,
+diagnose,B,1,1382104006,6
+diagnosed,B,1,405749004,13
+diagnostic features,B,1,,
+diagnostic hypothesis,B,1,,
+diagnostic impression,B,1,,
+diagnostic laparoscopy,B,1,76735009,17
+diagnostic modalities,B,1,,
+diagnostic study,B,1,370851004,7
+diagnostic tests,B,1,142558004,
+diagnostic value,B,1,,
+dialysis,B,1,1231460007,3
+diameter,B,1,81827009,5
+diandric mole,B,1,,
+dietary,B,1,151203006,
+dietary modifications,B,1,,
+differential diagnoses,B,1,,
+differential tests,B,1,,
+differentiating factor,B,1,,
+difficult,B,1,401335003,
+difficulties,B,1,158276005,
+difficulty concentrating,B,1,,
+difficulty swallowing,B,1,288939007,9
+diffuse,B,1,19648000,6
+dilated,B,1,141221002,
+dilated cardiomyopathy,B,1,74368002,18
+diplopia,B,1,139545001,
+direct process,B,1,,
+discomfort,B,1,141807006,
+discrepancy,B,1,110287002,6
+disease's,B,1,,
+displacement,B,1,112638000,5
+disrupting,B,1,,
+disseminated disease,B,1,,
+distal,B,1,46053002,6
+distal esophageal ring,B,1,,
+distal forearms,B,1,,
+distal radius,B,1,75129005,20
+distal radius growth plate,B,1,,
+distal sensory loss,B,1,,
+distally dominant muscle weakness,B,1,,
+distortion,B,1,20967005,6
+diuresis,B,1,139465006,
+dna error,B,1,,
+dna mismatch repair system,B,1,,
+dna sequences,B,1,,
+dog bite,B,1,157935007,
+domestic livestock,B,1,,
+doppler,B,1,252442005,12
+dorsal medulla,B,1,,
+double vision,B,1,24982008,11
+drained,B,1,150242000,
+dressing,B,1,37898001,6
+drooping eyelid,B,1,11934000,13
+drug-induced hypomania,B,1,,
+dry,B,1,13880007,6
+dry cough,B,1,139179005,
+dry mouth,B,1,139281004,
+dumping syndrome,B,1,266458008,
+duration,B,1,103335007,5
+duration of,B,1,364331001,
+dysarthria,B,1,8011004,7
+dyschezia,B,1,247416005,12
+dysdiadochokinesia,B,1,140974009,
+dysesthesia,B,1,79151009,
+dysmenorrhea,B,1,29837005,
+dysmetria,B,1,32566006,10
+dyspareunia,B,1,71315007,12
+dysthymia,B,1,192384008,
+dysuria,B,1,139423000,
+e antigen,B,1,36744004,8
+e. coli infection,B,1,71057007,8
+early,B,1,112229009,
+early decompression,B,1,,
+early sign,B,1,58031000087103,8
+early stage,B,1,234438000,5
+ecchymoses,B,1,77643000,6
+ecg,B,1,46825001,13
+echocardiogram,B,1,40701008,22
+eczema,B,1,156326000,
+effect,B,1,253861007,4
+effects,B,1,148180001,
+efficient,B,1,260375008,5
+effusion,B,1,41699000,6
+egfr,B,1,409402009,10
+ehlers-danlos disease,B,1,,
+elderly,B,1,105437002,7
+elderly patient,B,1,,
+electrolyte,B,1,86355000,7
+electromyographic study,B,1,,
+electromyography,B,1,141997004,
+elevated adenosine deaminase,B,1,,
+elevated creatinine levels,B,1,,
+elevated jugular venous pressure,B,1,,
+elevated levels,B,1,274774002,11
+elevation,B,1,103720008,5
+elimination,B,1,63911002,7
+elisa technique,B,1,,
+embolic stroke,B,1,371041009,16
+embolus,B,1,55584005,6
+emergency decompression,B,1,,
+emotional instability,B,1,18963009,10
+empirical treatments,B,1,,
+empty,B,1,190489005,
+encapsulated,B,1,59135002,6
+encephalitis,B,1,45170000,9
+endemic regions,B,1,,
+endocrine system,B,1,113331007,7
+endocrine therapy,B,1,309542002,5
+endogenous,B,1,73979006,7
+endometrial biopsy,B,1,176885008,
+endometrial cytology,B,1,468999002,9
+endometrial hyperplasia,B,1,237072009,14
+endometriosis,B,1,266588002,
+endoscopic ultrason,B,1,450556004,12
+energy,B,1,248272003,10
+engraftment,B,1,112139007,6
+enterococcus faecalis,B,1,78065002,17
+entire,B,1,255503000,6
+enzyme,B,1,122969000,
+eosinophil-rich inflammation,B,1,,
+epidemiological risk factors,B,1,,
+epileptic,B,1,84757009,9
+epileptic seizures,B,1,84757009,9
+epileptic syndromes,B,1,194490007,10
+epiphysiolysis,B,1,38349001,
+erosion,B,1,15498001,7
+error,B,1,154157006,
+erythema multiforme,B,1,36715001,14
+erythematous maculopapular rash,B,1,,
+erythematous nasal mucosa,B,1,,
+erythematous-edematous plaques,B,1,,
+escalation,B,1,711037002,8
+eschar,B,1,87319000,8
+esophagus,B,1,32849002,14
+essential,B,1,34325006,6
+essential hypertension,B,1,155296003,
+estradiol,B,1,126172005,17
+etanercept,B,1,118259007,12
+etiology,B,1,134198009,5
+evacuation,B,1,122461007,4
+evaluate,B,1,56342008,13
+evidence,B,1,393689000,
+evoked potentials,B,1,252776002,
+evolution,B,1,5088004,15
+examination,B,1,263749006,
+executive function,B,1,736317001,9
+expectant,B,1,438758006,4
+experiences,B,1,304739007,4
+explanation,B,1,186084000,
+extended,B,1,288467006,6
+external genitalia,B,1,77142006,18
+external support,B,1,,
+exudates,B,1,193423005,
+eye position,B,1,301921008,10
+eyelid,B,1,80243003,18
+eyes,B,1,193646001,
+fa,B,1,63718003,19
+face fracture,B,1,210917000,
+face fractures,B,1,263152008,14
+facial fractures,B,1,,
+facial sweating,B,1,,
+facial trauma,B,1,,
+factitious thyrotoxicosis,B,1,,
+factors,B,1,139750009,
+fall,B,1,1912002,5
+false,B,1,64100000,7
+false negatives,B,1,,
+famciclovir,B,1,96097002,7
+family history of,B,1,57177007,3
+favourable response,B,1,,
+febrile fever,B,1,,
+feelings,B,1,285854004,6
+feet,B,1,259051005,5
+fertilisation,B,1,55767001,7
+fetal,B,1,233611006,
+fetal blood smear,B,1,,
+fetal distress,B,1,130955003,15
+fibrin clots,B,1,,
+fibrin-specific plasminogen activator,B,1,,
+fibrosing crohn's disease,B,1,,
+fields,B,1,141902004,
+fifth cervical nerve,B,1,244035009,16
+fio2,B,1,250774007,7
+first-line,B,1,,
+first-line therapy,B,1,,
+first-line treatment,B,1,,
+fistulous tracts,B,1,,
+fixation,B,1,1431002,4
+flexed,B,1,289359005,19
+flexion-extension movements,B,1,,
+floor,B,1,709280007,2
+fluid analysis,B,1,390764003,
+fluid shifts,B,1,20269002,12
+foetus,B,1,83418008,7
+follicular,B,1,255285005,6
+follow-up care,B,1,1382304004,5
+food detention,B,1,,
+food impaction,B,1,7920008,17
+forced,B,1,263760002,5
+forearm,B,1,14975008,12
+fork dorsum deformity,B,1,,
+fragile,B,1,390007001,
+free kappa light chains,B,1,,
+freshwater activities,B,1,,
+friable areas,B,1,,
+fsh,B,1,25217009,19
+function,B,1,277064003,4
+fungal,B,1,392968002,
+fungus ball,B,1,62720005,6
+further surgery,B,1,,
+g3a/a1,B,1,,
+ga,B,1,297712007,8
+gas exchange,B,1,70944005,7
+gastric,B,1,264010009,7
+gastric emptying,B,1,40117008,9
+gbm,B,1,143294009,
+generalised,B,1,60132005,6
+generalised weakness,B,1,,
+generalized cutaneous eruption,B,1,,
+genetic alteration,B,1,,
+genetic investigations,B,1,,
+genetic mutation,B,1,55446002,8
+genetic test,B,1,405824009,11
+genetically matched,B,1,,
+genetically precocious,B,1,,
+genital erosions,B,1,238851009,19
+geographic atrophy,B,1,414875008,18
+gestation,B,1,77386006,12
+gestational sac,B,1,300573007,6
+gestational trophoblastic neoplasia,B,1,237251001,19
+giant cell arteritis,B,1,155442004,12
+girl,B,1,431549007,9
+girl's,B,1,,
+globular knee,B,1,,
+glomerular basement membrane,B,1,390268001,
+glomerulonephritis,B,1,36171008,15
+glp-1 receptor,B,1,772985004,3
+glucocorticoid-remediable aldosteronism,B,1,703232003,15
+glucocorticoids,B,1,363735001,5
+glucose levels,B,1,,
+gnrh,B,1,252185008,18
+goiter,B,1,3716002,11
+gonadal dysgenesis,B,1,157020008,
+gonadotropins,B,1,346565008,8
+gonorrhea,B,1,15628003,8
+gra,B,1,703232003,15
+graft-versus-host disease,B,1,234646005,11
+gram stain,B,1,62777006,13
+gram-negative bacilli,B,1,,
+gram-negative bacteria,B,1,3461000181102,8
+gram-negative organisms,B,1,186388006,12
+gram-negative pathogen,B,1,,
+granulomatosis,B,1,44328006,9
+graves' disease,B,1,154655004,
+groin pain,B,1,271856002,
+growth disorders,B,1,,
+growth factors,B,1,724176001,13
+growth hormone,B,1,76765004,19
+gtn,B,1,408488002,9
+gut,B,1,145557003,
+gut microbiota,B,1,,
+gvhd,B,1,234646005,11
+h-sil,B,1,,
+haemarthrosis,B,1,156581006,
+haematopoiesis,B,1,178224005,8
+haematuria,B,1,34436003,11
+haemolytic anaemia,B,1,61261009,14
+haemolytic process,B,1,,
+haemorrhage,B,1,50960005,5
+half-life,B,1,304283002,7
+hallo sign results,B,1,,
+halo sign,B,1,29851005,14
+hand x-ray,B,1,145809000,
+haptoglobin,B,1,85294008,17
+hbsag,B,1,166105007,
+head trauma,B,1,312972009,16
+health center,B,1,264361005,6
+heart,B,1,80891009,20
+heart chambers,B,1,84338002,17
+height,B,1,139977008,
+helical ct,B,1,,
+hematuria,B,1,34436003,11
+hemodynamic instability,B,1,422773005,4
+hemodynamic status,B,1,,
+hemogram,B,1,43789009,16
+hemophilia a.,B,1,,
+hemoptysis,B,1,66857006,9
+hemorrhages,B,1,247516008,10
+hepatic function,B,1,79036002,6
+hepatic glucose,B,1,,
+hepatitis b e antigen,B,1,60605004,10
+hepatitis b serology,B,1,,
+hepatosplenomegaly,B,1,36760000,13
+hepatotoxic drug use,B,1,,
+her2,B,1,427685000,19
+her2-positive tumours,B,1,,
+hereditary non-polyposis colorectal cancer,B,1,,
+herniated,B,1,410070006,13
+herpes zoster,B,1,4740000,18
+heterozygosis,B,1,,
+hies,B,1,191009009,14
+high,B,1,75540009,8
+high doses,B,1,,
+high fever,B,1,,
+high lactate dehydrogenase,B,1,,
+high potassium,B,1,229974008,7
+high-dose glucocorticoids,B,1,,
+high-fat foods,B,1,,
+high-grade intraepithelial lesion,B,1,,
+high-risk behaviour,B,1,,
+high-sugar,B,1,,
+highest,B,1,65571004,24
+hip,B,1,29836001,16
+histopathology,B,1,393407008,
+history of anorexia,B,1,161471008,8
+hnpcc,B,1,315058005,20
+holosystolic,B,1,71201008,16
+homozygous,B,1,165732003,
+hormonal disorder,B,1,,
+hormone receptor-positive tumours,B,1,,
+hormone receptors,B,1,444901007,5
+hormone-secreting tumours,B,1,,
+hormones,B,1,143881002,
+hospital,B,1,138116004,
+hour,B,1,258702006,5
+ht,B,1,228088002,7
+human,B,1,278412004,5
+human chorionic gonadotropin,B,1,59433001,19
+humans,B,1,404228007,11
+hydatidiform mole,B,1,156085008,
+hyp,B,1,725612003,17
+hyper ige syndrome,B,1,,
+hypercalcemia,B,1,66931009,14
+hypercoagulable states,B,1,,
+hypercortisolism,B,1,47270006,11
+hyperdense mass,B,1,,
+hyperechogenic endometrium,B,1,,
+hyperosmolar chyme,B,1,,
+hyperreflexia,B,1,86854008,11
+hypertensive,B,1,194756002,
+hyperuricemia,B,1,35885006,14
+hypnotic effects,B,1,,
+hypodensity,B,1,,
+hypogammaglobulinemia,B,1,119250001,13
+hypogastrium,B,1,11708003,16
+hypohydrosis,B,1,45004005,10
+hypothalamic tumour,B,1,,
+hypothalamic-pituitary axis,B,1,370983009,16
+hypothalamic-pituitary-gonadal (hpg) axis,B,1,,
+hypothalamus,B,1,67923007,22
+hypothesis,B,1,,
+hypoventilation,B,1,31515003,6
+hypoxia,B,1,30869003,8
+hypoxic,B,1,30869003,8
+ibd,B,1,24526004,11
+icu admission,B,1,397945004,7
+idiopathic generalised epilepsy,B,1,36803009,12
+idiopathic scoliosis,B,1,203639008,16
+idiopathic thrombocytopenic purpura,B,1,32273002,18
+iga myeloma,B,1,285420006,22
+igm coated,B,1,,
+igm levels,B,1,,
+imaging modalities,B,1,,
+imbalances,B,1,,
+immune regulation,B,1,,
+immune-mediated thrombocytopenia,B,1,,
+immunity,B,1,393800001,
+immunocompromised patient,B,1,275828002,7
+immunodeficiencies,B,1,191031001,8
+immunodeficiency disorder,B,1,234532001,7
+immunodeficiency disorders,B,1,191028002,8
+immunodeficient,B,1,,
+immunofluorescence,B,1,30662005,13
+immunoglobulin disorder,B,1,,
+immunohistochemical testing,B,1,,
+immunological studies,B,1,,
+immunological study,B,1,,
+immunosuppressive therapy,B,1,86553008,7
+immunotherapy,B,1,146638005,
+impact,B,1,358994005,6
+impairing,B,1,403959008,25
+impairment,B,1,40226000,6
+impairs,B,1,,
+impedes,B,1,424423005,10
+impingement,B,1,31117002,7
+implantation,B,1,71861002,4
+improve,B,1,385636000,5
+improved,B,1,385425000,7
+improves,B,1,,
+impulsivity,B,1,39178003,9
+inappropri,B,1,,
+incidence,B,1,112125007,7
+incision,B,1,34896006,4
+incisions,B,1,34896006,4
+incompetent cervix,B,1,17382005,16
+incomplete,B,1,36579000,
+inconclusive,B,1,419984006,6
+inconsistent,B,1,260380004,5
+incorrect,B,1,281267002,10
+indication,B,1,410665000,6
+indications,B,1,424295009,5
+indicator,B,1,61771005,14
+indicators,B,1,1382104006,6
+individualized,B,1,370789001,7
+induce,B,1,151317004,
+ineffectiveness,B,1,,
+infarction,B,1,55641003,7
+infarction-induced wall weakness,B,1,,
+infecting organisms,B,1,,
+infectious diseases,B,1,266171003,
+infectious e,B,1,55184003,13
+infectious esophagitis,B,1,,
+infectious/inflammatory suspicion,B,1,,
+inferior orbital rim,B,1,,
+inferior vena cava filter,B,1,216051000119102,7
+infiltrating ductal carcinoma,B,1,422399001,20
+inflammatory arthritis,B,1,3723001,10
+inflammatory bowel disease,B,1,24526004,11
+inflammatory cells,B,1,,
+inflammatory condition,B,1,61170000,13
+inflammatory signs,B,1,,
+inguinal lymphadenopathies,B,1,,
+inhalation,B,1,14910006,7
+inhale,B,1,421134003,4
+inherited,B,1,254220005,21
+inhibitor,B,1,143320008,
+inhibits,B,1,,
+initiate,B,1,286388005,13
+initiation,B,1,312009002,10
+injection,B,1,59108006,5
+inner surface,B,1,368031004,20
+innervating,B,1,,
+inotropic effects,B,1,,
+insensitivity,B,1,1156317007,17
+inspired o2 pressure,B,1,,
+instability,B,1,410728007,5
+instances,B,1,,
+insulin,B,1,67866001,18
+intellectual disability,B,1,110359009,9
+intention tremor,B,1,30721006,11
+interinedio-lateral clark's column,B,1,,
+intermediate stage,B,1,,
+intermittent,B,1,7087005,7
+intermittent hand arthritis,B,1,,
+intermittent scanty metrorrhagia,B,1,,
+internal reproductive organs,B,1,,
+interpretation,B,1,280452008,4
+interstitial spaces,B,1,,
+intervertebral foramina,B,1,371000119109,9
+intestinal,B,1,261093006,7
+intracellular,B,1,83167003,6
+intradermal botulinum toxin,B,1,,
+intrahepatic cholestatic disorder,B,1,,
+intramedullary nail,B,1,8451008,11
+intraocular surgery,B,1,,
+intrapericardial pressure,B,1,,
+intravascular,B,1,261101003,7
+intravenous antibiotic therapy,B,1,180228004,
+intravenous calcium gluconate,B,1,,
+intubation,B,1,52765003,6
+invasive growth,B,1,,
+invasive procedure,B,1,129236007,5
+investigated,B,1,246094008,7
+investigating,B,1,,
+investigations,B,1,252142004,7
+ionic balance,B,1,,
+irritate,B,1,,
+ischaemia,B,1,52674009,8
+ischemic heart disease,B,1,2610009,
+isolated,B,1,46651001,6
+issue,B,1,152952000,
+iv fluids,B,1,866007006,9
+jaundice,B,1,263780001,
+joint erosion,B,1,,
+joint problems,B,1,,
+joint space narrowing,B,1,,
+juan's,B,1,,
+judg,B,1,,
+judgement,B,1,61254005,11
+juvenile myoclonic epilepsy,B,1,6204001,13
+kappa light chain deposition disease,B,1,,
+karyotype analysis,B,1,,
+karyotyping,B,1,1306297003,6
+ketoconazole,B,1,40232005,8
+kidney disorder,B,1,236368007,11
+kidney function,B,1,274881000,8
+kidney stones,B,1,,
+lab,B,1,142750008,
+labour,B,1,289909005,11
+lacking desquamation,B,1,,
+lambda light chains,B,1,,
+lamotrigine,B,1,96195007,8
+lapatinib,B,1,425820005,12
+larger,B,1,263768009,6
+late,B,1,74379007,
+lateral aspect,B,1,182299007,15
+lateral bulbar lesions,B,1,,
+layer,B,1,137172008,
+leak fluid,B,1,,
+leakage,B,1,76676007,6
+leathery,B,1,,
+left,B,1,7771000,6
+left eye,B,1,8966001,17
+left hand,B,1,85151006,14
+left hand grip,B,1,,
+left hemiface,B,1,,
+left lumbar pain,B,1,,
+left ptosis,B,1,335151000119107,14
+left temporal lobe,B,1,52718009,24
+left temporal partial hemianopsia,B,1,,
+left thigh,B,1,61396006,15
+left trochanteric region,B,1,,
+left untreated,B,1,,
+left ventricular pressure,B,1,276769008,11
+left-to-right shunting,B,1,,
+leg pain,B,1,10601006,12
+legionella pneumophila,B,1,80897008,14
+lennox-gastaut syndrome,B,1,192984003,
+lesion's,B,1,,
+leukocytes,B,1,275741008,12
+leukocyturia,B,1,,
+lh,B,1,64182005,19
+life-saving,B,1,,
+life-threatening,B,1,440181000,5
+life-threatening conditions,B,1,,
+lifting,B,1,258141001,12
+light chain myeloma,B,1,277579002,22
+light chains,B,1,414761008,15
+limb,B,1,66019005,7
+limbs,B,1,162253000,
+limitations,B,1,273728006,4
+linear ig deposition,B,1,,
+liraglutide,B,1,444907006,7
+literature,B,1,53614005,12
+lithemia,B,1,,
+lithium carbonate,B,1,16977003,13
+lithium levels,B,1,,
+liver function tests,B,1,143927001,
+local discomfort,B,1,,
+localised,B,1,255471002,7
+localised process,B,1,,
+localized neurosensory retinal detachment,B,1,,
+loculated right,B,1,,
+loss of consciousness,B,1,127379000,9
+low blood pressure cuffs,B,1,,
+low glucose level,B,1,,
+low hemoglobin,B,1,,
+low oxygen saturation,B,1,449171008,11
+low risk,B,1,723505004,5
+low thyroglobulin,B,1,,
+low-dose,B,1,51251000112106,9
+low-molecular-weight heparin,B,1,,
+lower,B,1,261122009,6
+lower back,B,1,37822005,12
+lower limb,B,1,61685007,10
+lower limbs,B,1,723158004,12
+lower risk,B,1,,
+lower risk profile,B,1,,
+luis's,B,1,,
+luis's history,B,1,,
+lumbar discs,B,1,,
+lumbar pain,B,1,139421003,
+lung,B,1,39607008,15
+lung parenchyma,B,1,113255004,20
+lymph nodes,B,1,141352004,
+lymphocyte count,B,1,142942007,
+lymphocyte-predominant pleocytosis,B,1,,
+lymphocytic leukaemia/lymphoma,B,1,,
+lymphocytosis,B,1,67023009,13
+lysis,B,1,30750004,6
+macrocytosis,B,1,142880009,
+macrolide,B,1,372480009,10
+macula,B,1,112629002,5
+macular degeneration,B,1,302891003,15
+makeup,B,1,443068005,13
+malar erythema,B,1,,
+male,B,1,139866003,
+males,B,1,74398009,10
+malignant,B,1,21594007,6
+malnourished,B,1,248325000,6
+man,B,1,339947000,6
+manic episode,B,1,191583000,13
+manic episodes,B,1,192353006,13
+manifest,B,1,73629006,
+manifestations,B,1,186970008,8
+mantle cell lymphoma,B,1,74654000,15
+marfan syndrome,B,1,19346006,8
+marginal zone lymphoma,B,1,128803008,15
+marker,B,1,706484002,5
+markers,B,1,390319003,
+massive,B,1,46998006,7
+massive sequencing,B,1,,
+mastication,B,1,1202003,11
+match,B,1,252367007,16
+maternal,B,1,72705000,9
+mature,B,1,34071009,6
+maxilla,B,1,70925003,19
+maxillary wall,B,1,,
+meals,B,1,769557005,9
+measure,B,1,246445000,4
+mechanism,B,1,278109006,4
+medial impingement,B,1,,
+medial pain,B,1,,
+medication functions,B,1,,
+medication history,B,1,1003606003,5
+medications,B,1,787481004,6
+medulla,B,1,279104005,22
+medullary carcinomas,B,1,,
+medullary injury,B,1,,
+medullary type carcinoma,B,1,,
+megaloblastic,B,1,145149005,
+membrane,B,1,193391002,
+membrane rupture,B,1,156192001,
+menarche,B,1,20016009,15
+meningococcal meningitis,B,1,154307005,
+meniscus,B,1,432750007,14
+menopause,B,1,138977003,
+menstruation,B,1,248957007,11
+mesial temporal sclerosis,B,1,724989008,10
+metabolic,B,1,193256008,
+metabolic factors,B,1,,
+metabolic syndrome,B,1,237602007,14
+metabolites,B,1,409893003,13
+metamorphops,B,1,,
+metastases,B,1,128462008,6
+metastatic spread,B,1,1505291000004103,8
+metformin,B,1,109081006,9
+methods,B,1,134032005,
+methotrexate,B,1,68887009,10
+metoprolol,B,1,7092007,12
+microcytic anemia,B,1,154787005,
+microcytic-macrocytic anemia,B,1,,
+microhematuria,B,1,,
+microorganisms,B,1,144950004,
+microsatellites,B,1,,
+microscopic examination,B,1,115419007,
+microscopic finding,B,1,,
+middle third,B,1,261133007,7
+mild memory loss,B,1,,
+mild proteinuria,B,1,,
+milk products,B,1,,
+minimal,B,1,255605001,6
+minimally invasive,B,1,441788009,3
+miosis,B,1,61514009,15
+miscarriage,B,1,17369002,17
+mites,B,1,240885009,16
+mitral insufficiency,B,1,48724000,15
+mixed aphasia,B,1,229662006,11
+mm hg,B,1,,
+mobile,B,1,138070004,
+modalities,B,1,273857000,4
+moderate varus,B,1,,
+molar disease,B,1,,
+molecular,B,1,136356004,
+monitor,B,1,13288007,7
+monitored,B,1,394073006,
+monosodium urate crystals,B,1,250454001,14
+monospermic mole,B,1,,
+mood,B,1,85256008,9
+morbidity,B,1,138439004,
+morning stiffness,B,1,139687005,
+morphilliform rash,B,1,,
+morphology,B,1,116676008,6
+mortality,B,1,409651001,3
+mosmlkg,B,1,,
+motion,B,1,56219004,2
+motor clumsiness,B,1,,
+motor deficits,B,1,,
+motor neuron,B,1,31513005,8
+motor neuron disease,B,1,37340000,6
+motor unit action potential,B,1,42233006,8
+mouth,B,1,21082005,14
+movements,B,1,141243005,
+mucous membrane,B,1,74301006,7
+mucus emission,B,1,,
+multifactorial nature,B,1,,
+multiple,B,1,28707004,
+multiple bilateral renal,B,1,,
+multiple hospital admissions,B,1,160742004,
+multiple muscle territories,B,1,,
+multiple organ,B,1,190572000,
+multiple peripheral,B,1,251046001,12
+multiple sclerosis type demyelinating disease,B,1,,
+multiple times,B,1,,
+murmur,B,1,88610006,13
+murmur's,B,1,,
+muscle atrophy,B,1,88092000,11
+muscle damage,B,1,240045002,7
+muscle fibres,B,1,261964008,6
+muscle inflammation,B,1,26889001,11
+muscle pain,B,1,68962001,12
+muscle relaxant,B,1,90000002,5
+muscle tissues,B,1,,
+muscle wasting,B,1,249827008,
+muscles,B,1,278018006,
+musculoskeletal discomfort,B,1,,
+mycoplasma pneumoniae,B,1,58720004,13
+myoclonic jerks,B,1,155009007,
+myoclonus,B,1,17450006,10
+myotomal,B,1,261139006,7
+m²,B,1,,
+nan,B,1,,
+narrowing,B,1,25659002,6
+nasal congestion,B,1,232210005,
+nasal obstruction,B,1,195826005,
+nasal structures,B,1,,
+naso-ethmoidal pseudoarthrosis,B,1,,
+natural,B,1,510009,6
+nearest hospital,B,1,,
+neck,B,1,45048000,11
+neovascular,B,1,193564003,
+nephrotic syndrome,B,1,155851004,
+nervousness,B,1,139475009,
+neurological examination,B,1,84728005,11
+neuromuscular disease,B,1,35491000119107,11
+neurosensory retinal detachment,B,1,,
+neurovascular status,B,1,429093006,6
+neutrophil count,B,1,142926000,
+neutrophils,B,1,143113007,
+new clinical,B,1,,
+ngs,B,1,1366450005,8
+nigeria,B,1,223565009,6
+no history,B,1,137645001,
+non-inflamed,B,1,,
+non-invasive,B,1,22762002,6
+non-morbid,B,1,,
+non-neovascular,B,1,,
+non-painful hepatomegaly,B,1,,
+non-pharmacological measures,B,1,,
+non-productive cough,B,1,409596002,7
+non-specific,B,1,10003008,6
+non-steroidal anti-inflammatory drug,B,1,283009002,
+non-steroidal anti-inflammatory drugs,B,1,346321004,
+non-tender mass,B,1,,
+nonsteroidal anti-inflammatory drugs,B,1,,
+normal blood tests,B,1,,
+normal cardiac examination,B,1,,
+normal chloride,B,1,,
+normal coagulation studies,B,1,,
+normal cranial ct scan,B,1,,
+normal distal,B,1,895299007,6
+normal examination,B,1,,
+normal function,B,1,1351231005,8
+normal glucose,B,1,102659003,10
+normal glycorrhachia,B,1,,
+normal muscle reflexes,B,1,,
+normal pulmonary capillary wedge pressure,B,1,9027003,10
+normal range,B,1,260395002,5
+normal response,B,1,,
+normal sleep patterns,B,1,,
+normal-appearing mucosa,B,1,,
+nosocomial pneumonia,B,1,425464007,14
+noticeable,B,1,260351008,5
+nuchal rigidity,B,1,405947006,7
+numerical,B,1,136571001,
+numerous,B,1,260396001,5
+obese,B,1,414915002,8
+observation,B,1,122544007,6
+obstructive process,B,1,,
+ocular,B,1,372472002,5
+ocular conditions,B,1,,
+ocular involvement,B,1,76092003,16
+oedema,B,1,139241006,
+oestrogen receptor,B,1,23307004,12
+older adults,B,1,390817007,12
+older method,B,1,,
+open tibial fracture,B,1,,
+opening,B,1,56116003,7
+opioid,B,1,3622004,6
+opioid overdose,B,1,295165009,18
+opioid use,B,1,1336192000,9
+opioids,B,1,312060001,6
+opportunistic,B,1,153709001,
+option 3 (,B,1,,
+oral,B,1,260548002,7
+orally,B,1,26643006,5
+orbit,B,1,181143004,16
+orbital floor,B,1,113344002,18
+orbital walls,B,1,,
+orbito-malar region,B,1,,
+orbitomalar complex,B,1,,
+organ function,B,1,,
+orthosis,B,1,224898003,6
+osmolarity,B,1,62970001,7
+osmotic diarrhoea,B,1,2946003,15
+ovaries,B,1,237792009,
+overexpression,B,1,,
+overproduction,B,1,73064001,13
+overweight,B,1,238131007,7
+oxygen supplementation,B,1,,
+oxygenation,B,1,144378007,
+paediatric utis,B,1,,
+pain relief,B,1,151256008,
+palmar,B,1,781000124109,6
+palms,B,1,248413004,15
+palpable,B,1,103357000,6
+palpable neck mass,B,1,,
+palpation,B,1,113011001,10
+panagglutinin,B,1,,
+pancreas,B,1,15776009,18
+pancreatic neoplasm,B,1,1237341006,21
+pancreatic tail,B,1,446915006,10
+pancytopenia,B,1,127034005,15
+pao2/fio2 ratio<200,B,1,,
+papillary,B,1,77526009,6
+parasympathetic nerve,B,1,78390006,14
+parotid gland,B,1,45289007,19
+parotid pleomorphic adenoma,B,1,,
+passage,B,1,249529000,12
+pathogenic,B,1,264418008,3
+pathological examination,B,1,,
+patient population,B,1,,
+patient's history,B,1,,
+patient's hypertension,B,1,,
+patient's recurrent,B,1,,
+pcr technique,B,1,,
+pelvic,B,1,277113001,7
+pelvic movements,B,1,229262002,11
+percentages,B,1,,
+perform closed osteosynthesis,B,1,,
+perfused sodium heparin,B,1,,
+pericardial effusion,B,1,70370001,12
+pericardial sac,B,1,24949005,22
+pericardial tamponade,B,1,35304003,12
+period,B,1,161728000,
+periodic check-ups,B,1,,
+periodic injections,B,1,,
+peripheral,B,1,14414005,6
+peripheral blood stem cells,B,1,418576007,7
+peripheral edema,B,1,82014009,7
+peripheral sensory symmetric distal neuropathy,B,1,,
+peripheral stimulation,B,1,,
+peripheral thrombocytopenia,B,1,,
+periumbilical area,B,1,731386001,25
+permanent,B,1,6934004,6
+pernicious anemia,B,1,84027009,17
+peroxisome proliferator-activated receptors,B,1,,
+persistent haematuria,B,1,281859000,14
+persistent infection,B,1,115648009,4
+persists,B,1,,
+personal hygiene,B,1,129817005,7
+personal thrombotic events,B,1,,
+personality,B,1,71565002,9
+pertuzumab,B,1,704227006,12
+pessimistic cognitions,B,1,,
+petechiae,B,1,141618008,
+ph,B,1,27327002,7
+ph value,B,1,,
+phase ii antigens,B,1,,
+phenobarbital,B,1,51073002,12
+phenotype,B,1,145678007,
+phenytoin,B,1,40556005,12
+photosensitive rash,B,1,,
+physics,B,1,146678003,
+physiological response,B,1,,
+physiotherapy,B,1,91251008,8
+picture,B,1,257445002,7
+pigment epithelium,B,1,421506003,16
+pioglitaz,B,1,,
+pioglitazone,B,1,326058001,9
+pituitary adenoma,B,1,128664001,12
+pituitary micro-adenoma,B,1,,
+placenta,B,1,78067005,25
+plantar extension reflex,B,1,,
+plasma,B,1,50863008,16
+plasma osmolality,B,1,401156005,8
+platelet destruction,B,1,47827002,8
+platelet transfusion,B,1,151007004,
+pleural,B,1,264148002,7
+pleural infection,B,1,,
+pleural space,B,1,238350004,11
+pleuritis,B,1,196075003,11
+pneumonias,B,1,,
+pollens,B,1,195818002,
+polyangiitis,B,1,46956008,12
+polychromatophilia,B,1,52300009,6
+polycystic lesion,B,1,,
+polymerase chain reaction,B,1,258066000,7
+poor blood pressure control,B,1,,
+poor glycemic control,B,1,237622006,16
+poor perfusion,B,1,,
+position,B,1,246268007,4
+positional,B,1,103284002,13
+possibilities,B,1,,
+post-herpetic neuralgia,B,1,154327006,
+post-splenectomy sepsis,B,1,700052007,9
+post-surgical endophthalmitis,B,1,,
+post-traumatic hypovolemia,B,1,,
+posterior,B,1,82583001,
+postmenopausal osteoporosis,B,1,102447009,14
+postprandial,B,1,24863003,8
+postural limitations,B,1,,
+posture,B,1,9851009,8
+potassium levels,B,1,,
+potassium retention,B,1,,
+potassium-sparing diuretic,B,1,47755009,6
+potentially harmful,B,1,418715001,2
+ppar-γ,B,1,,
+practical,B,1,76166008,11
+pre-pathological value repeat,B,1,,
+preauricular region,B,1,56185007,17
+precedes,B,1,248969004,15
+precocious,B,1,235246008,5
+precocious puberty,B,1,154716006,
+predominant,B,1,363265005,10
+pregabalin,B,1,415160008,13
+pregnant,B,1,77386006,12
+pregnant population,B,1,,
+pregnant women,B,1,,
+premature,B,1,1090009,6
+premature breast development,B,1,102889008,9
+prescribed,B,1,151153009,
+prevalent,B,1,,
+prickling sensation,B,1,30961001,10
+primary aldosteronism,B,1,13536004,
+primary amyloidosis,B,1,23132008,20
+primary biliary cholangitis,B,1,31712002,16
+primary indicators,B,1,,
+primary pathogen,B,1,,
+primigravida,B,1,127364007,14
+problems,B,1,138147005,
+process,B,1,415178003,2
+prod,B,1,325781003,10
+productive cough,B,1,28743005,7
+profession,B,1,14679004,2
+profound,B,1,795002,6
+progesterone receptor,B,1,61078009,12
+prognosis,B,1,20481000,6
+progress,B,1,136791005,
+progressing,B,1,57981008,14
+progressive asthenia,B,1,,
+prolonged vomiting,B,1,402850004,15
+promotes,B,1,,
+prompt,B,1,88319002,20
+prophylactic treatment,B,1,46167008,5
+proportion,B,1,363795003,
+proprioception,B,1,226049009,7
+proptosis,B,1,18265008,12
+prostaglandin synthesis,B,1,,
+prosthesis,B,1,53350007,5
+proteus mirabilis,B,1,73457008,14
+proximal muscle,B,1,249939004,8
+pruritic,B,1,301444002,
+pruritus,B,1,156380008,
+pseudocrisis,B,1,,
+pseudomembranous colitis,B,1,197033008,
+psoriasiform,B,1,238564003,13
+psychogenic,B,1,278926001,6
+pth,B,1,8698005,17
+pubescent,B,1,35850006,17
+pubic,B,1,417269000,16
+pulmonary contusions,B,1,,
+pulmonary hypertension,B,1,70995007,11
+pulmonary wheezing,B,1,,
+pulsus paradoxus,B,1,52099006,11
+pupil,B,1,35146001,22
+pupillary constriction,B,1,,
+pupils,B,1,141223004,
+pure respiratory acidosis,B,1,,
+pus,B,1,11311000,13
+pylorus,B,1,78987009,23
+pyramidal tract,B,1,72217004,19
+quantify,B,1,121276004,15
+quick,B,1,101825002,6
+quinolone antibiotics,B,1,,
+rabies,B,1,14168008,10
+radial physics,B,1,,
+radiated low back pain,B,1,,
+radiating pain,B,1,9972008,11
+radiation,B,1,82107009,2
+radiation dose,B,1,282717008,4
+radicular,B,1,196450006,
+radicular pain,B,1,11679003,16
+radiological imaging,B,1,718266003,4
+rapid,B,1,255358001,5
+rapid gastric emptying,B,1,8466006,9
+raspberry,B,1,227444000,8
+re-feed,B,1,,
+reaccumulate,B,1,,
+reactive lymph node hyperplasia,B,1,,
+reactive lymphocytosis,B,1,,
+reading,B,1,50360004,10
+recent development,B,1,,
+recent infection,B,1,,
+recent treatment,B,1,,
+receptors,B,1,104490006,13
+recovery,B,1,373669009,11
+recruitment,B,1,251524001,
+rectorrhagia,B,1,12063002,15
+recurrent acute otitis media,B,1,194287004,15
+recurrent fevers,B,1,,
+recurrent infections,B,1,1187114007,13
+recurrent symptoms,B,1,,
+red,B,1,79642002,9
+red lips,B,1,,
+reddening,B,1,,
+reddish striae,B,1,,
+reduce,B,1,150648006,
+reduced,B,1,260400001,5
+reduced strength,B,1,,
+refeeding syndrome,B,1,427698009,8
+regression,B,1,48386003,9
+regular,B,1,17854005,6
+regular dose,B,1,,
+regulating sweating,B,1,,
+regurgitation,B,1,78104003,5
+rejection,B,1,72627004,6
+relaxant,B,1,90000002,5
+remits,B,1,103303007,13
+remote,B,1,5686001,6
+renal,B,1,144009009,
+renal biopsy,B,1,7246002,15
+renal crisis,B,1,236503001,13
+renal failure,B,1,156092003,
+repair genes,B,1,,
+replacement,B,1,3137001,5
+repletion,B,1,,
+requirement,B,1,112114003,8
+rescue,B,1,48577007,8
+resolution,B,1,17441009,12
+respiratory muscle weakness,B,1,,
+respiratory symptoms,B,1,139175004,
+response to,B,1,151263008,
+restlessness,B,1,139498001,
+result,B,1,393456009,
+reticulocyte count,B,1,143086006,
+retinal,B,1,155104004,
+retinal cells,B,1,,
+retinal tears,B,1,193317004,
+retrosternal,B,1,255568007,7
+retrusion,B,1,767260005,10
+rheumatoid factor,B,1,77089006,21
+ribavirin,B,1,35063004,6
+right arm,B,1,59126009,14
+right atrium,B,1,73829009,25
+right basal consolidation,B,1,,
+right central facial paralysis,B,1,,
+right eye pain,B,1,,
+right flank,B,1,1290340007,19
+right hemiface,B,1,,
+right leg,B,1,32696007,15
+right lumbar,B,1,133944004,19
+right lung atelectasis,B,1,,
+right ophthalmoparesis,B,1,,
+right side,B,1,24028007,6
+right ventricle,B,1,53085002,25
+right ventricular afterload,B,1,,
+right ventricular pressure,B,1,276756009,11
+right ventricular strain,B,1,,
+risk factors,B,1,156148003,
+risky,B,1,719142009,5
+risser sign,B,1,870537001,10
+rituximab,B,1,108809004,12
+sadness,B,1,66446005,10
+salbutamol,B,1,91143003,9
+salivary gland,B,1,75535001,16
+salmonella enterica,B,1,110378009,15
+scalp infection,B,1,367120006,
+scenarios,B,1,,
+sch,B,1,246074004,8
+schatzki,B,1,66889002,12
+schistocytes,B,1,726510009,6
+schistosomiasis,B,1,10087007,8
+scintigraphy,B,1,108291002,11
+sclerosis,B,1,43846000,7
+screening tool,B,1,1304062007,3
+second-degree flame burn,B,1,,
+second-line therapies,B,1,,
+second-trimester miscarriages,B,1,,
+secondary form,B,1,,
+secondary hyperparathyroidism,B,1,91478007,12
+secondary syphilis,B,1,154382002,
+secretion,B,1,35184007,8
+secretions,B,1,10031004,14
+sedative effects,B,1,,
+seizure,B,1,91175000,7
+seizure-like event,B,1,,
+self-limiting,B,1,361124009,14
+semi-starved,B,1,,
+senile macular,B,1,148433001,
+senile macular degeneration,B,1,193384000,
+sensation,B,1,272144002,4
+sensitive test,B,1,,
+sensory loss,B,1,33653009,10
+sensory symptoms,B,1,139518002,
+separation,B,1,138145002,
+sequence,B,1,72633008,9
+sequestration,B,1,263870008,5
+serially,B,1,,
+serohematic crusts,B,1,,
+serologic test,B,1,68793005,18
+serous cystadenoma,B,1,51608009,14
+serous cystadenomas,B,1,,
+serous nature,B,1,,
+serum level,B,1,250640003,
+settings,B,1,302171008,9
+severe acidosis,B,1,,
+severe infections,B,1,,
+severe tremor,B,1,,
+severity,B,1,246112005,6
+sexual,B,1,11277008,
+sharp,B,1,410707003,5
+shingles,B,1,4740000,18
+short circuit,B,1,,
+short duration,B,1,260402009,7
+short qt,B,1,698272007,13
+sibling,B,1,393498007,
+sibling's,B,1,,
+side (,B,1,182353008,5
+side effects,B,1,147904005,
+sign,B,1,72670004,5
+similarities,B,1,,
+sitting,B,1,33586001,9
+situation,B,1,158120008,
+skeletal growth,B,1,,
+skin abscesses,B,1,,
+skin changes,B,1,238535007,9
+skin graft,B,1,13853000,12
+skin induration,B,1,,
+skin rash,B,1,271807003,11
+slow-growing,B,1,112384003,12
+slower,B,1,,
+small amounts,B,1,,
+small intestine,B,1,30315005,20
+small intrahepatic bile ducts,B,1,,
+small pleural effusion,B,1,,
+small risk,B,1,,
+small uterus,B,1,289624004,13
+small yellow deposits,B,1,,
+smooth,B,1,82280004,6
+social activities,B,1,1145283003,9
+socket,B,1,196465007,
+soft tissue injury,B,1,282026002,10
+soft tissue swelling,B,1,298349001,12
+soles,B,1,53960009,18
+sparing,B,1,255468005,6
+specific,B,1,69658003,6
+spherocytic forms,B,1,,
+spike-wave discharges,B,1,,
+spinal canal,B,1,61853006,17
+spinal nerves,B,1,20353007,11
+sporadic,B,1,75741005,8
+st-segment,B,1,465419006,10
+stabilisation,B,1,115979005,3
+stabilised,B,1,409051000,7
+stage iv pancreatic adenocarcinoma,B,1,,
+stages,B,1,261612004,4
+staphylococcal toxic shock,B,1,240450004,11
+staphylococcus saprophyticus,B,1,19743000,17
+start,B,1,226630009,16
+statement 2,B,1,,
+stimulates,B,1,,
+stimulating,B,1,1186701009,8
+strawberry,B,1,102261002,8
+strength deficit,B,1,,
+streptococcus agalactiae,B,1,243244007,
+stressful situations,B,1,,
+striae,B,1,47212006,7
+stroke/transient ischaemic attack,B,1,415630002,6
+stroma,B,1,280868008,24
+structural abnormalities,B,1,1230273004,14
+structural deformity,B,1,,
+subacute thyroiditis,B,1,38727009,12
+subarachnoid hemorrhage,B,1,21454007,16
+subpopulations,B,1,,
+subsides,B,1,,
+subtypes,B,1,276726000,5
+sudden onset,B,1,367327000,6
+sudden onset of,B,1,385315009,7
+sudden onset of labour,B,1,,
+sudden-onset aphasia,B,1,,
+sufficient,B,1,51117008,6
+suggest cushing's,B,1,,
+sulfasalazine,B,1,45844004,16
+summertime lesion,B,1,,
+superficial lining epithelium,B,1,,
+supplemental oxygen,B,1,931000119107,8
+supply,B,1,136610004,
+supportive evidence,B,1,,
+supportive tissue,B,1,,
+suppress,B,1,,
+suppression,B,1,80633008,10
+suppuration,B,1,41034006,7
+surface,B,1,76666009,6
+surgical,B,1,83578000,6
+surgical intervention,B,1,413239008,9
+surgical resection,B,1,737016007,7
+surgically,B,1,73784008,9
+surrounding,B,1,355648006,6
+survival,B,1,250325008,
+suspicion,B,1,706876006,8
+suspicious,B,1,140821003,
+sustained,B,1,263892007,5
+suwanee fracture,B,1,,
+swallow saliva,B,1,288960001,11
+swallowing,B,1,289091002,
+swelling,B,1,139161006,
+swimming,B,1,20461001,13
+symmetrically,B,1,306744002,9
+sympathetic fibers,B,1,323810003,20
+sympathetic nerve,B,1,90456006,14
+symptomatic,B,1,264931009,5
+symptomatology,B,1,158738000,
+syncope,B,1,29423006,10
+synovial joint inflammation,B,1,,
+synthetic analogue,B,1,363735001,5
+systemic,B,1,31099001,6
+systemic lupus erythematosus,B,1,156450004,
+systemic symptoms,B,1,702809001,8
+systole,B,1,111973004,8
+systolic,B,1,111973004,8
+systolic ejection murmur,B,1,,
+t,B,1,257976002,6
+t waves,B,1,,
+t-cell deficiency,B,1,782750002,10
+t-lymphocyte,B,1,234567001,
+talkativeness,B,1,,
+tamoxifen,B,1,75959001,9
+tanner stage iv breast development,B,1,,
+target,B,1,390573008,
+targeted therapies,B,1,,
+targets,B,1,,
+temporal lobe,B,1,78277001,23
+temporary,B,1,14803004,8
+temporomandibular ankylosis,B,1,,
+temporomandibular discomfort,B,1,,
+temporomandibular joint pain,B,1,15632491000119107,14
+tenderness,B,1,29207008,
+thailand,B,1,223594002,6
+therapeutic approach,B,1,,
+therapeutic doses,B,1,,
+thermal,B,1,313094006,
+thiazolidinedione,B,1,109086001,8
+thick,B,1,82806002,
+thickened area,B,1,,
+third cranial nerve,B,1,56193007,16
+thromboendartectomy,B,1,,
+thrombophilia,B,1,191302007,
+thrombophilias,B,1,,
+thrombophilic,B,1,438827002,12
+thymoglobulin,B,1,,
+thyroglobulin levels,B,1,,
+thyroid lesion,B,1,,
+thyroid nodules,B,1,237570007,18
+thyroid region,B,1,209793009,17
+ticlopidine,B,1,108971003,6
+timelines,B,1,,
+titers,B,1,165823006,18
+tongue,B,1,21974007,19
+topical antibiotics,B,1,,
+total hip arthroplasty,B,1,861000119106,8
+toxic etiologies,B,1,,
+toxicity,B,1,75478009,4
+toxicity-induced,B,1,,
+toxicoderma,B,1,95326004,10
+traction force,B,1,,
+transfusions,B,1,150999001,
+transverse medullary,B,1,,
+trastuzumab,B,1,116080004,
+traumatic brain injury,B,1,127295002,14
+traumatic injuries,B,1,1163387009,7
+travel,B,1,420008001,2
+treat,B,1,148040007,
+treated,B,1,28995006,3
+treating,B,1,137383005,
+treatment options,B,1,,
+treatment regimen,B,1,405117005,10
+tricuspid insufficiency,B,1,111287006,22
+trigeminal neuralgia,B,1,155066002,
+triggering,B,1,281407001,7
+triple antibiotherapy,B,1,,
+tro,B,1,,
+trophoblast,B,1,25149004,9
+trophoblast tissue,B,1,,
+trophoblastic gestation,B,1,,
+trophoblastic neoplasia,B,1,609519004,19
+trophoblastic tissue,B,1,399658009,8
+tsh,B,1,65428006,19
+ttp,B,1,78129009,18
+tuberculous effusion,B,1,,
+tuberculous pleural effusions,B,1,,
+tum,B,1,,
+tumor recurrence,B,1,277647002,7
+tumour's hormone receptor status,B,1,,
+tumour-like tissue,B,1,,
+turner syndrome,B,1,38804009,19
+type,B,1,118591007,4
+type iv collagen,B,1,1367808005,18
+ulcers,B,1,57186002,
+ultrasonographic,B,1,422272001,8
+ultrasonography,B,1,16310003,11
+unbearable right knee pain,B,1,,
+uncle,B,1,393524000,
+unclear,B,1,,
+unconjugated bilirubin,B,1,37852002,18
+unconjugated hyperbilirubinemia,B,1,7752002,12
+unilateral,B,1,66459002,6
+unilateral headaches,B,1,,
+unilateral orbitomalar fracture,B,1,,
+unilateral palpebral hematoma,B,1,,
+unilateral vision loss,B,1,,
+unstable,B,1,263922001,6
+unstable fracture,B,1,282010003,10
+upper jaw,B,1,4335006,15
+upper limbs,B,1,192968004,
+upper motor neuron disorder,B,1,,
+upper sensory tracts,B,1,,
+urea levels,B,1,,
+urgent,B,1,103391001,6
+uric acid,B,1,1710001,17
+urinalysis,B,1,27171005,12
+urinary excretion,B,1,,
+urinary free,B,1,,
+urinary osmolality,B,1,,
+urinary tract,B,1,35461009,18
+urine calcium/creatinine ratio,B,1,413011003,18
+urine osmolality)**.,B,1,,
+urine sediment,B,1,386100006,15
+urine sediment analysis,B,1,,
+urticaria,B,1,156427005,
+uterine bleeding,B,1,178522008,
+uterine cavity,B,1,52393002,26
+uterus,B,1,35039007,23
+vaccination,B,1,33879002,8
+vaginal fornix,B,1,248901003,13
+values,B,1,394392003,
+valvulopathy,B,1,763688008,14
+vasculitides,B,1,239923008,13
+venous doppler ultrasound,B,1,,
+venous pressure,B,1,50249005,
+venous thromboembolism,B,1,699035003,9
+ventilation,B,1,45444009,8
+ventricular extrasystoles,B,1,17338001,15
+ventricular filling,B,1,250944009,10
+verapamil,B,1,47898004,6
+vertebral canal,B,1,61853006,17
+vertical gaze,B,1,246773002,12
+vessels,B,1,146274008,
+veterinarian,B,1,135769006,
+viability,B,1,367031001,
+vibration,B,1,150835005,
+vibratory sensitivity,B,1,,
+video recordings,B,1,,
+video-eeg,B,1,,
+video-eeg monitoring,B,1,,
+violaceous lesions,B,1,,
+violent jerking,B,1,,
+viral,B,1,392965004,
+viral meningitis,B,1,154985007,
+viral rna,B,1,371140008,9
+virus,B,1,49872002,6
+viscosity,B,1,78949001,7
+visible difference,B,1,,
+visual,B,1,255374006,5
+visual acuity loss,B,1,,
+visual disturbances,B,1,194656007,12
+visual field,B,1,73750009,11
+visual pathway,B,1,281477002,14
+visualisation,B,1,228563004,9
+visualizing,B,1,734837008,8
+vitamin b1,B,1,259659006,16
+vitamin b12,B,1,259664005,18
+vitamin d,B,1,30178006,14
+vitamin d deficiency,B,1,34713006,11
+vitreous traction,B,1,,
+volume,B,1,118565006,5
+von willebrand's disease,B,1,154819009,
+warfarin,B,1,48603004,8
+warfarin therapy,B,1,722045009,9
+was,B,1,159083000,5
+water contaminated,B,1,,
+water reabsorption,B,1,18719006,10
+wbc,B,1,390136004,
+weakness,B,1,13791008,10
+western blot test,B,1,,
+wet,B,1,17461003,6
+wet form,B,1,39439008,12
+white blood cell,B,1,272170001,
+wild animals,B,1,,
+wirsung duct,B,1,,
+wiskott-aldrich syndrome,B,1,36070007,20
+worry,B,1,79015004,12
+worsening,B,1,230993007,7
+wound,B,1,13924000,8
+wound cleaning,B,1,266779009,
+wound management,B,1,348667003,7
+wrist,B,1,8205005,13
+x chromosome,B,1,32247007,9
+x-linked recess,B,1,205552006,
+x-linked recessive disorder,B,1,,
+x-ray findings,B,1,,
+x-ray/ct,B,1,466793000,8
+year,B,1,258707000,5
+yersinia enterocolitica,B,1,65255000,14
+young,B,1,84422007,6
+zoonotic diseases,B,1,,
+zygoma,B,1,7935009,19
+zygomatic bone,B,1,13881006,19
+β-benzodiazepine receptor subtype,B,1,,

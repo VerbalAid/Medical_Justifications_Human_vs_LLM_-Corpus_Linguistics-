@@ -1,0 +1,7 @@
+The trick to this question is that there are 8 cervical roots for 7 vertebrae, therefore the C1 root exits ABOVE the atlas, and so on up to C8 which exits BETWEEN C7 and T1.
+
+The thoracic roots come out respectively below the vertebra with their same numbering (nerve T1 under T1, T2 under T2, etc.).
+
+Therefore, between C4 and C5 the 5th cervical nerve exits, and between T4 and T5 the 4th thoracic nerve exits.
+
+The correct answer is 4.

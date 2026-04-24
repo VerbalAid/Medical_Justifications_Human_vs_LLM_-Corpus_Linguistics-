@@ -1,0 +1,6 @@
+Collocate	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+line	1	110	6	6	0	1	24.761	4.301
+antibiotic	1	110	6	6	0	1	24.761	4.301
+for	3	1070	13	2	11	1	18.727	2.134
+first	4	160	5	5	0	1	15.307	3.497
+persist	5	10	2	1	1	1	13.604	6.175

@@ -1,0 +1,9 @@
+The NNT (number needed to treat), means how many patients we would need to treat with an intervention to obtain a benefit; in this question how many patients do we need to treat with warfarin to prevent a stroke.
+
+To calculate this we use the following formula: NNT= 1/RRA (RRA: absolute risk reduction).
+
+RRA= Io - Ie (Io: incidence in those not exposed to warfarin; Ie: incidence in those exposed to warfarin).
+
+RRA: 5,2%- 2,2%= 3= 0,03.
+
+NNT: 1/0.03= 33.3.

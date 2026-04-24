@@ -1,0 +1,11 @@
+Given the case of a 25-year-old woman who is a heterozygous factor V Leiden carrier with no history of thrombotic phenomena, the key concern is the potential risk of venous thromboembolism (VTE) during pregnancy.
+
+While pregnancy does induce a prothrombotic state (Option 1), the risk of VTE is generally low in women who are heterozygous for factor V Leiden. However, during pregnancy, the risk does increase slightly, particularly in the immediate puerperium due to hormonal changes and postpartum stress.
+
+Option 2, treatment with low molecular weight heparin (LMWH) at prophylactic doses, is a reasonable approach in this case. LMWH can effectively reduce the risk of VTE in pregnant women with inherited thrombophilias, such as factor V Leiden. This treatment should be initiated in the immediate puerperium and can be continued optionally during pregnancy, given the increased risk in the postpartum period.
+
+Option 3, suggesting no treatment in pregnancy and puerperium for heterozygous factor V Leiden, is not advisable. While the risk may be low in this specific case, the potential benefits of prophylactic treatment outweigh the risks, especially considering the patient's desire to become pregnant.
+
+Option 4, recommending low-dose aspirin during pregnancy and puerperium, is not the first-line treatment for factor V Leiden-related thrombophilia. Aspirin's use in pregnancy is generally avoided due to potential teratogenic effects and increased bleeding risk.
+
+Option 5, suggesting treatment with antivitamin K drugs (acenocoumarol) during pregnancy, is contraindicated due to the risk

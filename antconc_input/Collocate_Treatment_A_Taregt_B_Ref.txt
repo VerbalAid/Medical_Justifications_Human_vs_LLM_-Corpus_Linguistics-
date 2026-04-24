@@ -1,0 +1,3 @@
+Collocate	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+choice	1	130	10	0	10	1	39.392	4.137
+surgical	2	60	4	3	1	1	14.589	3.930

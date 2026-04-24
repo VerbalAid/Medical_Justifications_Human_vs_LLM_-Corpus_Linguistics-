@@ -1,0 +1,11 @@
+- pH less than 7.20 Pathological value.
+
+Indication for fetal extraction by the quickest route, in this case a cesarean section.
+
+- pH between 7.20-7.25 Prepathological value.
+
+Repeat microtome in 15-20 min.
+
+- pH greater than 7.25.
+
+Value within the limits of normality. Observation.

@@ -1,0 +1,3868 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d4" for="edge" attr.name="rel" attr.type="string" />
+  <key id="d3" for="node" attr.name="seed_cases" attr.type="string" />
+  <key id="d2" for="node" attr.name="seed_sides" attr.type="string" />
+  <key id="d1" for="node" attr.name="label" attr.type="string" />
+  <key id="d0" for="node" attr.name="sctid" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="38164009">
+      <data key="d0">38164009</data>
+      <data key="d1">congenital anomaly of integument (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="237602007">
+      <data key="d0">237602007</data>
+      <data key="d1">metabolic syndrome x (disorder)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="262515005">
+      <data key="d0">262515005</data>
+      <data key="d1">injury of body region (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="42525009">
+      <data key="d0">42525009</data>
+      <data key="d1">partial thromboplastin time, activated (procedure)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="7787002">
+      <data key="d0">7787002</data>
+      <data key="d1">speech (function)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="91723000">
+      <data key="d0">91723000</data>
+      <data key="d1">anatomical structure (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="107430004">
+      <data key="d0">107430004</data>
+      <data key="d1">order perciformes (organism)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="36456004">
+      <data key="d0">36456004</data>
+      <data key="d1">mental state finding (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="152352009">
+      <data key="d0">152352009</data>
+      <data key="d1">patient dob ? correct</data>
+      <data key="d2">A</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="239953001">
+      <data key="d0">239953001</data>
+      <data key="d1">soft tissue lesion (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="47563007">
+      <data key="d0">47563007</data>
+      <data key="d1">nutritional deficiency (finding)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="404684003">
+      <data key="d0">404684003</data>
+      <data key="d1">clinical finding (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="45781009">
+      <data key="d0">45781009</data>
+      <data key="d1">peripheral nerve entrapment syndrome (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="415826003">
+      <data key="d0">415826003</data>
+      <data key="d1">vocalizing (observable entity)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="118956008">
+      <data key="d0">118956008</data>
+      <data key="d1">body structure, altered from its original anatomical structure (morphologic abnormality)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="928000">
+      <data key="d0">928000</data>
+      <data key="d1">disease of musculoskeletal system (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="420473002">
+      <data key="d0">420473002</data>
+      <data key="d1">structure of subregion of trunk (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="364747001">
+      <data key="d0">364747001</data>
+      <data key="d1">finding of presentation of fetus (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="230637008">
+      <data key="d0">230637008</data>
+      <data key="d1">compression neuropathy of lower limb (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="363170005">
+      <data key="d0">363170005</data>
+      <data key="d1">inflammation of specific body structures or tissue (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="72696002">
+      <data key="d0">72696002</data>
+      <data key="d1">knee region structure (body structure)</data>
+      <data key="d2">A,B</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="66091009">
+      <data key="d0">66091009</data>
+      <data key="d1">congenital disease (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="443341004">
+      <data key="d0">443341004</data>
+      <data key="d1">congenital anomaly (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="119260005">
+      <data key="d0">119260005</data>
+      <data key="d1">lower extremity nerve (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="139552004">
+      <data key="d0">139552004</data>
+      <data key="d1">eye symptoms</data>
+      <data key="d2">A,B</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="255590007">
+      <data key="d0">255590007</data>
+      <data key="d1">extents (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="106228007">
+      <data key="d0">106228007</data>
+      <data key="d1">modifier, linkage term and/or qualifier (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="16676009">
+      <data key="d0">16676009</data>
+      <data key="d1">lumbar plexus structure (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="429968006">
+      <data key="d0">429968006</data>
+      <data key="d1">finding related to flexion of fetal head (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="122464004">
+      <data key="d0">122464004</data>
+      <data key="d1">augmentation procedure (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="71173004">
+      <data key="d0">71173004</data>
+      <data key="d1">compression (morphologic abnormality)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="284400003">
+      <data key="d0">284400003</data>
+      <data key="d1">examination of hip joint (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="363787002">
+      <data key="d0">363787002</data>
+      <data key="d1">observable entity (observable entity)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="118666003">
+      <data key="d0">118666003</data>
+      <data key="d1">procedure on musculoskeletal system (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="279001004">
+      <data key="d0">279001004</data>
+      <data key="d1">pain finding at anatomical site (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="116320007">
+      <data key="d0">116320007</data>
+      <data key="d1">hip maneuver (procedure)</data>
+      <data key="d2">A</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="261324000">
+      <data key="d0">261324000</data>
+      <data key="d1">vehicle (physical object)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="289262005">
+      <data key="d0">289262005</data>
+      <data key="d1">finding of structures of conception (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="363070008">
+      <data key="d0">363070008</data>
+      <data key="d1">developmental hereditary disorder (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="52988006">
+      <data key="d0">52988006</data>
+      <data key="d1">lesion -retired-</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="276654001">
+      <data key="d0">276654001</data>
+      <data key="d1">congenital malformation (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="123955006">
+      <data key="d0">123955006</data>
+      <data key="d1">thigh part (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="244014007">
+      <data key="d0">244014007</data>
+      <data key="d1">surface region of lower leg (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="272609000">
+      <data key="d0">272609000</data>
+      <data key="d1">vertebrate (organism)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="363914007">
+      <data key="d0">363914007</data>
+      <data key="d1">characteristic of vocal and verbal behavior (observable entity)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="373673007">
+      <data key="d0">373673007</data>
+      <data key="d1">disorder characterized by pain (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="255203001">
+      <data key="d0">255203001</data>
+      <data key="d1">additional values (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="51042001">
+      <data key="d0">51042001</data>
+      <data key="d1">history of (present illness) (contextual qualifier) (qualifier value)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="1899006">
+      <data key="d0">1899006</data>
+      <data key="d1">autosomal hereditary disorder (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="285835004">
+      <data key="d0">285835004</data>
+      <data key="d1">use of language (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="787469003">
+      <data key="d0">787469003</data>
+      <data key="d1">structure of soft tissue of thigh (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="49755003">
+      <data key="d0">49755003</data>
+      <data key="d1">morphologically abnormal structure (morphologic abnormality)</data>
+      <data key="d2">A</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="91722005">
+      <data key="d0">91722005</data>
+      <data key="d1">physical anatomical entity (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="106234000">
+      <data key="d0">106234000</data>
+      <data key="d1">general adjectival modifier (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="386033004">
+      <data key="d0">386033004</data>
+      <data key="d1">neuropathy (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="106077005">
+      <data key="d0">106077005</data>
+      <data key="d1">integumentary system finding (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="247619007">
+      <data key="d0">247619007</data>
+      <data key="d1">thought finding (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="398241000">
+      <data key="d0">398241000</data>
+      <data key="d1">case (qualifier value)</data>
+      <data key="d2">A,B</data>
+      <data key="d3">case_001.txt+case_005.txt</data>
+    </node>
+    <node id="32595002">
+      <data key="d0">32595002</data>
+      <data key="d1">mononeuritis (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="7523003">
+      <data key="d0">7523003</data>
+      <data key="d1">injury of thigh (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="300893006">
+      <data key="d0">300893006</data>
+      <data key="d1">nutritional finding (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="183135000">
+      <data key="d0">183135000</data>
+      <data key="d1">mobility aids (physical object)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="91251008">
+      <data key="d0">91251008</data>
+      <data key="d1">physical therapy procedure (regime/therapy)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="260787004">
+      <data key="d0">260787004</data>
+      <data key="d1">physical object (physical object)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="19207007">
+      <data key="d0">19207007</data>
+      <data key="d1">manipulation (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="267368005">
+      <data key="d0">267368005</data>
+      <data key="d1">endocrine, nutritional, metabolic and immunity disorders (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="302773001">
+      <data key="d0">302773001</data>
+      <data key="d1">examination of limb (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="105969002">
+      <data key="d0">105969002</data>
+      <data key="d1">disease of connective tissues (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="119270007">
+      <data key="d0">119270007</data>
+      <data key="d1">management procedure (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="363039000">
+      <data key="d0">363039000</data>
+      <data key="d1">congenital connective tissue disorder (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="370227000">
+      <data key="d0">370227000</data>
+      <data key="d1">modifier and/or qualifier (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="127951001">
+      <data key="d0">127951001</data>
+      <data key="d1">region of lower extremity (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="288467006">
+      <data key="d0">288467006</data>
+      <data key="d1">extended (qualifier value)</data>
+      <data key="d2">A</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="48692003">
+      <data key="d0">48692003</data>
+      <data key="d1">surgical procedure (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="304782008">
+      <data key="d0">304782008</data>
+      <data key="d1">lesions of nerves plexuses and roots (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="193105005">
+      <data key="d0">193105005</data>
+      <data key="d1">nerve, plexus and root disorders (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="67328008">
+      <data key="d0">67328008</data>
+      <data key="d1">structure of soft tissues of lower extremity (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="359923002">
+      <data key="d0">359923002</data>
+      <data key="d1">nervous structure of limb (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="392521001">
+      <data key="d0">392521001</data>
+      <data key="d1">history of (contextual qualifier) (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="73873008">
+      <data key="d0">73873008</data>
+      <data key="d1">metabolic disease of collagen (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="252278002">
+      <data key="d0">252278002</data>
+      <data key="d1">coagulation pathway screening (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="2231001">
+      <data key="d0">2231001</data>
+      <data key="d1">nerve plexus disorder (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="19130008">
+      <data key="d0">19130008</data>
+      <data key="d1">traumatic abnormality (morphologic abnormality)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="16922007">
+      <data key="d0">16922007</data>
+      <data key="d1">hereditary coagulation factor deficiency (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="1287677009">
+      <data key="d0">1287677009</data>
+      <data key="d1">structure of direct branch of lumbar plexus (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="112697007">
+      <data key="d0">112697007</data>
+      <data key="d1">operation on musculoskeletal system (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="19660004">
+      <data key="d0">19660004</data>
+      <data key="d1">disorder of soft tissue (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="106088004">
+      <data key="d0">106088004</data>
+      <data key="d1">nutritional system finding (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="58588007">
+      <data key="d0">58588007</data>
+      <data key="d1">cutis laxa (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="107658001">
+      <data key="d0">107658001</data>
+      <data key="d1">mechanical abnormality (morphologic abnormality)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="225447006">
+      <data key="d0">225447006</data>
+      <data key="d1">reappearance of old thoughts (finding)</data>
+      <data key="d2">A</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="225217007">
+      <data key="d0">225217007</data>
+      <data key="d1">psychodynamic and supportive psychotherapeutic interventions (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="363136009">
+      <data key="d0">363136009</data>
+      <data key="d1">hereditary disorder of hematologic system (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="4365001">
+      <data key="d0">4365001</data>
+      <data key="d1">surgical repair (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="128135006">
+      <data key="d0">128135006</data>
+      <data key="d1">disease of thigh (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="609637006">
+      <data key="d0">609637006</data>
+      <data key="d1">procedure on pelvic region of trunk (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="419003001">
+      <data key="d0">419003001</data>
+      <data key="d1">finding of thigh (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="303123004">
+      <data key="d0">303123004</data>
+      <data key="d1">bleeding</data>
+      <data key="d2">B</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="363212003">
+      <data key="d0">363212003</data>
+      <data key="d1">hereditary disorder of musculoskeletal system (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="422697005">
+      <data key="d0">422697005</data>
+      <data key="d1">structure of half of trunk lateral to midsagittal plane (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="127452003">
+      <data key="d0">127452003</data>
+      <data key="d1">past medical history of (contextual qualifier) (context-dependent category)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="271595008">
+      <data key="d0">271595008</data>
+      <data key="d1">mental state, behavior and/or psychosocial function finding (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="102957003">
+      <data key="d0">102957003</data>
+      <data key="d1">neurological finding (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="363175000">
+      <data key="d0">363175000</data>
+      <data key="d1">inflammatory disorder of extremity (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="42658009">
+      <data key="d0">42658009</data>
+      <data key="d1">disorder of the peripheral nervous system (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="272116003">
+      <data key="d0">272116003</data>
+      <data key="d1">durations (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="314747004">
+      <data key="d0">314747004</data>
+      <data key="d1">branch of sacral plexus to lower limb (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="118699001">
+      <data key="d0">118699001</data>
+      <data key="d1">procedure on pelvis (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="288534005">
+      <data key="d0">288534005</data>
+      <data key="d1">functions related to communication (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="36030000">
+      <data key="d0">36030000</data>
+      <data key="d1">transport vehicle, device (physical object)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="3850002">
+      <data key="d0">3850002</data>
+      <data key="d1">psychological function (function)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="288542006">
+      <data key="d0">288542006</data>
+      <data key="d1">using verbal communication (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="73211009">
+      <data key="d0">73211009</data>
+      <data key="d1">diabetes mellitus (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="255471002">
+      <data key="d0">255471002</data>
+      <data key="d1">localized (qualifier value)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="28487002">
+      <data key="d0">28487002</data>
+      <data key="d1">finding of arrangement of fetus (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="129136002">
+      <data key="d0">129136002</data>
+      <data key="d1">injury of nerve of lower extremity (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="61396006">
+      <data key="d0">61396006</data>
+      <data key="d1">structure of left thigh (body structure)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="85007004">
+      <data key="d0">85007004</data>
+      <data key="d1">meralgia paresthetica (disorder)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="29913006">
+      <data key="d0">29913006</data>
+      <data key="d1">rheumatism (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="142980008">
+      <data key="d0">142980008</data>
+      <data key="d1">activated partial thromboplastin time</data>
+      <data key="d2">B</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="73590005">
+      <data key="d0">73590005</data>
+      <data key="d1">peripheral nerve injury (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="95320005">
+      <data key="d0">95320005</data>
+      <data key="d1">disease of skin (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="361394006">
+      <data key="d0">361394006</data>
+      <data key="d1">nerve of lumbar plexus distribution (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="252280008">
+      <data key="d0">252280008</data>
+      <data key="d1">intrinsic coagulation pathway screening (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="609592007">
+      <data key="d0">609592007</data>
+      <data key="d1">mononeuropathy of lower limb (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="230617009">
+      <data key="d0">230617009</data>
+      <data key="d1">lumbosacral plexus neuropathy (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="430636002">
+      <data key="d0">430636002</data>
+      <data key="d1">structure of soft tissue of extremity (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="289359005">
+      <data key="d0">289359005</data>
+      <data key="d1">fetal head flexed (finding)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="84116009">
+      <data key="d0">84116009</data>
+      <data key="d1">compression injury of nerve (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="8801005">
+      <data key="d0">8801005</data>
+      <data key="d1">secondary diabetes mellitus (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="361395007">
+      <data key="d0">361395007</data>
+      <data key="d1">nerve of sacral plexus distribution (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="609612001">
+      <data key="d0">609612001</data>
+      <data key="d1">disorder of nerve root and/or plexus (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="387713003">
+      <data key="d0">387713003</data>
+      <data key="d1">surgical procedure (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="118234003">
+      <data key="d0">118234003</data>
+      <data key="d1">finding by site (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="182299007">
+      <data key="d0">182299007</data>
+      <data key="d1">lateral aspect of leg (body structure)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="363137000">
+      <data key="d0">363137000</data>
+      <data key="d1">hereditary disorder by system (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="1148960009">
+      <data key="d0">1148960009</data>
+      <data key="d1">communication function (observable entity)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="128263001">
+      <data key="d0">128263001</data>
+      <data key="d1">lower body structure (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="229315006">
+      <data key="d0">229315006</data>
+      <data key="d1">manual therapy (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="106237007">
+      <data key="d0">106237007</data>
+      <data key="d1">linkage concept (attribute)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="64572001">
+      <data key="d0">64572001</data>
+      <data key="d1">disease (disorder)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="36433008">
+      <data key="d0">36433008</data>
+      <data key="d1">hip examination (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="408739003">
+      <data key="d0">408739003</data>
+      <data key="d1">unapproved attribute (attribute)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="118175002">
+      <data key="d0">118175002</data>
+      <data key="d1">fetal presentation finding (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="11164009">
+      <data key="d0">11164009</data>
+      <data key="d1">autosomal dominant hereditary disorder (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="234440005">
+      <data key="d0">234440005</data>
+      <data key="d1">factor viii deficiency (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="384821006">
+      <data key="d0">384821006</data>
+      <data key="d1">mental state, behavior and/or psychosocial function finding (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="302292003">
+      <data key="d0">302292003</data>
+      <data key="d1">finding of trunk structure (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="446428008">
+      <data key="d0">446428008</data>
+      <data key="d1">evaluation of musculoskelatal system (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="366981002">
+      <data key="d0">366981002</data>
+      <data key="d1">pain</data>
+      <data key="d2">B</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="139750009">
+      <data key="d0">139750009</data>
+      <data key="d1">symptom relieving factors</data>
+      <data key="d2">B</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="393474000">
+      <data key="d0">393474000</data>
+      <data key="d1">positive</data>
+      <data key="d2">A</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="84782009">
+      <data key="d0">84782009</data>
+      <data key="d1">peripheral nerve structure (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="699617006">
+      <data key="d0">699617006</data>
+      <data key="d1">structure of free lower limb (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="120573002">
+      <data key="d0">120573002</data>
+      <data key="d1">extremity part (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="238846003">
+      <data key="d0">238846003</data>
+      <data key="d1">collagen and elastic tissue disorders affecting skin (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="255224006">
+      <data key="d0">255224006</data>
+      <data key="d1">prolonged (qualifier value)</data>
+      <data key="d2">A,B</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="116367006">
+      <data key="d0">116367006</data>
+      <data key="d1">psychological finding (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="240259000">
+      <data key="d0">240259000</data>
+      <data key="d1">inherited disorder of connective tissue (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="277132007">
+      <data key="d0">277132007</data>
+      <data key="d1">therapeutic procedure (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="442083009">
+      <data key="d0">442083009</data>
+      <data key="d1">anatomical or acquired body structure (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="41519007">
+      <data key="d0">41519007</data>
+      <data key="d1">structure of sciatic nerve (body structure)</data>
+      <data key="d2">A</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="122546009">
+      <data key="d0">122546009</data>
+      <data key="d1">stretching procedure (procedure)</data>
+      <data key="d2">A</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="105606008">
+      <data key="d0">105606008</data>
+      <data key="d1">injury of musculoskeletal system (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="362970003">
+      <data key="d0">362970003</data>
+      <data key="d1">disorder of hemostatic system (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="282259008">
+      <data key="d0">282259008</data>
+      <data key="d1">psychotherapeutic, behavioral and communication procedures (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="43914001">
+      <data key="d0">43914001</data>
+      <data key="d1">laryngeal voice function (function)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="116319001">
+      <data key="d0">116319001</data>
+      <data key="d1">physical examination maneuver related to lower extremity (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="362965005">
+      <data key="d0">362965005</data>
+      <data key="d1">disorder of body system (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="123397009">
+      <data key="d0">123397009</data>
+      <data key="d1">injury of anatomical site (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="387978008">
+      <data key="d0">387978008</data>
+      <data key="d1">superclass osteichthyes (organism)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="223482009">
+      <data key="d0">223482009</data>
+      <data key="d1">discussion (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="27252002">
+      <data key="d0">27252002</data>
+      <data key="d1">chordate (organism)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="128598002">
+      <data key="d0">128598002</data>
+      <data key="d1">disorder of integument (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="43272002">
+      <data key="d0">43272002</data>
+      <data key="d1">communicating (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="19346006">
+      <data key="d0">19346006</data>
+      <data key="d1">marfan's syndrome (disorder)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="297269007">
+      <data key="d0">297269007</data>
+      <data key="d1">endocrine, nutritional and metabolic finding (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="106227002">
+      <data key="d0">106227002</data>
+      <data key="d1">general information qualifier (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="312225001">
+      <data key="d0">312225001</data>
+      <data key="d1">musculoskeletal and connective tissue diseases (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="22943007">
+      <data key="d0">22943007</data>
+      <data key="d1">trunk structure (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="700012005">
+      <data key="d0">700012005</data>
+      <data key="d1">disorder of free lower limb (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="90580008">
+      <data key="d0">90580008</data>
+      <data key="d1">fish (organism)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="361391003">
+      <data key="d0">361391003</data>
+      <data key="d1">regional peripheral nerve (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="52530000">
+      <data key="d0">52530000</data>
+      <data key="d1">body region structure (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="128927009">
+      <data key="d0">128927009</data>
+      <data key="d1">procedure by method (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="86075001">
+      <data key="d0">86075001</data>
+      <data key="d1">coagulation factor deficiency syndrome (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="360304005">
+      <data key="d0">360304005</data>
+      <data key="d1">lift (physical object)</data>
+      <data key="d2">A</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="5294002">
+      <data key="d0">5294002</data>
+      <data key="d1">developmental disorder (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="128239009">
+      <data key="d0">128239009</data>
+      <data key="d1">injury of nervous system (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="280350004">
+      <data key="d0">280350004</data>
+      <data key="d1">branch of sacral plexus (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="137667000">
+      <data key="d0">137667000</data>
+      <data key="d1">family history</data>
+      <data key="d2">A,B</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="62397004">
+      <data key="d0">62397004</data>
+      <data key="d1">sacral plexus structure (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="37782003">
+      <data key="d0">37782003</data>
+      <data key="d1">damage (morphologic abnormality)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="95324001">
+      <data key="d0">95324001</data>
+      <data key="d1">skin lesion (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="87335007">
+      <data key="d0">87335007</data>
+      <data key="d1">speaking (function)</data>
+      <data key="d2">A</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="69548008">
+      <data key="d0">69548008</data>
+      <data key="d1">lower body part structure (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="4605009">
+      <data key="d0">4605009</data>
+      <data key="d1">cerebral function (function)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="40598008">
+      <data key="d0">40598008</data>
+      <data key="d1">clotting factor viii assay (procedure)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="39682000">
+      <data key="d0">39682000</data>
+      <data key="d1">ulvaria subbifurcata (organism)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="787050004">
+      <data key="d0">787050004</data>
+      <data key="d1">structure of joint region of lower extremity (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="272513004">
+      <data key="d0">272513004</data>
+      <data key="d1">physiological actions (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="280136002">
+      <data key="d0">280136002</data>
+      <data key="d1">disorder of soft tissue of lower limb (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="394640000">
+      <data key="d0">394640000</data>
+      <data key="d1">radiculopathy</data>
+      <data key="d2">B</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="128189008">
+      <data key="d0">128189008</data>
+      <data key="d1">mononeuropathy (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="89780004">
+      <data key="d0">89780004</data>
+      <data key="d1">combined (qualifier value)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="281251008">
+      <data key="d0">281251008</data>
+      <data key="d1">nervous structure of lower limb (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="122465003">
+      <data key="d0">122465003</data>
+      <data key="d1">reconstruction procedure (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="128605003">
+      <data key="d0">128605003</data>
+      <data key="d1">disease of extremity (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="32153003">
+      <data key="d0">32153003</data>
+      <data key="d1">left lower extremity structure (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="64779008">
+      <data key="d0">64779008</data>
+      <data key="d1">blood coagulation disorder (disorder)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="123946008">
+      <data key="d0">123946008</data>
+      <data key="d1">disease by body site (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="138147005">
+      <data key="d0">138147005</data>
+      <data key="d1">marital problems</data>
+      <data key="d2">B</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="246061005">
+      <data key="d0">246061005</data>
+      <data key="d1">attribute (attribute)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="103800002">
+      <data key="d0">103800002</data>
+      <data key="d1">coagulation factor assay (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="138336005">
+      <data key="d0">138336005</data>
+      <data key="d1">child's special allowance</data>
+      <data key="d2">A</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="118694006">
+      <data key="d0">118694006</data>
+      <data key="d1">procedure on trunk (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="75382007">
+      <data key="d0">75382007</data>
+      <data key="d1">differentiated vocalization (function)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="154819009">
+      <data key="d0">154819009</data>
+      <data key="d1">von willebrand's disease</data>
+      <data key="d2">B</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="128121009">
+      <data key="d0">128121009</data>
+      <data key="d1">disease of trunk (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="107325002">
+      <data key="d0">107325002</data>
+      <data key="d1">class osteichthyes - bony fish (organism)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="116302003">
+      <data key="d0">116302003</data>
+      <data key="d1">physical examination maneuver (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="609611008">
+      <data key="d0">609611008</data>
+      <data key="d1">lesion of nerve root and/or plexus (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="1209182005">
+      <data key="d0">1209182005</data>
+      <data key="d1">cephalic fetal presentation (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="415825004">
+      <data key="d0">415825004</data>
+      <data key="d1">vocal function (observable entity)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="272099008">
+      <data key="d0">272099008</data>
+      <data key="d1">descriptors (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="90935002">
+      <data key="d0">90935002</data>
+      <data key="d1">hemophilia (disorder)</data>
+      <data key="d2">A</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="118710009">
+      <data key="d0">118710009</data>
+      <data key="d1">procedure on lower extremity (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="255537008">
+      <data key="d0">255537008</data>
+      <data key="d1">flexion of fetal head (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="118940003">
+      <data key="d0">118940003</data>
+      <data key="d1">disease of nervous system (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="61685007">
+      <data key="d0">61685007</data>
+      <data key="d1">lower limb structure (body structure)</data>
+      <data key="d2">A</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="243814003">
+      <data key="d0">243814003</data>
+      <data key="d1">interpretation of findings (observable entity)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="1231522001">
+      <data key="d0">1231522001</data>
+      <data key="d1">structure of pelvic cross-sectional segment of trunk and/or lower limb (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="246105001">
+      <data key="d0">246105001</data>
+      <data key="d1">presentation (attribute)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="406122000">
+      <data key="d0">406122000</data>
+      <data key="d1">head finding (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="282744003">
+      <data key="d0">282744003</data>
+      <data key="d1">injury of body structure (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="423857001">
+      <data key="d0">423857001</data>
+      <data key="d1">structure of half of body lateral to midsagittal plane (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="75934005">
+      <data key="d0">75934005</data>
+      <data key="d1">metabolic disease (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="128139000">
+      <data key="d0">128139000</data>
+      <data key="d1">inflammatory disorder (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="28293008">
+      <data key="d0">28293008</data>
+      <data key="d1">hemophilia a (disorder)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="49062001">
+      <data key="d0">49062001</data>
+      <data key="d1">device (physical object)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="111474003">
+      <data key="d0">111474003</data>
+      <data key="d1">disorder involving the integument of fetus or newborn (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="120575009">
+      <data key="d0">120575009</data>
+      <data key="d1">lower extremity part (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="79466001">
+      <data key="d0">79466001</data>
+      <data key="d1">vocal resonance (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="118937003">
+      <data key="d0">118937003</data>
+      <data key="d1">disease of lower extremity (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="609600000">
+      <data key="d0">609600000</data>
+      <data key="d1">neuropathy of lower limb (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="244011004">
+      <data key="d0">244011004</data>
+      <data key="d1">surface region of lower limb (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="439401001">
+      <data key="d0">439401001</data>
+      <data key="d1">diagnosis (observable entity)</data>
+      <data key="d2">A,B</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="284393006">
+      <data key="d0">284393006</data>
+      <data key="d1">examination of joint (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="302226006">
+      <data key="d0">302226006</data>
+      <data key="d1">peripheral nerve disease (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="708041002">
+      <data key="d0">708041002</data>
+      <data key="d1">mechanical lesion (morphologic abnormality)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="609336008">
+      <data key="d0">609336008</data>
+      <data key="d1">traumatic injury by site (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="118228005">
+      <data key="d0">118228005</data>
+      <data key="d1">functional finding (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="66019005">
+      <data key="d0">66019005</data>
+      <data key="d1">limb structure (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="71388002">
+      <data key="d0">71388002</data>
+      <data key="d1">procedure (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="363045008">
+      <data key="d0">363045008</data>
+      <data key="d1">connective tissue hereditary disorder (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="243796009">
+      <data key="d0">243796009</data>
+      <data key="d1">context-dependent categories (context-dependent category)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="299735001">
+      <data key="d0">299735001</data>
+      <data key="d1">neurological lesion (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="138875005">
+      <data key="d0">138875005</data>
+      <data key="d1">snomed ct concept (snomed rt+ctv3)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="417746004">
+      <data key="d0">417746004</data>
+      <data key="d1">traumatic injury (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="156648004">
+      <data key="d0">156648004</data>
+      <data key="d1">low back pain</data>
+      <data key="d2">B</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="700010002">
+      <data key="d0">700010002</data>
+      <data key="d1">injury of free lower limb (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="32895009">
+      <data key="d0">32895009</data>
+      <data key="d1">hereditary disease (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="38866009">
+      <data key="d0">38866009</data>
+      <data key="d1">body part structure (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="360300001">
+      <data key="d0">360300001</data>
+      <data key="d1">transport (physical object)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="300054001">
+      <data key="d0">300054001</data>
+      <data key="d1">peripheral nerve of limb (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="272142003">
+      <data key="d0">272142003</data>
+      <data key="d1">extensiveness (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="118711008">
+      <data key="d0">118711008</data>
+      <data key="d1">procedure on hip (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="246425008">
+      <data key="d0">246425008</data>
+      <data key="d1">nature (attribute)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="272103003">
+      <data key="d0">272103003</data>
+      <data key="d1">time patterns (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="303102005">
+      <data key="d0">303102005</data>
+      <data key="d1">special disorder atoms (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="199879009">
+      <data key="d0">199879009</data>
+      <data key="d1">congenital anomaly of skin (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="129182005">
+      <data key="d0">129182005</data>
+      <data key="d1">procedure on joint of lower extremity (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="60701003">
+      <data key="d0">60701003</data>
+      <data key="d1">vocal parameter (function)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="285599002">
+      <data key="d0">285599002</data>
+      <data key="d1">trunk nerve lesion (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="255470001">
+      <data key="d0">255470001</data>
+      <data key="d1">local (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="223487003">
+      <data key="d0">223487003</data>
+      <data key="d1">discussion about options (procedure)</data>
+      <data key="d2">A</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="31156008">
+      <data key="d0">31156008</data>
+      <data key="d1">structure of left half of body (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="82852009">
+      <data key="d0">82852009</data>
+      <data key="d1">sex-linked hereditary disorder (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="255297006">
+      <data key="d0">255297006</data>
+      <data key="d1">behavior descriptors (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="297946004">
+      <data key="d0">297946004</data>
+      <data key="d1">lower limb nerve lesion (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="22253000">
+      <data key="d0">22253000</data>
+      <data key="d1">pain (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="4062006">
+      <data key="d0">4062006</data>
+      <data key="d1">lumbosacral plexus lesion (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="116312005">
+      <data key="d0">116312005</data>
+      <data key="d1">finding of lower limb (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="107478004">
+      <data key="d0">107478004</data>
+      <data key="d1">family stichaeidae - prickleback (organism)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="128430005">
+      <data key="d0">128430005</data>
+      <data key="d1">x-linked hereditary disease (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="413350009">
+      <data key="d0">413350009</data>
+      <data key="d1">context-dependent finding (context-dependent category)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="65490005">
+      <data key="d0">65490005</data>
+      <data key="d1">structure of lateral femoral cutaneous nerve (body structure)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="301366005">
+      <data key="d0">301366005</data>
+      <data key="d1">pain of truncal structure (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="244476009">
+      <data key="d0">244476009</data>
+      <data key="d1">peripheral nerve of lower limb (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="254220005">
+      <data key="d0">254220005</data>
+      <data key="d1">inherited cutis laxa (disorder)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="366364004">
+      <data key="d0">366364004</data>
+      <data key="d1">finding of nutritional status (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="250171008">
+      <data key="d0">250171008</data>
+      <data key="d1">clinical history and observation findings (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="156649007">
+      <data key="d0">156649007</data>
+      <data key="d1">sciatica</data>
+      <data key="d2">B</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="373930000">
+      <data key="d0">373930000</data>
+      <data key="d1">cognitive function finding (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="274791003">
+      <data key="d0">274791003</data>
+      <data key="d1">examination of lower limb (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="782964007">
+      <data key="d0">782964007</data>
+      <data key="d1">genetic disease (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="128192007">
+      <data key="d0">128192007</data>
+      <data key="d1">peripheral neuritis (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="307365001">
+      <data key="d0">307365001</data>
+      <data key="d1">lateral cutaneous nerve of thigh lesion (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="785818007">
+      <data key="d0">785818007</data>
+      <data key="d1">structure of joint region (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="250330007">
+      <data key="d0">250330007</data>
+      <data key="d1">intrinsic coagulation pathway factor measurement (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="30021000">
+      <data key="d0">30021000</data>
+      <data key="d1">lower leg structure (body structure)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_005.txt</data>
+    </node>
+    <node id="387967000">
+      <data key="d0">387967000</data>
+      <data key="d1">subphylum vertebrata (organism)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="127279002">
+      <data key="d0">127279002</data>
+      <data key="d1">injury of lower extremity (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="362981000">
+      <data key="d0">362981000</data>
+      <data key="d1">qualifier value (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="361045004">
+      <data key="d0">361045004</data>
+      <data key="d1">peripheral nerve structure of lower limb (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="106232001">
+      <data key="d0">106232001</data>
+      <data key="d1">adjectival modifier (qualifier value)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="80035002">
+      <data key="d0">80035002</data>
+      <data key="d1">vocal intensity (function)</data>
+      <data key="d2">A</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="10601006">
+      <data key="d0">10601006</data>
+      <data key="d1">pain in lower limb (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="78514002">
+      <data key="d0">78514002</data>
+      <data key="d1">thigh pain (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="246605000">
+      <data key="d0">246605000</data>
+      <data key="d1">peripheral nerve finding (finding)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="260905004">
+      <data key="d0">260905004</data>
+      <data key="d1">condition (attribute)</data>
+      <data key="d2">B</data>
+      <data key="d3">case_001.txt+case_005.txt</data>
+    </node>
+    <node id="363185004">
+      <data key="d0">363185004</data>
+      <data key="d1">hereditary disorder of the integument (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="314745007">
+      <data key="d0">314745007</data>
+      <data key="d1">sciatic nerve and its branches (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="68367000">
+      <data key="d0">68367000</data>
+      <data key="d1">thigh structure (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="280347002">
+      <data key="d0">280347002</data>
+      <data key="d1">branch of lumbar plexus (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="57312000">
+      <data key="d0">57312000</data>
+      <data key="d1">sex structure (body structure)</data>
+      <data key="d2">A</data>
+      <data key="d3">case_001.txt</data>
+    </node>
+    <node id="62235007">
+      <data key="d0">62235007</data>
+      <data key="d1">mononeuritis of lower limb (disorder)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="123037004">
+      <data key="d0">123037004</data>
+      <data key="d1">body structure (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="118749007">
+      <data key="d0">118749007</data>
+      <data key="d1">procedure on hip joint (procedure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <node id="416631005">
+      <data key="d0">416631005</data>
+      <data key="d1">pelvis and/or lower extremety structure (body structure)</data>
+      <data key="d2" />
+      <data key="d3" />
+    </node>
+    <edge source="38164009" target="128598002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="38164009" target="66091009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="38164009" target="443341004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="38164009" target="276654001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="38164009" target="111474003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="38164009" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="237602007" target="8801005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="237602007" target="75934005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="262515005" target="123397009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="42525009" target="252280008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="7787002" target="3850002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="91723000" target="91722005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="91723000" target="442083009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="107430004" target="107325002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="107430004" target="387978008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="36456004" target="116367006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="36456004" target="271595008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="36456004" target="384821006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="239953001" target="29913006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="239953001" target="19660004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="239953001" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="47563007" target="106088004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="47563007" target="300893006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="47563007" target="366364004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="47563007" target="297269007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="404684003" target="138875005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="45781009" target="73590005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="45781009" target="105606008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="45781009" target="42658009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="45781009" target="29913006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="45781009" target="239953001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="45781009" target="128189008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="45781009" target="299735001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="45781009" target="302226006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="415826003" target="272513004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="118956008" target="123037004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="928000" target="362965005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="928000" target="123946008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="420473002" target="22943007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="364747001" target="28487002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="230637008" target="262515005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="230637008" target="84116009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="230637008" target="45781009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="230637008" target="297946004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="230637008" target="609592007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="230637008" target="386033004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="230637008" target="128189008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363170005" target="123946008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363170005" target="128139000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="72696002" target="120575009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="72696002" target="699617006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="72696002" target="787050004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="66091009" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="443341004" target="66091009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="119260005" target="84782009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="119260005" target="61685007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="255590007" target="272099008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="106228007" target="362981000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="429968006" target="406122000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="429968006" target="118175002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="429968006" target="289262005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="429968006" target="364747001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="429968006" target="1209182005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="122464004" target="4365001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="122464004" target="122465003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="122464004" target="128927009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="71173004" target="107658001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="71173004" target="708041002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="284400003" target="284393006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="284400003" target="118749007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="284400003" target="302773001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="284400003" target="36433008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363787002" target="138875005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="279001004" target="22253000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="279001004" target="118234003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="116320007" target="116319001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="116320007" target="284400003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="116320007" target="118749007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="261324000" target="49062001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="261324000" target="260787004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="289262005" target="118234003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363070008" target="32895009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363070008" target="5294002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="52988006" target="49755003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="276654001" target="66091009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="276654001" target="443341004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="276654001" target="5294002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="276654001" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="123955006" target="68367000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="244014007" target="244011004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="373673007" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="373673007" target="22253000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="255203001" target="362981000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="51042001" target="106227002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="51042001" target="392521001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="51042001" target="127452003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="51042001" target="413350009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="1899006" target="32895009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="285835004" target="288542006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="285835004" target="43272002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="285835004" target="4605009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="285835004" target="1148960009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="787469003" target="67328008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="787469003" target="123955006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="49755003" target="118956008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="91722005" target="123037004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="91722005" target="91723000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="106234000" target="106232001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="106234000" target="272099008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="386033004" target="118940003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="386033004" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="106077005" target="118234003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="106077005" target="250171008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="106077005" target="404684003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="247619007" target="36456004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="247619007" target="373930000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="398241000" target="255203001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="32595002" target="128189008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="32595002" target="128192007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="7523003" target="128135006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="7523003" target="127279002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="7523003" target="700010002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="300893006" target="297269007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="300893006" target="250171008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="300893006" target="404684003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="260787004" target="138875005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="19207007" target="277132007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="19207007" target="128927009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="19207007" target="71388002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="267368005" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="267368005" target="362965005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="105969002" target="19660004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="105969002" target="312225001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="105969002" target="123946008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="105969002" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="119270007" target="71388002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="119270007" target="128927009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363039000" target="105969002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363039000" target="66091009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363039000" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="370227000" target="362981000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="127951001" target="61685007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="127951001" target="120575009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="288467006" target="272142003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="48692003" target="128927009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="304782008" target="193105005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="304782008" target="42658009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="304782008" target="386033004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="304782008" target="299735001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="193105005" target="118940003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="67328008" target="61685007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="67328008" target="430636002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="67328008" target="120575009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="359923002" target="66019005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="359923002" target="120573002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="392521001" target="106227002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="73873008" target="363212003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="73873008" target="105969002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="73873008" target="363045008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="73873008" target="75934005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="2231001" target="42658009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="2231001" target="193105005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="2231001" target="386033004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="2231001" target="609612001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="2231001" target="302226006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="19130008" target="37782003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="16922007" target="86075001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="16922007" target="363136009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="16922007" target="363137000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="16922007" target="32895009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="1287677009" target="280347002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="112697007" target="118666003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="112697007" target="48692003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="112697007" target="387713003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="112697007" target="128927009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="19660004" target="123946008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="19660004" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="106088004" target="118228005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="106088004" target="300893006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="58588007" target="363185004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="58588007" target="95320005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="58588007" target="73873008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="58588007" target="38164009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="58588007" target="238846003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="107658001" target="49755003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="225447006" target="247619007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="225447006" target="36456004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="225217007" target="282259008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363136009" target="363137000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="4365001" target="48692003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="4365001" target="387713003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="4365001" target="128927009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128135006" target="118937003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128135006" target="419003001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128135006" target="700012005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="609637006" target="118694006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="419003001" target="116312005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363212003" target="928000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363212003" target="363137000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363212003" target="32895009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="422697005" target="423857001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="422697005" target="22943007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="422697005" target="420473002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="127452003" target="243796009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="127452003" target="413350009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="271595008" target="250171008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="102957003" target="118228005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="102957003" target="118234003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="102957003" target="250171008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="102957003" target="404684003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363175000" target="363170005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363175000" target="128605003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363175000" target="128139000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="42658009" target="118940003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="272116003" target="272103003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="314747004" target="244476009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="314747004" target="280350004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="118699001" target="118694006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="118699001" target="609637006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="36030000" target="261324000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="36030000" target="360300001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="288542006" target="288534005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="255471002" target="255470001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="28487002" target="289262005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="129136002" target="73590005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="129136002" target="127279002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="129136002" target="105606008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="129136002" target="297946004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="129136002" target="128239009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="129136002" target="609600000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="129136002" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="61396006" target="68367000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="61396006" target="32153003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="85007004" target="129136002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="85007004" target="230637008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="85007004" target="307365001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="85007004" target="62235007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="85007004" target="7523003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="85007004" target="2231001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="85007004" target="373673007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="85007004" target="4062006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="85007004" target="78514002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="85007004" target="301366005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="29913006" target="312225001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="29913006" target="19660004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="73590005" target="42658009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="73590005" target="246605000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="73590005" target="302226006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="95320005" target="128598002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="95320005" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="361394006" target="84782009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="361394006" target="361391003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="361394006" target="423857001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="252280008" target="252278002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="609592007" target="128189008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="609592007" target="609600000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="230617009" target="4062006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="230617009" target="2231001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="230617009" target="386033004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="230617009" target="128121009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="230617009" target="19660004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="230617009" target="302226006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="430636002" target="120573002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="289359005" target="255537008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="289359005" target="429968006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="84116009" target="304782008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="84116009" target="299735001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="84116009" target="386033004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="84116009" target="417746004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="8801005" target="73211009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="361395007" target="84782009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="361395007" target="361391003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="361395007" target="423857001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="609612001" target="42658009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="609612001" target="118940003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="387713003" target="128927009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="387713003" target="71388002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="118234003" target="404684003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="182299007" target="244014007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363137000" target="32895009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363137000" target="362965005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128263001" target="38866009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="229315006" target="91251008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="106237007" target="246061005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="106237007" target="408739003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="106237007" target="138875005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="64572001" target="138875005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="64572001" target="404684003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="36433008" target="302773001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="36433008" target="118711008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="36433008" target="274791003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="408739003" target="246061005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="11164009" target="1899006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="234440005" target="64779008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="234440005" target="86075001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="384821006" target="116367006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="384821006" target="250171008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="384821006" target="404684003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="302292003" target="404684003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="446428008" target="118666003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="699617006" target="127951001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="120573002" target="66019005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="238846003" target="95320005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="255224006" target="272116003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="116367006" target="118228005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="116367006" target="250171008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="240259000" target="363212003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="240259000" target="312225001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="240259000" target="32895009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="240259000" target="105969002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="442083009" target="123037004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="41519007" target="314745007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="41519007" target="119260005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="41519007" target="123955006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="41519007" target="280350004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="41519007" target="68367000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="41519007" target="314747004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="41519007" target="787469003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="122546009" target="122464004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="122546009" target="229315006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="122546009" target="112697007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="122546009" target="128927009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="122546009" target="19207007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="105606008" target="282744003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="105606008" target="928000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="105606008" target="123397009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="105606008" target="417746004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="105606008" target="609336008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="362970003" target="362965005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="362970003" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="362970003" target="118228005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="43914001" target="79466001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="43914001" target="415825004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="116319001" target="116302003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="116319001" target="274791003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="116319001" target="118666003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="116319001" target="118710009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="116319001" target="446428008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="362965005" target="123946008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="362965005" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="123397009" target="123946008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="387978008" target="387967000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="223482009" target="225217007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="223482009" target="128927009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="223482009" target="119270007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="223482009" target="282259008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128598002" target="362965005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128598002" target="106077005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128598002" target="123946008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="43272002" target="106234000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="43272002" target="288534005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="19346006" target="240259000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="19346006" target="11164009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="19346006" target="363045008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="297269007" target="250171008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="106227002" target="106228007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="106227002" target="370227000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="106227002" target="362981000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="312225001" target="928000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="312225001" target="123946008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="312225001" target="105969002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="22943007" target="38866009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="700012005" target="118937003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="700012005" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="90580008" target="272609000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="90580008" target="27252002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="90580008" target="387967000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="361391003" target="84782009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="361391003" target="52530000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="52530000" target="91723000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128927009" target="71388002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="86075001" target="64779008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="360304005" target="49062001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="360304005" target="36030000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="360304005" target="360300001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="5294002" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128239009" target="118940003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128239009" target="282744003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128239009" target="123397009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128239009" target="299735001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128239009" target="417746004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128239009" target="609336008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="280350004" target="62397004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="280350004" target="361395007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="37782003" target="49755003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="37782003" target="52988006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="95324001" target="95320005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="95324001" target="239953001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="95324001" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="87335007" target="75382007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="87335007" target="285835004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="87335007" target="43914001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="69548008" target="128263001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="40598008" target="250330007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="39682000" target="107478004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="787050004" target="785818007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="280136002" target="118937003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="280136002" target="239953001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="280136002" target="19660004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128189008" target="42658009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128189008" target="386033004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128189008" target="302226006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="89780004" target="255297006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="89780004" target="106234000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="281251008" target="359923002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="281251008" target="61685007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="281251008" target="120575009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="281251008" target="67328008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="122465003" target="4365001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128605003" target="312225001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128605003" target="123946008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128605003" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="32153003" target="61685007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="32153003" target="31156008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="64779008" target="362970003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="123946008" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="123946008" target="118234003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="246061005" target="138875005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="246061005" target="106237007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="75382007" target="79466001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="75382007" target="415825004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="75382007" target="415826003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128121009" target="123946008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128121009" target="302292003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128121009" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="107325002" target="90580008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="609611008" target="609612001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="609611008" target="299735001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="609611008" target="118940003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="1209182005" target="364747001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="1209182005" target="406122000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="415825004" target="288534005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="415825004" target="1148960009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="272099008" target="255203001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="272099008" target="362981000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="90935002" target="86075001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="255537008" target="118175002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="255537008" target="28487002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="255537008" target="406122000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="118940003" target="362965005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="118940003" target="102957003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="118940003" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="61685007" target="66019005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="61685007" target="416631005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="61685007" target="69548008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="61685007" target="1231522001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="243814003" target="363787002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="1231522001" target="69548008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="246105001" target="246061005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="246105001" target="408739003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="406122000" target="404684003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="282744003" target="123397009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="423857001" target="52530000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="75934005" target="362965005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="75934005" target="267368005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="75934005" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128139000" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="28293008" target="128430005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="28293008" target="90935002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="28293008" target="16922007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="28293008" target="234440005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="49062001" target="260787004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="111474003" target="128598002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="120575009" target="120573002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="120575009" target="69548008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="120575009" target="61685007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="79466001" target="60701003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="118937003" target="128605003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="118937003" target="116312005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="609600000" target="118937003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="609600000" target="302226006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="609600000" target="280136002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="609600000" target="386033004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="609600000" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="244011004" target="127951001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="439401001" target="243814003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="284393006" target="446428008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="302226006" target="193105005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="302226006" target="42658009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="302226006" target="386033004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="302226006" target="246605000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="302226006" target="19660004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="302226006" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="708041002" target="52988006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="708041002" target="107658001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="609336008" target="417746004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="609336008" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="118228005" target="250171008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="118228005" target="404684003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="66019005" target="38866009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="66019005" target="423857001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="71388002" target="138875005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363045008" target="32895009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363045008" target="105969002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363045008" target="363137000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="243796009" target="138875005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="299735001" target="102957003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="299735001" target="118234003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="299735001" target="404684003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="417746004" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="700010002" target="127279002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="700010002" target="700012005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="700010002" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="32895009" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="32895009" target="782964007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="38866009" target="52530000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="360300001" target="183135000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="360300001" target="260787004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="300054001" target="84782009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="300054001" target="66019005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="300054001" target="361391003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="300054001" target="359923002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="300054001" target="430636002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="272142003" target="303102005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="272142003" target="255590007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="118711008" target="118710009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="118711008" target="118699001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="118711008" target="118694006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="118711008" target="609637006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="246425008" target="246061005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="246425008" target="408739003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="272103003" target="272099008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="199879009" target="95320005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="199879009" target="38164009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="199879009" target="95324001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="199879009" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="129182005" target="118710009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="60701003" target="7787002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="60701003" target="363914007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="285599002" target="304782008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="285599002" target="73590005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="285599002" target="128121009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="285599002" target="386033004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="285599002" target="299735001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="255470001" target="272142003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="223487003" target="223482009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="31156008" target="52530000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="31156008" target="423857001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="82852009" target="32895009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="255297006" target="272099008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="297946004" target="304782008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="297946004" target="42658009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="297946004" target="118937003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="297946004" target="386033004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="297946004" target="246605000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="297946004" target="299735001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="297946004" target="239953001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="297946004" target="302226006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="297946004" target="609600000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="297946004" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="4062006" target="2231001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="4062006" target="304782008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="4062006" target="128121009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="4062006" target="246605000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="4062006" target="299735001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="4062006" target="386033004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="4062006" target="239953001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="4062006" target="230617009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="4062006" target="609611008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="4062006" target="285599002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="107478004" target="107430004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="107478004" target="90580008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128430005" target="82852009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="413350009" target="243796009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="65490005" target="123955006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="65490005" target="280347002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="65490005" target="119260005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="65490005" target="787469003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="65490005" target="1287677009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="65490005" target="244476009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="301366005" target="279001004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="301366005" target="302292003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="244476009" target="361045004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="244476009" target="281251008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="244476009" target="300054001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="244476009" target="67328008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="254220005" target="58588007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="254220005" target="199879009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="254220005" target="363039000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="254220005" target="363045008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="254220005" target="363185004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="254220005" target="5294002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="254220005" target="363070008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="366364004" target="300893006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="366364004" target="297269007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="250171008" target="404684003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="373930000" target="36456004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="373930000" target="384821006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="373930000" target="118228005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="274791003" target="118710009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="274791003" target="302773001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="782964007" target="64572001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128192007" target="42658009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128192007" target="246605000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128192007" target="239953001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="128192007" target="302226006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="307365001" target="2231001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="307365001" target="297946004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="307365001" target="128135006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="307365001" target="128121009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="307365001" target="4062006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="307365001" target="280136002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="785818007" target="52530000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="250330007" target="103800002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="30021000" target="120575009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="30021000" target="699617006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="127279002" target="262515005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="127279002" target="118937003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="127279002" target="123397009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="127279002" target="417746004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="127279002" target="609336008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="362981000" target="138875005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="361045004" target="84782009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="106232001" target="106228007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="106232001" target="370227000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="106232001" target="272099008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="80035002" target="60701003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="10601006" target="116312005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="78514002" target="10601006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="78514002" target="419003001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="78514002" target="279001004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="246605000" target="102957003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="246605000" target="118234003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="246605000" target="404684003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="260905004" target="246061005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="260905004" target="408739003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363185004" target="363137000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="363185004" target="128598002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="314745007" target="314747004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="68367000" target="120575009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="68367000" target="699617006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="280347002" target="16676009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="280347002" target="244476009">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="280347002" target="361394006">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="280347002" target="361391003">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="280347002" target="422697005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="57312000" target="91723000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="62235007" target="297946004">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="62235007" target="32595002">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="62235007" target="363175000">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="62235007" target="128192007">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="123037004" target="138875005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="118749007" target="129182005">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="118749007" target="118711008">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="118749007" target="118699001">
+      <data key="d4">is_a</data>
+    </edge>
+    <edge source="416631005" target="69548008">
+      <data key="d4">is_a</data>
+    </edge>
+  </graph>
+</graphml>

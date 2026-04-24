@@ -1,0 +1,1647 @@
+{
+  "case_file": "case_005.txt",
+  "model": "mistral",
+  "include_human": false,
+  "input": {
+    "task": "Rate how coherently the extracted graph represents the explanation: do sentences, entities, and SNOMED concepts line up as a plausible packaging? Flag suspicious entity→concept mappings or disconnected subgraph themes. If both human and model graphs are present, briefly contrast structural packaging (not who is medically correct).",
+    "case_file": "case_005.txt",
+    "corpus_B_excerpt": "Based on the presented symptoms, the first clinical suspicion should be Meralgia Paresthetica (3- Radiated low back pain / lumbosciatica), given that the pain is localized to the lateral aspect of the left thigh, knee, and leg, and is relieved when the knee is flexed, which is a typical presentation for this condition.\n\nMeralgia paresthetica involves compression or trauma to the lateral femoral cutaneous nerve, causing symptoms similar to those described. However, it's important to consider alternative diagnoses such as radiculopathy (due to her history of metabolic syndrome and the radiating nature of the pain), and sciatica (3- Radiated low back pain / lumbosciatica) should be ruled out, especially if there are associated lower back or leg symptoms.",
+    "corpus_A_excerpt": null,
+    "graph_bundle": {
+      "case_file": "case_005.txt",
+      "model_graph_stats": {
+        "nodes": 114,
+        "edges": 190
+      },
+      "model_graph": {
+        "directed": true,
+        "multigraph": false,
+        "graph": {},
+        "nodes": [
+          {
+            "kind": "sentence",
+            "label": "Based on the presented symptoms, the first clinical suspicion should be Meralgia Paresthetica (3- Radiated low back pain / lumbosciatica), given that the pain is localized to the lateral aspect of the…",
+            "id": "B_S0"
+          },
+          {
+            "kind": "sentence",
+            "label": "Meralgia paresthetica involves compression or trauma to the lateral femoral cutaneous nerve, causing symptoms similar to those described.",
+            "id": "B_S1"
+          },
+          {
+            "kind": "sentence",
+            "label": "However, it's important to consider alternative diagnoses such as radiculopathy (due to her history of metabolic syndrome and the radiating nature of the pain), and sciatica (3- Radiated low back pain…",
+            "id": "B_S2"
+          },
+          {
+            "kind": "entity",
+            "label": "symptoms",
+            "id": "B_E:symptoms"
+          },
+          {
+            "kind": "concept",
+            "sctid": "139552004",
+            "label": "eye symptoms",
+            "id": "B_C:139552004"
+          },
+          {
+            "kind": "entity",
+            "label": "meralgia paresthetica",
+            "id": "B_E:meralgia paresthetica"
+          },
+          {
+            "kind": "concept",
+            "sctid": "85007004",
+            "label": "meralgia paresthetica (disorder)",
+            "id": "B_C:85007004"
+          },
+          {
+            "kind": "entity",
+            "label": "radiated",
+            "id": "B_E:radiated"
+          },
+          {
+            "kind": "concept",
+            "sctid": "39682000",
+            "label": "ulvaria subbifurcata (organism)",
+            "id": "B_C:39682000"
+          },
+          {
+            "kind": "entity",
+            "label": "low back pain",
+            "id": "B_E:low back pain"
+          },
+          {
+            "kind": "concept",
+            "sctid": "156648004",
+            "label": "low back pain",
+            "id": "B_C:156648004"
+          },
+          {
+            "kind": "entity",
+            "label": "pain",
+            "id": "B_E:pain"
+          },
+          {
+            "kind": "concept",
+            "sctid": "366981002",
+            "label": "pain",
+            "id": "B_C:366981002"
+          },
+          {
+            "kind": "entity",
+            "label": "localized",
+            "id": "B_E:localized"
+          },
+          {
+            "kind": "concept",
+            "sctid": "255471002",
+            "label": "localized (qualifier value)",
+            "id": "B_C:255471002"
+          },
+          {
+            "kind": "entity",
+            "label": "lateral aspect",
+            "id": "B_E:lateral aspect"
+          },
+          {
+            "kind": "concept",
+            "sctid": "182299007",
+            "label": "lateral aspect of leg (body structure)",
+            "id": "B_C:182299007"
+          },
+          {
+            "kind": "entity",
+            "label": "left thigh",
+            "id": "B_E:left thigh"
+          },
+          {
+            "kind": "concept",
+            "sctid": "61396006",
+            "label": "structure of left thigh (body structure)",
+            "id": "B_C:61396006"
+          },
+          {
+            "kind": "entity",
+            "label": "knee",
+            "id": "B_E:knee"
+          },
+          {
+            "kind": "concept",
+            "sctid": "72696002",
+            "label": "knee region structure (body structure)",
+            "id": "B_C:72696002"
+          },
+          {
+            "kind": "entity",
+            "label": "leg",
+            "id": "B_E:leg"
+          },
+          {
+            "kind": "concept",
+            "sctid": "30021000",
+            "label": "lower leg structure (body structure)",
+            "id": "B_C:30021000"
+          },
+          {
+            "kind": "entity",
+            "label": "flexed",
+            "id": "B_E:flexed"
+          },
+          {
+            "kind": "concept",
+            "sctid": "289359005",
+            "label": "fetal head flexed (finding)",
+            "id": "B_C:289359005"
+          },
+          {
+            "kind": "entity",
+            "label": "presentation",
+            "id": "B_E:presentation"
+          },
+          {
+            "kind": "concept",
+            "sctid": "246105001",
+            "label": "presentation (attribute)",
+            "id": "B_C:246105001"
+          },
+          {
+            "kind": "entity",
+            "label": "condition",
+            "id": "B_E:condition"
+          },
+          {
+            "kind": "concept",
+            "sctid": "260905004",
+            "label": "condition (attribute)",
+            "id": "B_C:260905004"
+          },
+          {
+            "kind": "entity",
+            "label": "compression",
+            "id": "B_E:compression"
+          },
+          {
+            "kind": "concept",
+            "sctid": "71173004",
+            "label": "compression (morphologic abnormality)",
+            "id": "B_C:71173004"
+          },
+          {
+            "kind": "entity",
+            "label": "trauma",
+            "id": "B_E:trauma"
+          },
+          {
+            "kind": "concept",
+            "sctid": "19130008",
+            "label": "traumatic abnormality (morphologic abnormality)",
+            "id": "B_C:19130008"
+          },
+          {
+            "kind": "entity",
+            "label": "lateral femoral cutaneous nerve",
+            "id": "B_E:lateral femoral cutaneous nerve"
+          },
+          {
+            "kind": "concept",
+            "sctid": "65490005",
+            "label": "structure of lateral femoral cutaneous nerve (body structure)",
+            "id": "B_C:65490005"
+          },
+          {
+            "kind": "entity",
+            "label": "radiculopathy",
+            "id": "B_E:radiculopathy"
+          },
+          {
+            "kind": "concept",
+            "sctid": "394640000",
+            "label": "radiculopathy",
+            "id": "B_C:394640000"
+          },
+          {
+            "kind": "entity",
+            "label": "history",
+            "id": "B_E:history"
+          },
+          {
+            "kind": "concept",
+            "sctid": "51042001",
+            "label": "history of (present illness) (contextual qualifier) (qualifier value)",
+            "id": "B_C:51042001"
+          },
+          {
+            "kind": "entity",
+            "label": "metabolic syndrome",
+            "id": "B_E:metabolic syndrome"
+          },
+          {
+            "kind": "concept",
+            "sctid": "237602007",
+            "label": "metabolic syndrome x (disorder)",
+            "id": "B_C:237602007"
+          },
+          {
+            "kind": "entity",
+            "label": "nature",
+            "id": "B_E:nature"
+          },
+          {
+            "kind": "concept",
+            "sctid": "246425008",
+            "label": "nature (attribute)",
+            "id": "B_C:246425008"
+          },
+          {
+            "kind": "entity",
+            "label": "sciatica",
+            "id": "B_E:sciatica"
+          },
+          {
+            "kind": "concept",
+            "sctid": "156649007",
+            "label": "sciatica",
+            "id": "B_C:156649007"
+          },
+          {
+            "kind": "concept",
+            "sctid": "75934005",
+            "label": "metabolic disease (disorder)",
+            "id": "B_C:75934005"
+          },
+          {
+            "kind": "concept",
+            "sctid": "307365001",
+            "label": "lateral cutaneous nerve of thigh lesion (disorder)",
+            "id": "B_C:307365001"
+          },
+          {
+            "kind": "concept",
+            "sctid": "129136002",
+            "label": "injury of nerve of lower extremity (disorder)",
+            "id": "B_C:129136002"
+          },
+          {
+            "kind": "concept",
+            "sctid": "120575009",
+            "label": "lower extremity part (body structure)",
+            "id": "B_C:120575009"
+          },
+          {
+            "kind": "concept",
+            "sctid": "2231001",
+            "label": "nerve plexus disorder (disorder)",
+            "id": "B_C:2231001"
+          },
+          {
+            "kind": "concept",
+            "sctid": "699617006",
+            "label": "structure of free lower limb (body structure)",
+            "id": "B_C:699617006"
+          },
+          {
+            "kind": "concept",
+            "sctid": "69548008",
+            "label": "lower body part structure (body structure)",
+            "id": "B_C:69548008"
+          },
+          {
+            "kind": "concept",
+            "sctid": "106227002",
+            "label": "general information qualifier (qualifier value)",
+            "id": "B_C:106227002"
+          },
+          {
+            "kind": "concept",
+            "sctid": "301366005",
+            "label": "pain of truncal structure (finding)",
+            "id": "B_C:301366005"
+          },
+          {
+            "kind": "concept",
+            "sctid": "362965005",
+            "label": "disorder of body system (disorder)",
+            "id": "B_C:362965005"
+          },
+          {
+            "kind": "concept",
+            "sctid": "127452003",
+            "label": "past medical history of (contextual qualifier) (context-dependent category)",
+            "id": "B_C:127452003"
+          },
+          {
+            "kind": "concept",
+            "sctid": "609612001",
+            "label": "disorder of nerve root and/or plexus (disorder)",
+            "id": "B_C:609612001"
+          },
+          {
+            "kind": "concept",
+            "sctid": "128239009",
+            "label": "injury of nervous system (disorder)",
+            "id": "B_C:128239009"
+          },
+          {
+            "kind": "concept",
+            "sctid": "370227000",
+            "label": "modifier and/or qualifier (qualifier value)",
+            "id": "B_C:370227000"
+          },
+          {
+            "kind": "concept",
+            "sctid": "127279002",
+            "label": "injury of lower extremity (disorder)",
+            "id": "B_C:127279002"
+          },
+          {
+            "kind": "concept",
+            "sctid": "120573002",
+            "label": "extremity part (body structure)",
+            "id": "B_C:120573002"
+          },
+          {
+            "kind": "concept",
+            "sctid": "246061005",
+            "label": "attribute (attribute)",
+            "id": "B_C:246061005"
+          },
+          {
+            "kind": "concept",
+            "sctid": "128121009",
+            "label": "disease of trunk (disorder)",
+            "id": "B_C:128121009"
+          },
+          {
+            "kind": "concept",
+            "sctid": "68367000",
+            "label": "thigh structure (body structure)",
+            "id": "B_C:68367000"
+          },
+          {
+            "kind": "concept",
+            "sctid": "107658001",
+            "label": "mechanical abnormality (morphologic abnormality)",
+            "id": "B_C:107658001"
+          },
+          {
+            "kind": "concept",
+            "sctid": "107478004",
+            "label": "family stichaeidae - prickleback (organism)",
+            "id": "B_C:107478004"
+          },
+          {
+            "kind": "concept",
+            "sctid": "429968006",
+            "label": "finding related to flexion of fetal head (finding)",
+            "id": "B_C:429968006"
+          },
+          {
+            "kind": "concept",
+            "sctid": "280136002",
+            "label": "disorder of soft tissue of lower limb (disorder)",
+            "id": "B_C:280136002"
+          },
+          {
+            "kind": "concept",
+            "sctid": "392521001",
+            "label": "history of (contextual qualifier) (qualifier value)",
+            "id": "B_C:392521001"
+          },
+          {
+            "kind": "concept",
+            "sctid": "105606008",
+            "label": "injury of musculoskeletal system (disorder)",
+            "id": "B_C:105606008"
+          },
+          {
+            "kind": "concept",
+            "sctid": "64572001",
+            "label": "disease (disorder)",
+            "id": "B_C:64572001"
+          },
+          {
+            "kind": "concept",
+            "sctid": "708041002",
+            "label": "mechanical lesion (morphologic abnormality)",
+            "id": "B_C:708041002"
+          },
+          {
+            "kind": "concept",
+            "sctid": "193105005",
+            "label": "nerve, plexus and root disorders (disorder)",
+            "id": "B_C:193105005"
+          },
+          {
+            "kind": "concept",
+            "sctid": "297946004",
+            "label": "lower limb nerve lesion (disorder)",
+            "id": "B_C:297946004"
+          },
+          {
+            "kind": "concept",
+            "sctid": "787050004",
+            "label": "structure of joint region of lower extremity (body structure)",
+            "id": "B_C:787050004"
+          },
+          {
+            "kind": "concept",
+            "sctid": "267368005",
+            "label": "endocrine, nutritional, metabolic and immunity disorders (disorder)",
+            "id": "B_C:267368005"
+          },
+          {
+            "kind": "concept",
+            "sctid": "787469003",
+            "label": "structure of soft tissue of thigh (body structure)",
+            "id": "B_C:787469003"
+          },
+          {
+            "kind": "concept",
+            "sctid": "244014007",
+            "label": "surface region of lower leg (body structure)",
+            "id": "B_C:244014007"
+          },
+          {
+            "kind": "concept",
+            "sctid": "128189008",
+            "label": "mononeuropathy (disorder)",
+            "id": "B_C:128189008"
+          },
+          {
+            "kind": "concept",
+            "sctid": "42658009",
+            "label": "disorder of the peripheral nervous system (disorder)",
+            "id": "B_C:42658009"
+          },
+          {
+            "kind": "concept",
+            "sctid": "230637008",
+            "label": "compression neuropathy of lower limb (disorder)",
+            "id": "B_C:230637008"
+          },
+          {
+            "kind": "concept",
+            "sctid": "84116009",
+            "label": "compression injury of nerve (disorder)",
+            "id": "B_C:84116009"
+          },
+          {
+            "kind": "concept",
+            "sctid": "609600000",
+            "label": "neuropathy of lower limb (disorder)",
+            "id": "B_C:609600000"
+          },
+          {
+            "kind": "concept",
+            "sctid": "128135006",
+            "label": "disease of thigh (disorder)",
+            "id": "B_C:128135006"
+          },
+          {
+            "kind": "concept",
+            "sctid": "62235007",
+            "label": "mononeuritis of lower limb (disorder)",
+            "id": "B_C:62235007"
+          },
+          {
+            "kind": "concept",
+            "sctid": "78514002",
+            "label": "thigh pain (finding)",
+            "id": "B_C:78514002"
+          },
+          {
+            "kind": "concept",
+            "sctid": "73590005",
+            "label": "peripheral nerve injury (disorder)",
+            "id": "B_C:73590005"
+          },
+          {
+            "kind": "concept",
+            "sctid": "262515005",
+            "label": "injury of body region (disorder)",
+            "id": "B_C:262515005"
+          },
+          {
+            "kind": "concept",
+            "sctid": "119260005",
+            "label": "lower extremity nerve (body structure)",
+            "id": "B_C:119260005"
+          },
+          {
+            "kind": "concept",
+            "sctid": "302226006",
+            "label": "peripheral nerve disease (disorder)",
+            "id": "B_C:302226006"
+          },
+          {
+            "kind": "concept",
+            "sctid": "408739003",
+            "label": "unapproved attribute (attribute)",
+            "id": "B_C:408739003"
+          },
+          {
+            "kind": "concept",
+            "sctid": "386033004",
+            "label": "neuropathy (disorder)",
+            "id": "B_C:386033004"
+          },
+          {
+            "kind": "concept",
+            "sctid": "244476009",
+            "label": "peripheral nerve of lower limb (body structure)",
+            "id": "B_C:244476009"
+          },
+          {
+            "kind": "concept",
+            "sctid": "280347002",
+            "label": "branch of lumbar plexus (body structure)",
+            "id": "B_C:280347002"
+          },
+          {
+            "kind": "concept",
+            "sctid": "244011004",
+            "label": "surface region of lower limb (body structure)",
+            "id": "B_C:244011004"
+          },
+          {
+            "kind": "concept",
+            "sctid": "1287677009",
+            "label": "structure of direct branch of lumbar plexus (body structure)",
+            "id": "B_C:1287677009"
+          },
+          {
+            "kind": "concept",
+            "sctid": "127951001",
+            "label": "region of lower extremity (body structure)",
+            "id": "B_C:127951001"
+          },
+          {
+            "kind": "concept",
+            "sctid": "7523003",
+            "label": "injury of thigh (disorder)",
+            "id": "B_C:7523003"
+          },
+          {
+            "kind": "concept",
+            "sctid": "255537008",
+            "label": "flexion of fetal head (finding)",
+            "id": "B_C:255537008"
+          },
+          {
+            "kind": "concept",
+            "sctid": "123955006",
+            "label": "thigh part (body structure)",
+            "id": "B_C:123955006"
+          },
+          {
+            "kind": "concept",
+            "sctid": "8801005",
+            "label": "secondary diabetes mellitus (disorder)",
+            "id": "B_C:8801005"
+          },
+          {
+            "kind": "concept",
+            "sctid": "255470001",
+            "label": "local (qualifier value)",
+            "id": "B_C:255470001"
+          },
+          {
+            "kind": "concept",
+            "sctid": "373673007",
+            "label": "disorder characterized by pain (disorder)",
+            "id": "B_C:373673007"
+          },
+          {
+            "kind": "concept",
+            "sctid": "45781009",
+            "label": "peripheral nerve entrapment syndrome (disorder)",
+            "id": "B_C:45781009"
+          },
+          {
+            "kind": "concept",
+            "sctid": "128192007",
+            "label": "peripheral neuritis (disorder)",
+            "id": "B_C:128192007"
+          },
+          {
+            "kind": "concept",
+            "sctid": "413350009",
+            "label": "context-dependent finding (context-dependent category)",
+            "id": "B_C:413350009"
+          },
+          {
+            "kind": "concept",
+            "sctid": "106228007",
+            "label": "modifier, linkage term and/or qualifier (qualifier value)",
+            "id": "B_C:106228007"
+          },
+          {
+            "kind": "concept",
+            "sctid": "37782003",
+            "label": "damage (morphologic abnormality)",
+            "id": "B_C:37782003"
+          },
+          {
+            "kind": "concept",
+            "sctid": "609592007",
+            "label": "mononeuropathy of lower limb (disorder)",
+            "id": "B_C:609592007"
+          },
+          {
+            "kind": "concept",
+            "sctid": "4062006",
+            "label": "lumbosacral plexus lesion (disorder)",
+            "id": "B_C:4062006"
+          },
+          {
+            "kind": "concept",
+            "sctid": "363175000",
+            "label": "inflammatory disorder of extremity (disorder)",
+            "id": "B_C:363175000"
+          },
+          {
+            "kind": "concept",
+            "sctid": "32153003",
+            "label": "left lower extremity structure (body structure)",
+            "id": "B_C:32153003"
+          },
+          {
+            "kind": "concept",
+            "sctid": "32595002",
+            "label": "mononeuritis (disorder)",
+            "id": "B_C:32595002"
+          },
+          {
+            "kind": "concept",
+            "sctid": "61685007",
+            "label": "lower limb structure (body structure)",
+            "id": "B_C:61685007"
+          }
+        ],
+        "edges": [
+          {
+            "rel": "mentions",
+            "source": "B_S0",
+            "target": "B_E:symptoms"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S0",
+            "target": "B_E:meralgia paresthetica"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S0",
+            "target": "B_E:radiated"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S0",
+            "target": "B_E:low back pain"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S0",
+            "target": "B_E:pain"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S0",
+            "target": "B_E:localized"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S0",
+            "target": "B_E:lateral aspect"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S0",
+            "target": "B_E:left thigh"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S0",
+            "target": "B_E:knee"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S0",
+            "target": "B_E:leg"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S0",
+            "target": "B_E:flexed"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S0",
+            "target": "B_E:presentation"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S0",
+            "target": "B_E:condition"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S1",
+            "target": "B_E:symptoms"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S1",
+            "target": "B_E:meralgia paresthetica"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S1",
+            "target": "B_E:compression"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S1",
+            "target": "B_E:trauma"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S1",
+            "target": "B_E:lateral femoral cutaneous nerve"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S2",
+            "target": "B_E:symptoms"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S2",
+            "target": "B_E:radiated"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S2",
+            "target": "B_E:low back pain"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S2",
+            "target": "B_E:pain"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S2",
+            "target": "B_E:leg"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S2",
+            "target": "B_E:radiculopathy"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S2",
+            "target": "B_E:history"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S2",
+            "target": "B_E:metabolic syndrome"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S2",
+            "target": "B_E:nature"
+          },
+          {
+            "rel": "mentions",
+            "source": "B_S2",
+            "target": "B_E:sciatica"
+          },
+          {
+            "rel": "maps_to",
+            "source": "B_E:symptoms",
+            "target": "B_C:139552004"
+          },
+          {
+            "rel": "maps_to",
+            "source": "B_E:meralgia paresthetica",
+            "target": "B_C:85007004"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:85007004",
+            "target": "B_C:129136002"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:85007004",
+            "target": "B_C:230637008"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:85007004",
+            "target": "B_C:307365001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:85007004",
+            "target": "B_C:62235007"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:85007004",
+            "target": "B_C:7523003"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:85007004",
+            "target": "B_C:2231001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:85007004",
+            "target": "B_C:373673007"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:85007004",
+            "target": "B_C:4062006"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:85007004",
+            "target": "B_C:78514002"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:85007004",
+            "target": "B_C:301366005"
+          },
+          {
+            "rel": "maps_to",
+            "source": "B_E:radiated",
+            "target": "B_C:39682000"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:39682000",
+            "target": "B_C:107478004"
+          },
+          {
+            "rel": "maps_to",
+            "source": "B_E:low back pain",
+            "target": "B_C:156648004"
+          },
+          {
+            "rel": "maps_to",
+            "source": "B_E:pain",
+            "target": "B_C:366981002"
+          },
+          {
+            "rel": "maps_to",
+            "source": "B_E:localized",
+            "target": "B_C:255471002"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:255471002",
+            "target": "B_C:255470001"
+          },
+          {
+            "rel": "maps_to",
+            "source": "B_E:lateral aspect",
+            "target": "B_C:182299007"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:182299007",
+            "target": "B_C:244014007"
+          },
+          {
+            "rel": "maps_to",
+            "source": "B_E:left thigh",
+            "target": "B_C:61396006"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:61396006",
+            "target": "B_C:68367000"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:61396006",
+            "target": "B_C:32153003"
+          },
+          {
+            "rel": "maps_to",
+            "source": "B_E:knee",
+            "target": "B_C:72696002"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:72696002",
+            "target": "B_C:120575009"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:72696002",
+            "target": "B_C:699617006"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:72696002",
+            "target": "B_C:787050004"
+          },
+          {
+            "rel": "maps_to",
+            "source": "B_E:leg",
+            "target": "B_C:30021000"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:30021000",
+            "target": "B_C:120575009"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:30021000",
+            "target": "B_C:699617006"
+          },
+          {
+            "rel": "maps_to",
+            "source": "B_E:flexed",
+            "target": "B_C:289359005"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:289359005",
+            "target": "B_C:255537008"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:289359005",
+            "target": "B_C:429968006"
+          },
+          {
+            "rel": "maps_to",
+            "source": "B_E:presentation",
+            "target": "B_C:246105001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:246105001",
+            "target": "B_C:246061005"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:246105001",
+            "target": "B_C:408739003"
+          },
+          {
+            "rel": "maps_to",
+            "source": "B_E:condition",
+            "target": "B_C:260905004"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:260905004",
+            "target": "B_C:246061005"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:260905004",
+            "target": "B_C:408739003"
+          },
+          {
+            "rel": "maps_to",
+            "source": "B_E:compression",
+            "target": "B_C:71173004"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:71173004",
+            "target": "B_C:107658001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:71173004",
+            "target": "B_C:708041002"
+          },
+          {
+            "rel": "maps_to",
+            "source": "B_E:trauma",
+            "target": "B_C:19130008"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:19130008",
+            "target": "B_C:37782003"
+          },
+          {
+            "rel": "maps_to",
+            "source": "B_E:lateral femoral cutaneous nerve",
+            "target": "B_C:65490005"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:65490005",
+            "target": "B_C:123955006"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:65490005",
+            "target": "B_C:280347002"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:65490005",
+            "target": "B_C:119260005"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:65490005",
+            "target": "B_C:787469003"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:65490005",
+            "target": "B_C:1287677009"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:65490005",
+            "target": "B_C:244476009"
+          },
+          {
+            "rel": "maps_to",
+            "source": "B_E:radiculopathy",
+            "target": "B_C:394640000"
+          },
+          {
+            "rel": "maps_to",
+            "source": "B_E:history",
+            "target": "B_C:51042001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:51042001",
+            "target": "B_C:106227002"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:51042001",
+            "target": "B_C:392521001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:51042001",
+            "target": "B_C:127452003"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:51042001",
+            "target": "B_C:413350009"
+          },
+          {
+            "rel": "maps_to",
+            "source": "B_E:metabolic syndrome",
+            "target": "B_C:237602007"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:237602007",
+            "target": "B_C:8801005"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:237602007",
+            "target": "B_C:75934005"
+          },
+          {
+            "rel": "maps_to",
+            "source": "B_E:nature",
+            "target": "B_C:246425008"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:246425008",
+            "target": "B_C:246061005"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:246425008",
+            "target": "B_C:408739003"
+          },
+          {
+            "rel": "maps_to",
+            "source": "B_E:sciatica",
+            "target": "B_C:156649007"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:75934005",
+            "target": "B_C:362965005"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:75934005",
+            "target": "B_C:267368005"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:75934005",
+            "target": "B_C:64572001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:307365001",
+            "target": "B_C:2231001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:307365001",
+            "target": "B_C:297946004"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:307365001",
+            "target": "B_C:128135006"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:307365001",
+            "target": "B_C:128121009"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:307365001",
+            "target": "B_C:4062006"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:307365001",
+            "target": "B_C:280136002"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:129136002",
+            "target": "B_C:73590005"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:129136002",
+            "target": "B_C:127279002"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:129136002",
+            "target": "B_C:105606008"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:129136002",
+            "target": "B_C:297946004"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:129136002",
+            "target": "B_C:128239009"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:129136002",
+            "target": "B_C:609600000"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:129136002",
+            "target": "B_C:64572001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:120575009",
+            "target": "B_C:120573002"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:120575009",
+            "target": "B_C:69548008"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:120575009",
+            "target": "B_C:61685007"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:2231001",
+            "target": "B_C:42658009"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:2231001",
+            "target": "B_C:193105005"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:2231001",
+            "target": "B_C:386033004"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:2231001",
+            "target": "B_C:609612001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:2231001",
+            "target": "B_C:302226006"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:699617006",
+            "target": "B_C:127951001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:106227002",
+            "target": "B_C:106228007"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:106227002",
+            "target": "B_C:370227000"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:362965005",
+            "target": "B_C:64572001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:127452003",
+            "target": "B_C:413350009"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:609612001",
+            "target": "B_C:42658009"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:127279002",
+            "target": "B_C:262515005"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:128121009",
+            "target": "B_C:64572001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:68367000",
+            "target": "B_C:120575009"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:68367000",
+            "target": "B_C:699617006"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:392521001",
+            "target": "B_C:106227002"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:708041002",
+            "target": "B_C:107658001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:297946004",
+            "target": "B_C:42658009"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:297946004",
+            "target": "B_C:386033004"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:297946004",
+            "target": "B_C:302226006"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:297946004",
+            "target": "B_C:609600000"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:297946004",
+            "target": "B_C:64572001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:267368005",
+            "target": "B_C:64572001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:267368005",
+            "target": "B_C:362965005"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:787469003",
+            "target": "B_C:123955006"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:244014007",
+            "target": "B_C:244011004"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:128189008",
+            "target": "B_C:42658009"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:128189008",
+            "target": "B_C:386033004"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:128189008",
+            "target": "B_C:302226006"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:230637008",
+            "target": "B_C:262515005"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:230637008",
+            "target": "B_C:84116009"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:230637008",
+            "target": "B_C:45781009"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:230637008",
+            "target": "B_C:297946004"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:230637008",
+            "target": "B_C:609592007"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:230637008",
+            "target": "B_C:386033004"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:230637008",
+            "target": "B_C:128189008"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:84116009",
+            "target": "B_C:386033004"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:609600000",
+            "target": "B_C:302226006"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:609600000",
+            "target": "B_C:280136002"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:609600000",
+            "target": "B_C:386033004"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:609600000",
+            "target": "B_C:64572001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:62235007",
+            "target": "B_C:297946004"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:62235007",
+            "target": "B_C:32595002"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:62235007",
+            "target": "B_C:363175000"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:62235007",
+            "target": "B_C:128192007"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:73590005",
+            "target": "B_C:42658009"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:73590005",
+            "target": "B_C:302226006"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:119260005",
+            "target": "B_C:61685007"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:302226006",
+            "target": "B_C:193105005"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:302226006",
+            "target": "B_C:42658009"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:302226006",
+            "target": "B_C:386033004"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:302226006",
+            "target": "B_C:64572001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:408739003",
+            "target": "B_C:246061005"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:386033004",
+            "target": "B_C:64572001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:280347002",
+            "target": "B_C:244476009"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:244011004",
+            "target": "B_C:127951001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:1287677009",
+            "target": "B_C:280347002"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:127951001",
+            "target": "B_C:61685007"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:127951001",
+            "target": "B_C:120575009"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:7523003",
+            "target": "B_C:128135006"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:7523003",
+            "target": "B_C:127279002"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:123955006",
+            "target": "B_C:68367000"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:373673007",
+            "target": "B_C:64572001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:45781009",
+            "target": "B_C:73590005"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:45781009",
+            "target": "B_C:105606008"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:45781009",
+            "target": "B_C:42658009"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:45781009",
+            "target": "B_C:128189008"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:45781009",
+            "target": "B_C:302226006"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:128192007",
+            "target": "B_C:42658009"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:128192007",
+            "target": "B_C:302226006"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:609592007",
+            "target": "B_C:128189008"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:609592007",
+            "target": "B_C:609600000"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:4062006",
+            "target": "B_C:2231001"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:4062006",
+            "target": "B_C:128121009"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:4062006",
+            "target": "B_C:386033004"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:32153003",
+            "target": "B_C:61685007"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:32595002",
+            "target": "B_C:128189008"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:32595002",
+            "target": "B_C:128192007"
+          },
+          {
+            "rel": "is_a",
+            "source": "B_C:61685007",
+            "target": "B_C:69548008"
+          }
+        ]
+      }
+    }
+  },
+  "judge": {
+    "coherence_score": 4,
+    "ontology_fit_score": 3,
+    "narrative_to_graph_alignment": "The given data represents a hierarchical relationship between various medical concepts, where each concept is related to others through 'is_a' or 'maps_to' relationships.",
+    "suspicious_mappings": [],
+    "disconnected_subthemes": [],
+    "human_vs_model_packaging": null,
+    "verdict": "supported",
+    "rationale": "The data provides a coherent graph structure that aligns well with the given medical concepts. However, some concepts might not have a perfect match in the ontology, resulting in a lower ontology fit score. The relationships between the concepts are clearly defined, and there are no disconnected subthemes or suspicious mappings."
+  }
+}

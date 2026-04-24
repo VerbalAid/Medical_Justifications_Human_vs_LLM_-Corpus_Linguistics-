@@ -1,0 +1,3 @@
+Currently the molecular classification of breast cancer is based on the study of hormone receptors, HER2 and the tumor cell proliferation index (Ki67).
+
+We have four fundamental types: Luminal (A: HR+, HER2- and low Ki67 and B: HR+, HER2+/ - and high Ki67), HER2 + (HR -, HER2 + and high Ki67) and Basal Like or triple negative (HR -, HER2 - and high Ki67).

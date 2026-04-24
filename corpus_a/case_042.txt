@@ -1,0 +1,13 @@
+This question may be a little more difficult, as the clinical case presented to us is very vague.
+
+An adolescent with pubertal delay and short stature; nothing more.
+
+With this information, she could have several genetic pathologies, but this is the MIR and we are told that the patient does not have an intellectual disability.
+
+In the MIR, an adolescent with pubertal delay and short stature should be a Turner until proven otherwise (there were two questions in 2017).
+
+Therefore, if that is our first diagnostic suspicion, the HABITUAL test (as the statement says) for diagnosis should be a conventional karyotype (formula: 45, X0).
+
+A Turner can also be diagnosed with a FISH (there would only be one signal for the X instead of the two that females usually have) or with an array.
+
+However, both array and NGS are usually reserved for patients with non-obvious clinical pictures, intellectual disability, or suspicion of a genetic syndrome that requires these specific tests (for example, an array to diagnose a 22q11 deletion syndrome or an NGS panel to diagnose a Noonan syndrome).

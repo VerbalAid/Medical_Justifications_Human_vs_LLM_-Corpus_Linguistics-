@@ -1,0 +1,1080 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="rel" attr.type="string" />
+  <key id="d2" for="node" attr.name="sctid" attr.type="string" />
+  <key id="d1" for="node" attr.name="label" attr.type="string" />
+  <key id="d0" for="node" attr.name="kind" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="B_S0">
+      <data key="d0">sentence</data>
+      <data key="d1">Based on the presented symptoms, the first clinical suspicion should be Meralgia Paresthetica (3- Radiated low back pain / lumbosciatica), given that the pain is localized to the lateral aspect of the…</data>
+    </node>
+    <node id="B_S1">
+      <data key="d0">sentence</data>
+      <data key="d1">Meralgia paresthetica involves compression or trauma to the lateral femoral cutaneous nerve, causing symptoms similar to those described.</data>
+    </node>
+    <node id="B_S2">
+      <data key="d0">sentence</data>
+      <data key="d1">However, it's important to consider alternative diagnoses such as radiculopathy (due to her history of metabolic syndrome and the radiating nature of the pain), and sciatica (3- Radiated low back pain…</data>
+    </node>
+    <node id="B_E:symptoms">
+      <data key="d0">entity</data>
+      <data key="d1">symptoms</data>
+    </node>
+    <node id="B_C:139552004">
+      <data key="d0">concept</data>
+      <data key="d2">139552004</data>
+      <data key="d1">eye symptoms</data>
+    </node>
+    <node id="B_E:meralgia paresthetica">
+      <data key="d0">entity</data>
+      <data key="d1">meralgia paresthetica</data>
+    </node>
+    <node id="B_C:85007004">
+      <data key="d0">concept</data>
+      <data key="d2">85007004</data>
+      <data key="d1">meralgia paresthetica (disorder)</data>
+    </node>
+    <node id="B_E:radiated">
+      <data key="d0">entity</data>
+      <data key="d1">radiated</data>
+    </node>
+    <node id="B_C:39682000">
+      <data key="d0">concept</data>
+      <data key="d2">39682000</data>
+      <data key="d1">ulvaria subbifurcata (organism)</data>
+    </node>
+    <node id="B_E:low back pain">
+      <data key="d0">entity</data>
+      <data key="d1">low back pain</data>
+    </node>
+    <node id="B_C:156648004">
+      <data key="d0">concept</data>
+      <data key="d2">156648004</data>
+      <data key="d1">low back pain</data>
+    </node>
+    <node id="B_E:pain">
+      <data key="d0">entity</data>
+      <data key="d1">pain</data>
+    </node>
+    <node id="B_C:366981002">
+      <data key="d0">concept</data>
+      <data key="d2">366981002</data>
+      <data key="d1">pain</data>
+    </node>
+    <node id="B_E:localized">
+      <data key="d0">entity</data>
+      <data key="d1">localized</data>
+    </node>
+    <node id="B_C:255471002">
+      <data key="d0">concept</data>
+      <data key="d2">255471002</data>
+      <data key="d1">localized (qualifier value)</data>
+    </node>
+    <node id="B_E:lateral aspect">
+      <data key="d0">entity</data>
+      <data key="d1">lateral aspect</data>
+    </node>
+    <node id="B_C:182299007">
+      <data key="d0">concept</data>
+      <data key="d2">182299007</data>
+      <data key="d1">lateral aspect of leg (body structure)</data>
+    </node>
+    <node id="B_E:left thigh">
+      <data key="d0">entity</data>
+      <data key="d1">left thigh</data>
+    </node>
+    <node id="B_C:61396006">
+      <data key="d0">concept</data>
+      <data key="d2">61396006</data>
+      <data key="d1">structure of left thigh (body structure)</data>
+    </node>
+    <node id="B_E:knee">
+      <data key="d0">entity</data>
+      <data key="d1">knee</data>
+    </node>
+    <node id="B_C:72696002">
+      <data key="d0">concept</data>
+      <data key="d2">72696002</data>
+      <data key="d1">knee region structure (body structure)</data>
+    </node>
+    <node id="B_E:leg">
+      <data key="d0">entity</data>
+      <data key="d1">leg</data>
+    </node>
+    <node id="B_C:30021000">
+      <data key="d0">concept</data>
+      <data key="d2">30021000</data>
+      <data key="d1">lower leg structure (body structure)</data>
+    </node>
+    <node id="B_E:flexed">
+      <data key="d0">entity</data>
+      <data key="d1">flexed</data>
+    </node>
+    <node id="B_C:289359005">
+      <data key="d0">concept</data>
+      <data key="d2">289359005</data>
+      <data key="d1">fetal head flexed (finding)</data>
+    </node>
+    <node id="B_E:presentation">
+      <data key="d0">entity</data>
+      <data key="d1">presentation</data>
+    </node>
+    <node id="B_C:246105001">
+      <data key="d0">concept</data>
+      <data key="d2">246105001</data>
+      <data key="d1">presentation (attribute)</data>
+    </node>
+    <node id="B_E:condition">
+      <data key="d0">entity</data>
+      <data key="d1">condition</data>
+    </node>
+    <node id="B_C:260905004">
+      <data key="d0">concept</data>
+      <data key="d2">260905004</data>
+      <data key="d1">condition (attribute)</data>
+    </node>
+    <node id="B_E:compression">
+      <data key="d0">entity</data>
+      <data key="d1">compression</data>
+    </node>
+    <node id="B_C:71173004">
+      <data key="d0">concept</data>
+      <data key="d2">71173004</data>
+      <data key="d1">compression (morphologic abnormality)</data>
+    </node>
+    <node id="B_E:trauma">
+      <data key="d0">entity</data>
+      <data key="d1">trauma</data>
+    </node>
+    <node id="B_C:19130008">
+      <data key="d0">concept</data>
+      <data key="d2">19130008</data>
+      <data key="d1">traumatic abnormality (morphologic abnormality)</data>
+    </node>
+    <node id="B_E:lateral femoral cutaneous nerve">
+      <data key="d0">entity</data>
+      <data key="d1">lateral femoral cutaneous nerve</data>
+    </node>
+    <node id="B_C:65490005">
+      <data key="d0">concept</data>
+      <data key="d2">65490005</data>
+      <data key="d1">structure of lateral femoral cutaneous nerve (body structure)</data>
+    </node>
+    <node id="B_E:radiculopathy">
+      <data key="d0">entity</data>
+      <data key="d1">radiculopathy</data>
+    </node>
+    <node id="B_C:394640000">
+      <data key="d0">concept</data>
+      <data key="d2">394640000</data>
+      <data key="d1">radiculopathy</data>
+    </node>
+    <node id="B_E:history">
+      <data key="d0">entity</data>
+      <data key="d1">history</data>
+    </node>
+    <node id="B_C:51042001">
+      <data key="d0">concept</data>
+      <data key="d2">51042001</data>
+      <data key="d1">history of (present illness) (contextual qualifier) (qualifier value)</data>
+    </node>
+    <node id="B_E:metabolic syndrome">
+      <data key="d0">entity</data>
+      <data key="d1">metabolic syndrome</data>
+    </node>
+    <node id="B_C:237602007">
+      <data key="d0">concept</data>
+      <data key="d2">237602007</data>
+      <data key="d1">metabolic syndrome x (disorder)</data>
+    </node>
+    <node id="B_E:nature">
+      <data key="d0">entity</data>
+      <data key="d1">nature</data>
+    </node>
+    <node id="B_C:246425008">
+      <data key="d0">concept</data>
+      <data key="d2">246425008</data>
+      <data key="d1">nature (attribute)</data>
+    </node>
+    <node id="B_E:sciatica">
+      <data key="d0">entity</data>
+      <data key="d1">sciatica</data>
+    </node>
+    <node id="B_C:156649007">
+      <data key="d0">concept</data>
+      <data key="d2">156649007</data>
+      <data key="d1">sciatica</data>
+    </node>
+    <node id="B_C:10601006">
+      <data key="d0">concept</data>
+      <data key="d2">10601006</data>
+      <data key="d1">pain in lower limb (finding)</data>
+    </node>
+    <node id="B_C:413350009">
+      <data key="d0">concept</data>
+      <data key="d2">413350009</data>
+      <data key="d1">context-dependent finding (context-dependent category)</data>
+    </node>
+    <node id="B_C:61685007">
+      <data key="d0">concept</data>
+      <data key="d2">61685007</data>
+      <data key="d1">lower limb structure (body structure)</data>
+    </node>
+    <node id="B_C:193105005">
+      <data key="d0">concept</data>
+      <data key="d2">193105005</data>
+      <data key="d1">nerve, plexus and root disorders (disorder)</data>
+    </node>
+    <node id="B_C:128239009">
+      <data key="d0">concept</data>
+      <data key="d2">128239009</data>
+      <data key="d1">injury of nervous system (disorder)</data>
+    </node>
+    <node id="B_C:280347002">
+      <data key="d0">concept</data>
+      <data key="d2">280347002</data>
+      <data key="d1">branch of lumbar plexus (body structure)</data>
+    </node>
+    <node id="B_C:37782003">
+      <data key="d0">concept</data>
+      <data key="d2">37782003</data>
+      <data key="d1">damage (morphologic abnormality)</data>
+    </node>
+    <node id="B_C:105606008">
+      <data key="d0">concept</data>
+      <data key="d2">105606008</data>
+      <data key="d1">injury of musculoskeletal system (disorder)</data>
+    </node>
+    <node id="B_C:2231001">
+      <data key="d0">concept</data>
+      <data key="d2">2231001</data>
+      <data key="d1">nerve plexus disorder (disorder)</data>
+    </node>
+    <node id="B_C:361391003">
+      <data key="d0">concept</data>
+      <data key="d2">361391003</data>
+      <data key="d1">regional peripheral nerve (body structure)</data>
+    </node>
+    <node id="B_C:373673007">
+      <data key="d0">concept</data>
+      <data key="d2">373673007</data>
+      <data key="d1">disorder characterized by pain (disorder)</data>
+    </node>
+    <node id="B_C:787050004">
+      <data key="d0">concept</data>
+      <data key="d2">787050004</data>
+      <data key="d1">structure of joint region of lower extremity (body structure)</data>
+    </node>
+    <node id="B_C:787469003">
+      <data key="d0">concept</data>
+      <data key="d2">787469003</data>
+      <data key="d1">structure of soft tissue of thigh (body structure)</data>
+    </node>
+    <node id="B_C:272142003">
+      <data key="d0">concept</data>
+      <data key="d2">272142003</data>
+      <data key="d1">extensiveness (qualifier value)</data>
+    </node>
+    <node id="B_C:297946004">
+      <data key="d0">concept</data>
+      <data key="d2">297946004</data>
+      <data key="d1">lower limb nerve lesion (disorder)</data>
+    </node>
+    <node id="B_C:1287677009">
+      <data key="d0">concept</data>
+      <data key="d2">1287677009</data>
+      <data key="d1">structure of direct branch of lumbar plexus (body structure)</data>
+    </node>
+    <node id="B_C:73211009">
+      <data key="d0">concept</data>
+      <data key="d2">73211009</data>
+      <data key="d1">diabetes mellitus (disorder)</data>
+    </node>
+    <node id="B_C:123955006">
+      <data key="d0">concept</data>
+      <data key="d2">123955006</data>
+      <data key="d1">thigh part (body structure)</data>
+    </node>
+    <node id="B_C:392521001">
+      <data key="d0">concept</data>
+      <data key="d2">392521001</data>
+      <data key="d1">history of (contextual qualifier) (qualifier value)</data>
+    </node>
+    <node id="B_C:32153003">
+      <data key="d0">concept</data>
+      <data key="d2">32153003</data>
+      <data key="d1">left lower extremity structure (body structure)</data>
+    </node>
+    <node id="B_C:120575009">
+      <data key="d0">concept</data>
+      <data key="d2">120575009</data>
+      <data key="d1">lower extremity part (body structure)</data>
+    </node>
+    <node id="B_C:609600000">
+      <data key="d0">concept</data>
+      <data key="d2">609600000</data>
+      <data key="d1">neuropathy of lower limb (disorder)</data>
+    </node>
+    <node id="B_C:52988006">
+      <data key="d0">concept</data>
+      <data key="d2">52988006</data>
+      <data key="d1">lesion -retired-</data>
+    </node>
+    <node id="B_C:386033004">
+      <data key="d0">concept</data>
+      <data key="d2">386033004</data>
+      <data key="d1">neuropathy (disorder)</data>
+    </node>
+    <node id="B_C:246061005">
+      <data key="d0">concept</data>
+      <data key="d2">246061005</data>
+      <data key="d1">attribute (attribute)</data>
+    </node>
+    <node id="B_C:255537008">
+      <data key="d0">concept</data>
+      <data key="d2">255537008</data>
+      <data key="d1">flexion of fetal head (finding)</data>
+    </node>
+    <node id="B_C:307365001">
+      <data key="d0">concept</data>
+      <data key="d2">307365001</data>
+      <data key="d1">lateral cutaneous nerve of thigh lesion (disorder)</data>
+    </node>
+    <node id="B_C:244476009">
+      <data key="d0">concept</data>
+      <data key="d2">244476009</data>
+      <data key="d1">peripheral nerve of lower limb (body structure)</data>
+    </node>
+    <node id="B_C:301366005">
+      <data key="d0">concept</data>
+      <data key="d2">301366005</data>
+      <data key="d1">pain of truncal structure (finding)</data>
+    </node>
+    <node id="B_C:422697005">
+      <data key="d0">concept</data>
+      <data key="d2">422697005</data>
+      <data key="d1">structure of half of trunk lateral to midsagittal plane (body structure)</data>
+    </node>
+    <node id="B_C:370227000">
+      <data key="d0">concept</data>
+      <data key="d2">370227000</data>
+      <data key="d1">modifier and/or qualifier (qualifier value)</data>
+    </node>
+    <node id="B_C:67328008">
+      <data key="d0">concept</data>
+      <data key="d2">67328008</data>
+      <data key="d1">structure of soft tissues of lower extremity (body structure)</data>
+    </node>
+    <node id="B_C:75934005">
+      <data key="d0">concept</data>
+      <data key="d2">75934005</data>
+      <data key="d1">metabolic disease (disorder)</data>
+    </node>
+    <node id="B_C:279001004">
+      <data key="d0">concept</data>
+      <data key="d2">279001004</data>
+      <data key="d1">pain finding at anatomical site (finding)</data>
+    </node>
+    <node id="B_C:127452003">
+      <data key="d0">concept</data>
+      <data key="d2">127452003</data>
+      <data key="d1">past medical history of (contextual qualifier) (context-dependent category)</data>
+    </node>
+    <node id="B_C:699617006">
+      <data key="d0">concept</data>
+      <data key="d2">699617006</data>
+      <data key="d1">structure of free lower limb (body structure)</data>
+    </node>
+    <node id="B_C:68367000">
+      <data key="d0">concept</data>
+      <data key="d2">68367000</data>
+      <data key="d1">thigh structure (body structure)</data>
+    </node>
+    <node id="B_C:129136002">
+      <data key="d0">concept</data>
+      <data key="d2">129136002</data>
+      <data key="d1">injury of nerve of lower extremity (disorder)</data>
+    </node>
+    <node id="B_C:244014007">
+      <data key="d0">concept</data>
+      <data key="d2">244014007</data>
+      <data key="d1">surface region of lower leg (body structure)</data>
+    </node>
+    <node id="B_C:106227002">
+      <data key="d0">concept</data>
+      <data key="d2">106227002</data>
+      <data key="d1">general information qualifier (qualifier value)</data>
+    </node>
+    <node id="B_C:16676009">
+      <data key="d0">concept</data>
+      <data key="d2">16676009</data>
+      <data key="d1">lumbar plexus structure (body structure)</data>
+    </node>
+    <node id="B_C:106228007">
+      <data key="d0">concept</data>
+      <data key="d2">106228007</data>
+      <data key="d1">modifier, linkage term and/or qualifier (qualifier value)</data>
+    </node>
+    <node id="B_C:302226006">
+      <data key="d0">concept</data>
+      <data key="d2">302226006</data>
+      <data key="d1">peripheral nerve disease (disorder)</data>
+    </node>
+    <node id="B_C:361394006">
+      <data key="d0">concept</data>
+      <data key="d2">361394006</data>
+      <data key="d1">nerve of lumbar plexus distribution (body structure)</data>
+    </node>
+    <node id="B_C:255470001">
+      <data key="d0">concept</data>
+      <data key="d2">255470001</data>
+      <data key="d1">local (qualifier value)</data>
+    </node>
+    <node id="B_C:78514002">
+      <data key="d0">concept</data>
+      <data key="d2">78514002</data>
+      <data key="d1">thigh pain (finding)</data>
+    </node>
+    <node id="B_C:8801005">
+      <data key="d0">concept</data>
+      <data key="d2">8801005</data>
+      <data key="d1">secondary diabetes mellitus (disorder)</data>
+    </node>
+    <node id="B_C:64572001">
+      <data key="d0">concept</data>
+      <data key="d2">64572001</data>
+      <data key="d1">disease (disorder)</data>
+    </node>
+    <node id="B_C:362981000">
+      <data key="d0">concept</data>
+      <data key="d2">362981000</data>
+      <data key="d1">qualifier value (qualifier value)</data>
+    </node>
+    <node id="B_C:408739003">
+      <data key="d0">concept</data>
+      <data key="d2">408739003</data>
+      <data key="d1">unapproved attribute (attribute)</data>
+    </node>
+    <node id="B_C:73590005">
+      <data key="d0">concept</data>
+      <data key="d2">73590005</data>
+      <data key="d1">peripheral nerve injury (disorder)</data>
+    </node>
+    <node id="B_C:127279002">
+      <data key="d0">concept</data>
+      <data key="d2">127279002</data>
+      <data key="d1">injury of lower extremity (disorder)</data>
+    </node>
+    <node id="B_C:7523003">
+      <data key="d0">concept</data>
+      <data key="d2">7523003</data>
+      <data key="d1">injury of thigh (disorder)</data>
+    </node>
+    <node id="B_C:243796009">
+      <data key="d0">concept</data>
+      <data key="d2">243796009</data>
+      <data key="d1">context-dependent categories (context-dependent category)</data>
+    </node>
+    <node id="B_C:107478004">
+      <data key="d0">concept</data>
+      <data key="d2">107478004</data>
+      <data key="d1">family stichaeidae - prickleback (organism)</data>
+    </node>
+    <node id="B_C:609612001">
+      <data key="d0">concept</data>
+      <data key="d2">609612001</data>
+      <data key="d1">disorder of nerve root and/or plexus (disorder)</data>
+    </node>
+    <node id="B_C:119260005">
+      <data key="d0">concept</data>
+      <data key="d2">119260005</data>
+      <data key="d1">lower extremity nerve (body structure)</data>
+    </node>
+    <node id="B_C:4062006">
+      <data key="d0">concept</data>
+      <data key="d2">4062006</data>
+      <data key="d1">lumbosacral plexus lesion (disorder)</data>
+    </node>
+    <node id="B_C:107658001">
+      <data key="d0">concept</data>
+      <data key="d2">107658001</data>
+      <data key="d1">mechanical abnormality (morphologic abnormality)</data>
+    </node>
+    <node id="B_C:419003001">
+      <data key="d0">concept</data>
+      <data key="d2">419003001</data>
+      <data key="d1">finding of thigh (finding)</data>
+    </node>
+    <node id="B_C:230637008">
+      <data key="d0">concept</data>
+      <data key="d2">230637008</data>
+      <data key="d1">compression neuropathy of lower limb (disorder)</data>
+    </node>
+    <node id="B_C:42658009">
+      <data key="d0">concept</data>
+      <data key="d2">42658009</data>
+      <data key="d1">disorder of the peripheral nervous system (disorder)</data>
+    </node>
+    <node id="B_C:708041002">
+      <data key="d0">concept</data>
+      <data key="d2">708041002</data>
+      <data key="d1">mechanical lesion (morphologic abnormality)</data>
+    </node>
+    <node id="B_C:62235007">
+      <data key="d0">concept</data>
+      <data key="d2">62235007</data>
+      <data key="d1">mononeuritis of lower limb (disorder)</data>
+    </node>
+    <node id="B_C:244011004">
+      <data key="d0">concept</data>
+      <data key="d2">244011004</data>
+      <data key="d1">surface region of lower limb (body structure)</data>
+    </node>
+    <node id="B_C:22253000">
+      <data key="d0">concept</data>
+      <data key="d2">22253000</data>
+      <data key="d1">pain (finding)</data>
+    </node>
+    <node id="B_C:429968006">
+      <data key="d0">concept</data>
+      <data key="d2">429968006</data>
+      <data key="d1">finding related to flexion of fetal head (finding)</data>
+    </node>
+    <node id="B_C:785818007">
+      <data key="d0">concept</data>
+      <data key="d2">785818007</data>
+      <data key="d1">structure of joint region (body structure)</data>
+    </node>
+    <node id="B_C:49755003">
+      <data key="d0">concept</data>
+      <data key="d2">49755003</data>
+      <data key="d1">morphologically abnormal structure (morphologic abnormality)</data>
+    </node>
+    <edge source="B_S0" target="B_E:symptoms">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S0" target="B_E:meralgia paresthetica">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S0" target="B_E:radiated">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S0" target="B_E:low back pain">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S0" target="B_E:pain">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S0" target="B_E:localized">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S0" target="B_E:lateral aspect">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S0" target="B_E:left thigh">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S0" target="B_E:knee">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S0" target="B_E:leg">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S0" target="B_E:flexed">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S0" target="B_E:presentation">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S0" target="B_E:condition">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S1" target="B_E:symptoms">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S1" target="B_E:meralgia paresthetica">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S1" target="B_E:compression">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S1" target="B_E:trauma">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S1" target="B_E:lateral femoral cutaneous nerve">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S2" target="B_E:symptoms">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S2" target="B_E:radiated">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S2" target="B_E:low back pain">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S2" target="B_E:pain">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S2" target="B_E:leg">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S2" target="B_E:radiculopathy">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S2" target="B_E:history">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S2" target="B_E:metabolic syndrome">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S2" target="B_E:nature">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_S2" target="B_E:sciatica">
+      <data key="d3">mentions</data>
+    </edge>
+    <edge source="B_E:symptoms" target="B_C:139552004">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="B_E:meralgia paresthetica" target="B_C:85007004">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="B_C:85007004" target="B_C:129136002">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:85007004" target="B_C:230637008">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:85007004" target="B_C:307365001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:85007004" target="B_C:62235007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:85007004" target="B_C:7523003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:85007004" target="B_C:2231001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:85007004" target="B_C:373673007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:85007004" target="B_C:4062006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:85007004" target="B_C:78514002">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:85007004" target="B_C:301366005">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_E:radiated" target="B_C:39682000">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="B_C:39682000" target="B_C:107478004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_E:low back pain" target="B_C:156648004">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="B_E:pain" target="B_C:366981002">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="B_E:localized" target="B_C:255471002">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="B_C:255471002" target="B_C:255470001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_E:lateral aspect" target="B_C:182299007">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="B_C:182299007" target="B_C:244014007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_E:left thigh" target="B_C:61396006">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="B_C:61396006" target="B_C:68367000">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:61396006" target="B_C:32153003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_E:knee" target="B_C:72696002">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="B_C:72696002" target="B_C:120575009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:72696002" target="B_C:699617006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:72696002" target="B_C:787050004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_E:leg" target="B_C:30021000">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="B_C:30021000" target="B_C:120575009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:30021000" target="B_C:699617006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_E:flexed" target="B_C:289359005">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="B_C:289359005" target="B_C:255537008">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:289359005" target="B_C:429968006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_E:presentation" target="B_C:246105001">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="B_C:246105001" target="B_C:246061005">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:246105001" target="B_C:408739003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_E:condition" target="B_C:260905004">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="B_C:260905004" target="B_C:246061005">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:260905004" target="B_C:408739003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_E:compression" target="B_C:71173004">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="B_C:71173004" target="B_C:107658001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:71173004" target="B_C:708041002">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_E:trauma" target="B_C:19130008">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="B_C:19130008" target="B_C:37782003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_E:lateral femoral cutaneous nerve" target="B_C:65490005">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="B_C:65490005" target="B_C:123955006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:65490005" target="B_C:280347002">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:65490005" target="B_C:119260005">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:65490005" target="B_C:787469003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:65490005" target="B_C:1287677009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:65490005" target="B_C:244476009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_E:radiculopathy" target="B_C:394640000">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="B_E:history" target="B_C:51042001">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="B_C:51042001" target="B_C:106227002">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:51042001" target="B_C:392521001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:51042001" target="B_C:127452003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:51042001" target="B_C:413350009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_E:metabolic syndrome" target="B_C:237602007">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="B_C:237602007" target="B_C:8801005">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:237602007" target="B_C:75934005">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_E:nature" target="B_C:246425008">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="B_C:246425008" target="B_C:246061005">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:246425008" target="B_C:408739003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_E:sciatica" target="B_C:156649007">
+      <data key="d3">maps_to</data>
+    </edge>
+    <edge source="B_C:413350009" target="B_C:243796009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:280347002" target="B_C:16676009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:280347002" target="B_C:244476009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:280347002" target="B_C:361394006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:280347002" target="B_C:361391003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:280347002" target="B_C:422697005">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:37782003" target="B_C:49755003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:37782003" target="B_C:52988006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:2231001" target="B_C:42658009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:2231001" target="B_C:193105005">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:2231001" target="B_C:386033004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:2231001" target="B_C:609612001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:2231001" target="B_C:302226006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:373673007" target="B_C:64572001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:373673007" target="B_C:22253000">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:787050004" target="B_C:785818007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:787469003" target="B_C:67328008">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:787469003" target="B_C:123955006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:297946004" target="B_C:42658009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:297946004" target="B_C:386033004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:297946004" target="B_C:302226006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:297946004" target="B_C:609600000">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:297946004" target="B_C:64572001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:1287677009" target="B_C:280347002">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:123955006" target="B_C:68367000">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:392521001" target="B_C:106227002">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:32153003" target="B_C:61685007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:120575009" target="B_C:61685007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:609600000" target="B_C:302226006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:609600000" target="B_C:386033004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:609600000" target="B_C:64572001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:52988006" target="B_C:49755003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:386033004" target="B_C:64572001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:307365001" target="B_C:2231001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:307365001" target="B_C:297946004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:307365001" target="B_C:4062006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:244476009" target="B_C:67328008">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:301366005" target="B_C:279001004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:370227000" target="B_C:362981000">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:67328008" target="B_C:61685007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:67328008" target="B_C:120575009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:75934005" target="B_C:64572001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:279001004" target="B_C:22253000">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:127452003" target="B_C:243796009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:127452003" target="B_C:413350009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:68367000" target="B_C:120575009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:68367000" target="B_C:699617006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:129136002" target="B_C:73590005">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:129136002" target="B_C:127279002">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:129136002" target="B_C:105606008">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:129136002" target="B_C:297946004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:129136002" target="B_C:128239009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:129136002" target="B_C:609600000">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:129136002" target="B_C:64572001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:244014007" target="B_C:244011004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:106227002" target="B_C:106228007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:106227002" target="B_C:370227000">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:106227002" target="B_C:362981000">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:106228007" target="B_C:362981000">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:302226006" target="B_C:193105005">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:302226006" target="B_C:42658009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:302226006" target="B_C:386033004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:302226006" target="B_C:64572001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:361394006" target="B_C:361391003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:255470001" target="B_C:272142003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:78514002" target="B_C:10601006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:78514002" target="B_C:419003001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:78514002" target="B_C:279001004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:8801005" target="B_C:73211009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:408739003" target="B_C:246061005">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:73590005" target="B_C:42658009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:73590005" target="B_C:302226006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:7523003" target="B_C:127279002">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:609612001" target="B_C:42658009">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:119260005" target="B_C:61685007">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:4062006" target="B_C:2231001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:4062006" target="B_C:386033004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:107658001" target="B_C:49755003">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:230637008" target="B_C:297946004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:230637008" target="B_C:386033004">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:708041002" target="B_C:52988006">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:708041002" target="B_C:107658001">
+      <data key="d3">is_a</data>
+    </edge>
+    <edge source="B_C:62235007" target="B_C:297946004">
+      <data key="d3">is_a</data>
+    </edge>
+  </graph>
+</graphml>

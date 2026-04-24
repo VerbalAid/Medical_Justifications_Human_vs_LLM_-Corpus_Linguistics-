@@ -1,0 +1,46 @@
+File	KPF	Left Context	Hit	Right Context
+corpus_a_merged.txt	25	provided are based on the Diagnostic Criteria of the International Headache Society.The correct 	answer 	is 3.  If I am not mistaken, you are describing a Celso's kerion 
+corpus_a_merged.txt	25	I fracture does not affect the orbital contents.  Knowing this information, the only correct 	answer 	is 2.  If we were in doubt about whether or not Lefort's type 
+corpus_a_merged.txt	25	it seems obvious that refractive defects do not give hemianopsia (3 and 4 false).The correct 	answer 	is 1.  The statement perfectly defines a tolerance phenomenon in which the patient has 
+corpus_a_merged.txt	25	for observation of this and take measures in case this is necessary.The correct 	answer 	is 3.  The study that gives us more information about endometrial pathology is hysteroscopy, 
+corpus_a_merged.txt	25	vasopressin test (intravenous administration of ADH and remeasurement of urinary osmolarity).  Therefore, the correct 	answer 	is option 3.Book picture of Primary Biliary Cirrhosis, one of those that do 
+corpus_a_merged.txt	25	bilateral pulmonary infiltrates + PCP<18.  So the diagnosis is respiratory distress and therefore the correct 	answer 	is option 5.Other drugs are a good choice in urinary tract infections caused 
+corpus_a_merged.txt	25	not sleep nine hours and still wants to sleep more,...then the less harmful 	answer 	is the 2.  Because it is the one with the shortest half-life and 
+corpus_a_merged.txt	25	of occurrence between 10 and 80%.  Conservative treatment with botulinum toxin offers good results.The correct 	answer 	is the first one.  The most frequent cause of urinary tract infections is 
+corpus_a_merged.txt	24	with significant visual disturbances, surgical intervention is usually of choice, with transsphenoidal decompression.The 	answer 	is 2.  According to the SEGO (Spanish Society of Gynecology and Obstetrics) in its 2005 
+corpus_a_merged.txt	24	the marrow but in the peripheral blood, where platelets are destroyed.  So.  The false 	answer 	is 2.Diagnostic laparoscopy.  It is a typical case of deep endometriosis, with implants 
+corpus_a_merged.txt	24	nerve exits, and between T4 and T5 the 4th thoracic nerve exits.  The correct 	answer 	is 4.Everything we are told in this case is typical of COLLAGENOUS COLITIS.  
+corpus_a_merged.txt	24	emphasis on the decline of functional independence that occurs in these patients.The correct 	answer 	is: 2.  Hyperkalemia.  Spironolactone, as a potassium-sparing diuretic, inhibits the action of aldosterone 
+corpus_a_merged.txt	24	hemodynamic compromise.  Paradoxical pulse is a typical finding of cardiac tamponade.  Therefore, the correct 	answer 	is 5.This question may be a little more difficult, as the clinical case 
+corpus_a_merged.txt	24	then every two months for another six months before a new pregnancy.The correct 	answer 	is 4.  What is not very clear to me is "routine urinalysis" because it 
+corpus_a_merged.txt	24	of a paroxysmal hemicrania and its treatment of choice is indomethacin (which also the 	answer 	is a diagnostic criterion).  Therefore correct answer 1 (Indomethacin).  All data provided are based 
+corpus_a_merged.txt	24	and he does not want the lady to fall down the next day.The 	answer 	is 2, an EMG, which would be the diagnostic test to confirm the diagnostic 
+corpus_a_merged.txt	24	meets the criteria for depression.  The poor girl has been diagnosed with depression.  The 	answer 	is 5 (another option is that she was studying the MIR).We describe the 
+corpus_a_merged.txt	24	nd: measure ACTH to orient etiology.  3rd: imaging test according to ACTH levels.  Therefore, 	answer 2 	is false (abdominal CT is not a test to rule out s. Cushing'
+corpus_a_merged.txt	24	you notice, so one of the two is correct.  In this case, the false 	answer 	is 1, it is a very categorical answer ("rule out") that does not quite 
+corpus_a_merged.txt	24	hypertensive patient to increase her blood pressure, so labetalol could help us.  The last 	answer 	is not correct because it depends on the type of fracture, which is 
+corpus_a_merged.txt	24	lumbosciatic pain, since it causes a stretching of the sciatic nerve, therefore the correct 	answer 	is number 3.  The rest of the pathologies do not have a positive Lasègue 
+corpus_a_merged.txt	24	of the examination is strictly normal.  With all this I believe that the correct 	answer 	is 5, that is a syringomyelic lesion, whose initial characteristic is the sensitive dissociation 
+corpus_a_merged.txt	5	prosthesis.BI-RADS Breast Imaging Reporting and Data System.  BI-RADS 3 is defined by 	answer 3.	The halo sign is characteristic of pulmonary aspergillosis, especially in an immuodepressed patient.  
+corpus_a_merged.txt	5	of an AINO but with non-arteritic characteristics (without all the accompanying symptomatology).Correct 	answer 1: 	The picture described is very suggestive of pseudocrisis with asynchronous limb movements, pelvic 
+corpus_a_merged.txt	5	and Hemotherapy for patients under 40 years of age with severe bone marrow aplasia.  Correct 	answer, 3.	The question is tricky: it speaks of a burn of 10% of the body 
+corpus_a_merged.txt	5	asynchronous limb movements, pelvic movements, crying and poor response to antiepileptic drugs.To correctly 	answer 	this question it should be emphasized that among the symptomatology that is exposed 
+corpus_a_merged.txt	5	not exposed to warfarin; Ie: incidence in those exposed to warfarin).  RRA: 5,2%- 2,2%= 3= 0,03.  NNT: 1/0.03= 33.3.I 	answer 	this question thinking more about what they want to ask than what they 
+corpus_a_merged.txt	4	include answers 2, 3, 4 and 5), a paroxysmal hemicrania (whose treatment of choice is the indomethacin of 	answer 1) 	and a SUNCT (unilateral neuralgiform headache with conjunctival injection and lacrimation).  Cluster headache 
+corpus_a_merged.txt	4	gabapentin and corticosteroids (true answer 4); we would not decrease the dose of morphine (false 	answer 3), 	and in the meantime we would ask for a CT scan (or abdominal 
+corpus_a_merged.txt	3	and the indicated test is a FNA (fine needle puncture).  I have read the 	answer 	Emilio has written on the challenge; the question is in the endocrine block 
+corpus_a_merged.txt	3	of choice is indomethacin (which also the answer is a diagnostic criterion).  Therefore correct 	answer 1 (	Indomethacin).  All data provided are based on the Diagnostic Criteria of the International 
+corpus_a_merged.txt	3	for a new evaluation.  However, I consider that this question could have another valid 	answer, 3.  	It depends a little on the attitude of each rheumatologist.  If what you 
+corpus_a_merged.txt	3	does so during residency should be punished with 100 slaps on the back.  We discard 	answer 5.  	Second: if treatment is given, it should be during the entire pregnancy, prothrombotic 
+corpus_a_merged.txt	3	thyroid stimulating hormone (TSH).  High serum free T4 level.  High serum thyroglobulin level.  Incorrect 	answer 4: 	Very rare tumor.They describe a typical hemisection or Brown-Sequard picture.  Ipsilateral 
+corpus_a_merged.txt	3	at least two are needed) and also being heterozygous, treatment is not necessary.  Correct 	answer, 3.	We are being shown a picture of lumbar canal stenosis (Answer 4 correct).  The 
+corpus_a_merged.txt	3	carpal tunnel the exploration exceeds the territory distal to the carpus, and as for 	answer 1, 	although there are forms of peripheral polyneuropathy "pseudosyringomyelic" they are usually of lumbar 
+corpus_a_merged.txt	3	violent jumps") at breakfast time will almost always lead us to juvenile myoclonic epilepsy (	answer 5 	correct), a very well characterized entity.  Among other features is the previous history 
+corpus_a_merged.txt	3	be during the entire pregnancy, prothrombotic status is not only during the puerperium, so 	answer 2 	discarded.  Advise a woman not to become pregnant when there are treatments that 
+corpus_a_merged.txt	3	is correct.  In this case, the false answer is 1, it is a very categorical 	answer ("	rule out") that does not quite fit the reality; As we have said, 
+corpus_a_merged.txt	3	or postgastrectomy, but the question is focused on initial management, so the most appropriate 	answer 	seems to be 2.Be careful with lithium.  Intoxications have been seen with normal 
+corpus_a_merged.txt	3	about the diagnostic process of HIV.  At first glance, we could directly rule out 	answer 2 	since we know that mononucleosis can be an expression of the first phase 
+corpus_a_merged.txt	3	in the "window period" during which serological techniques may be unprofitable.  In conclusion, the 	answer 	that best fits us would be 5, in the window period a viral load 
+corpus_a_merged.txt	3	renal crisis.  Apart from anti-proteinase 3 antibodies, which are not related to scleroderma (incorrect 	answer 3), 	the most likely ones would be antiRNA polymerase III antibodies, which appear in 
+corpus_a_merged.txt	3	the answers.  Whoever posted the question wanted to make sure that the only valid 	answer 	was number 2; that is why they added the tag line "but just in 
+corpus_a_merged.txt	3	will associate the adjuvants.  We would manage the patient with gabapentin and corticosteroids (true 	answer 4); 	we would not decrease the dose of morphine (false answer 3), and in the 

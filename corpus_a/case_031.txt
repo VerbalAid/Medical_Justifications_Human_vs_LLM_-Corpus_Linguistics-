@@ -1,0 +1,9 @@
+Complicated question about an unusual adenocarcinoma.
+
+By rule 1 would be easy to eliminate, the treatment of colon cancer is surgical (with neoadjuvant in rectal cancer).
+
+If biopsies confirm adenocarcinoma, there is no need to repeat them, since it is necessary to have the complete specimen.
+
+Most colon cancer develops on adenomas, so we could eliminate this one.
+
+Among the other 2, it is important to know that 5 is correct since they almost always present microsatellite instability even without fulfilling the Amsterdam criteria and have a better prognosis than other poorly differentiated colon cancer.

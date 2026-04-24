@@ -1,0 +1,11 @@
+In this clinical case, a 25-year-old woman with a heterozygous factor V Leiden mutation, a thrombophilic condition, seeks advice on treatment during her future pregnancy. Although she has no personal history of thrombotic events, the diagnosis was established following a sibling's pulmonary embolism.
+
+Factor V Leiden heterozygosity is associated with a moderately increased risk of venous thromboembolism (VTE), especially during pregnancy and the puerperium. While the absolute risk is relatively low, the potential for severe complications necessitates careful consideration of treatment options.
+
+Option 1, discouraging pregnancy, is extreme and not typically advised, given that many women with factor V Leiden can have successful pregnancies. Option 3, no treatment, is risky as it does not address the increased risk during pregnancy and puerperium. Option 5, treatment with antivitamin K drugs (acenocoumarol), is contraindicated during pregnancy due to the potential risk of fetal anticoagulation and bleeding.
+
+Option 2, low molecular weight heparin (LMWH) at prophylactic doses during the immediate puerperium, is a reasonable choice for thromboprophylaxis in the postpartum period. However, prophylactic anticoagulation during pregnancy may not provide sufficient protection and could increase the risk of bleeding.
+
+Option 4, low-dose aspirin, is a common thromboprophylactic choice in certain high-risk pregnancies. Although it does not reduce the risk of VTE as effectively as anticoagulation, it may be considered in this case due to the low risk of bleeding complications.
+
+Based on the information provided, low-dose

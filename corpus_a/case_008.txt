@@ -1,0 +1,9 @@
+Given this clinical picture, one possibility is dermatomyositis.
+
+Of the proposed tests, the determination of serum aldolase may be useful.
+
+Its elevation is characteristic of this disease.
+
+The biopsy should be muscular and not subcutaneous.
+
+Anti-smooth muscle antibodies are not characteristic of this disease.

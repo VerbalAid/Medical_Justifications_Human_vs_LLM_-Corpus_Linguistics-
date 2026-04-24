@@ -1,0 +1,25 @@
+A long statement full of rather confusing data.
+
+We can attack that question in two ways: by looking at the key data and going all the way to the diagnosis we are considering or by discarding one by one.
+
+The choluria, LDH, presence of panagglutinin and the peripheral blood smear "smells" like hemolytic anemia.
+
+Answer 1 cannot be because a marrow aplasia does not explain the choluria, the elevation of LDH, nor in the study of irregular antibodies is positive in the form of panagglutinin; an aplasia is a marrow failure characterized by a total or partial disappearance of hemopoietic progenitors.
+
+In addition, pancytopenia is not observed, which is what would incline us more towards this pathology.
+
+Answer 2 is not possible either, since a spherocytosis does not justify the presence of panagglutinin.
+
+Answer 3 is the one I consider correct: an autoimmune hemolytic anemia would justify the data given: elevated LDH and bilirubinemia due to red cell destruction, polychromatophilia, spherocytosis and anisocytosis because the marrow is working hard to try to compensate for the anemia, which is regenerative.
+
+The study of irregular antibodies and the presence of panagglutinin also supports this response, since the binding of an antibody to the hematocyte promotes its lysis and destruction.
+
+The girl presents cough and fever, consistent with a respiratory infection.
+
+And the initial treatment is corticosteroids.
+
+This is confirmed by Sans Sabrafens in his book "Clinical Hematology" [1].
+
+Answer 4 gives rise to considerable doubt; it is not possible because a pernicious anemia does not justify the presence of panagglutinin although it would justify the elevation of LDH and bilirubin; moreover, it is an intramedullary, arregenerative hemolysis, there is no reticulocytosis or release into the blood of immature forms in an attempt to compensate and fix the situation.
+
+Answer 5 is not true because no blasts are seen in the blood nor does it explain the presence of panagglutinin.

@@ -1,0 +1,118 @@
+case_file,case_num,dataset_id,medical_area,A_hedge_hits,A_tokens,A_per_1000,B_hedge_hits,B_tokens,B_per_1000,delta_B_minus_A_per_1000
+case_001.txt,1,190_94,General medicine (no clear lexical match),2,31,64.5161,5,111,45.045,-19.4711
+case_002.txt,2,150_201,General medicine (no clear lexical match),0,61,0.0,4,88,45.4545,45.4545
+case_003.txt,3,454_153,General medicine (no clear lexical match),3,38,78.9474,5,100,50.0,-28.9474
+case_005.txt,5,602_112,Endocrinology & metabolic medicine,1,67,14.9254,0,115,0.0,-14.9254
+case_006.txt,6,127_77,Multi-specialty stem (tied lexical scores),2,197,10.1523,9,231,38.961,28.8088
+case_007.txt,7,316_138,Rheumatology & musculoskeletal medicine,0,35,0.0,4,84,47.619,47.619
+case_008.txt,8,153_74,General medicine (no clear lexical match),1,45,22.2222,3,110,27.2727,5.0505
+case_010.txt,10,413_68,Cardiovascular medicine,1,60,16.6667,8,116,68.9655,52.2989
+case_011.txt,11,314_178,General medicine (no clear lexical match),5,149,33.557,6,186,32.2581,-1.299
+case_012.txt,12,263_37,General medicine (no clear lexical match),2,35,57.1429,5,117,42.735,-14.4078
+case_013.txt,13,344_158,Obstetrics & gynaecology,0,61,0.0,5,107,46.729,46.729
+case_014.txt,14,43_151,General medicine (no clear lexical match),2,55,36.3636,7,111,63.0631,26.6994
+case_015.txt,15,616_119,General medicine (no clear lexical match),0,7,0.0,3,87,34.4828,34.4828
+case_016.txt,16,489_105,General medicine (no clear lexical match),0,122,0.0,3,115,26.087,26.087
+case_017.txt,17,534_119,General medicine (no clear lexical match),3,50,60.0,3,104,28.8462,-31.1538
+case_018.txt,18,273_71,General medicine (no clear lexical match),0,54,0.0,4,93,43.0108,43.0108
+case_019.txt,19,56_76,General medicine (no clear lexical match),1,36,27.7778,5,100,50.0,22.2222
+case_020.txt,20,409_191,Clinical oncology,0,32,0.0,3,95,31.5789,31.5789
+case_021.txt,21,179_98,Haematology & coagulation,0,74,0.0,8,112,71.4286,71.4286
+case_022.txt,22,353_161,Obstetrics & gynaecology,0,40,0.0,6,94,63.8298,63.8298
+case_023.txt,23,438_119,Respiratory medicine,1,116,8.6207,6,146,41.0959,32.4752
+case_024.txt,24,579_108,General medicine (no clear lexical match),0,48,0.0,1,99,10.101,10.101
+case_025.txt,25,212_88,Gastroenterology & hepatology,1,26,38.4615,3,83,36.1446,-2.317
+case_026.txt,26,507_89,General medicine (no clear lexical match),0,27,0.0,2,84,23.8095,23.8095
+case_027.txt,27,552_89,General medicine (no clear lexical match),0,33,0.0,1,99,10.101,10.101
+case_028.txt,28,598_181,Nephrology & urology,0,73,0.0,4,94,42.5532,42.5532
+case_029.txt,29,133_168,General medicine (no clear lexical match),9,175,51.4286,8,217,36.8664,-14.5622
+case_030.txt,30,186_67,Endocrinology & metabolic medicine,1,218,4.5872,5,210,23.8095,19.2224
+case_031.txt,31,7_208,Clinical oncology,2,92,21.7391,3,120,25.0,3.2609
+case_032.txt,32,152_72,General medicine (no clear lexical match),1,59,16.9492,6,107,56.0748,39.1256
+case_033.txt,33,243_112,Infectious diseases,8,245,32.6531,8,310,25.8065,-6.8466
+case_034.txt,34,458_126,General medicine (no clear lexical match),0,65,0.0,5,109,45.8716,45.8716
+case_035.txt,35,123_223,Obstetrics & gynaecology,0,27,0.0,1,56,17.8571,17.8571
+case_036.txt,36,522_165,Endocrinology & metabolic medicine,1,69,14.4928,8,111,72.0721,57.5793
+case_037.txt,37,209_185,Obstetrics & gynaecology,0,73,0.0,7,113,61.9469,61.9469
+case_039.txt,39,464_155,Respiratory medicine,5,212,23.5849,11,229,48.0349,24.45
+case_040.txt,40,502_77,Multi-specialty stem (tied lexical scores),1,21,47.619,3,72,41.6667,-5.9524
+case_041.txt,41,71_50,Cardiovascular medicine,0,45,0.0,5,120,41.6667,41.6667
+case_042.txt,42,486_45,General medicine (no clear lexical match),6,177,33.8983,6,228,26.3158,-7.5825
+case_043.txt,43,216_121,Nephrology & urology,1,143,6.993,3,143,20.979,13.986
+case_044.txt,44,384_151,General medicine (no clear lexical match),10,262,38.1679,10,203,49.2611,11.0931
+case_045.txt,45,238_145,General medicine (no clear lexical match),5,193,25.9067,2,231,8.658,-17.2487
+case_046.txt,46,47_157,General medicine (no clear lexical match),0,25,0.0,5,72,69.4444,69.4444
+case_047.txt,47,381_139,General medicine (no clear lexical match),3,79,37.9747,5,115,43.4783,5.5036
+case_048.txt,48,32_64,Multi-specialty stem (tied lexical scores),0,23,0.0,5,97,51.5464,51.5464
+case_049.txt,49,106_135,General medicine (no clear lexical match),1,211,4.7393,6,200,30.0,25.2607
+case_050.txt,50,62_119,Cardiovascular medicine,3,104,28.8462,4,125,32.0,3.1538
+case_051.txt,51,592_76,Clinical oncology,0,14,0.0,6,106,56.6038,56.6038
+case_052.txt,52,26_117,General medicine (no clear lexical match),0,31,0.0,3,79,37.9747,37.9747
+case_053.txt,53,435_121,Infectious diseases,4,91,43.956,0,118,0.0,-43.956
+case_054.txt,54,474_142,Orthopaedics & trauma,3,285,10.5263,16,296,54.0541,43.5277
+case_055.txt,55,17_137,Dermatology,2,69,28.9855,2,104,19.2308,-9.7547
+case_056.txt,56,425_92,General medicine (no clear lexical match),1,80,12.5,2,96,20.8333,8.3333
+case_057.txt,57,8_232,Gastroenterology & hepatology,5,63,79.3651,2,94,21.2766,-58.0885
+case_058.txt,58,621_60,Orthopaedics & trauma,5,179,27.933,4,207,19.3237,-8.6093
+case_059.txt,59,470_138,Orthopaedics & trauma,2,143,13.986,5,172,29.0698,15.0838
+case_060.txt,60,298_103,Gastroenterology & hepatology,0,42,0.0,2,98,20.4082,20.4082
+case_061.txt,61,365_100,Respiratory medicine,4,47,85.1064,6,86,69.7674,-15.3389
+case_062.txt,62,392_223,General medicine (no clear lexical match),5,105,47.619,5,150,33.3333,-14.2857
+case_064.txt,64,301_232,General medicine (no clear lexical match),2,28,71.4286,3,89,33.7079,-37.7207
+case_065.txt,65,23_113,Rheumatology & musculoskeletal medicine,2,50,40.0,5,105,47.619,7.619
+case_066.txt,66,564_126,General medicine (no clear lexical match),0,87,0.0,5,110,45.4545,45.4545
+case_067.txt,67,292_213,Multi-specialty stem (tied lexical scores),3,47,63.8298,6,113,53.0973,-10.7324
+case_068.txt,68,477_128,Respiratory medicine,8,148,54.0541,11,188,58.5106,4.4566
+case_069.txt,69,572_195,Nephrology & urology,0,24,0.0,3,88,34.0909,34.0909
+case_070.txt,70,180_232,Haematology & coagulation,1,114,8.7719,3,140,21.4286,12.6566
+case_071.txt,71,270_135,General medicine (no clear lexical match),0,94,0.0,5,138,36.2319,36.2319
+case_072.txt,72,368_121,Respiratory medicine,1,50,20.0,5,93,53.7634,33.7634
+case_073.txt,73,167_85,Cardiovascular medicine,1,79,12.6582,5,109,45.8716,33.2133
+case_074.txt,74,154_75,General medicine (no clear lexical match),3,89,33.7079,2,121,16.5289,-17.1789
+case_075.txt,75,176_57,Multi-specialty stem (tied lexical scores),0,48,0.0,4,109,36.6972,36.6972
+case_076.txt,76,130_82,Neurology,1,98,10.2041,4,122,32.7869,22.5828
+case_077.txt,77,276_75,General medicine (no clear lexical match),2,87,22.9885,4,115,34.7826,11.7941
+case_078.txt,78,183_64,Gastroenterology & hepatology,0,24,0.0,2,96,20.8333,20.8333
+case_079.txt,79,115_98,Haematology & coagulation,4,311,12.8617,11,302,36.4238,23.5621
+case_080.txt,80,75_65,Respiratory medicine,0,48,0.0,5,89,56.1798,56.1798
+case_081.txt,81,191_125,Infectious diseases,2,56,35.7143,2,99,20.202,-15.5123
+case_082.txt,82,323_150,General medicine (no clear lexical match),1,67,14.9254,3,113,26.5487,11.6233
+case_083.txt,83,311_217,General medicine (no clear lexical match),4,105,38.0952,3,119,25.2101,-12.8852
+case_084.txt,84,137_164,Orthopaedics & trauma,0,90,0.0,5,125,40.0,40.0
+case_085.txt,85,309_215,General medicine (no clear lexical match),8,171,46.7836,12,225,53.3333,6.5497
+case_086.txt,86,279_32,Gastroenterology & hepatology,1,80,12.5,4,94,42.5532,30.0532
+case_087.txt,87,437_118,General medicine (no clear lexical match),2,79,25.3165,4,108,37.037,11.7206
+case_088.txt,88,112_154,General medicine (no clear lexical match),0,46,0.0,3,104,28.8462,28.8462
+case_089.txt,89,374_101,Multi-specialty stem (tied lexical scores),3,95,31.5789,8,141,56.7376,25.1586
+case_090.txt,90,116_101,Obstetrics & gynaecology,0,210,0.0,10,238,42.0168,42.0168
+case_091.txt,91,473_141,Orthopaedics & trauma,0,91,0.0,5,115,43.4783,43.4783
+case_092.txt,92,34_66,Neurology,9,214,42.0561,9,245,36.7347,-5.3214
+case_093.txt,93,343_158,Obstetrics & gynaecology,0,131,0.0,2,154,12.987,12.987
+case_095.txt,95,187_68,General medicine (no clear lexical match),3,116,25.8621,8,158,50.6329,24.7708
+case_096.txt,96,406_33,Clinical oncology,0,48,0.0,2,105,19.0476,19.0476
+case_097.txt,97,526_54,Cardiovascular medicine,1,73,13.6986,2,89,22.4719,8.7733
+case_099.txt,99,573_92,General medicine (no clear lexical match),1,102,9.8039,4,163,24.5399,14.736
+case_100.txt,100,164_123,Cardiovascular medicine,1,82,12.1951,5,96,52.0833,39.8882
+case_101.txt,101,208_183,Obstetrics & gynaecology,0,37,0.0,3,104,28.8462,28.8462
+case_102.txt,102,232_103,Haematology & coagulation,0,19,0.0,4,86,46.5116,46.5116
+case_103.txt,103,64_210,General medicine (no clear lexical match),0,64,0.0,1,89,11.236,11.236
+case_104.txt,104,280_32,Gastroenterology & hepatology,1,114,8.7719,5,119,42.0168,33.2449
+case_106.txt,106,257_95,Nephrology & urology,1,52,19.2308,5,93,53.7634,34.5327
+case_108.txt,108,318_140,General medicine (no clear lexical match),0,53,0.0,7,119,58.8235,58.8235
+case_109.txt,109,147_157,Psychiatry & psychological medicine,0,114,0.0,6,170,35.2941,35.2941
+case_110.txt,110,530_167,Nephrology & urology,0,60,0.0,3,100,30.0,30.0
+case_111.txt,111,494_157,General medicine (no clear lexical match),0,103,0.0,6,126,47.619,47.619
+case_112.txt,112,117_112,Respiratory medicine,1,101,9.901,4,124,32.2581,22.3571
+case_113.txt,113,27_203,General medicine (no clear lexical match),3,64,46.875,1,85,11.7647,-35.1103
+case_114.txt,114,471_139,Orthopaedics & trauma,1,48,20.8333,4,101,39.604,18.7706
+case_115.txt,115,327_81,Endocrinology & metabolic medicine,4,78,51.2821,6,94,63.8298,12.5477
+case_116.txt,116,450_154,General medicine (no clear lexical match),0,21,0.0,1,101,9.901,9.901
+case_117.txt,117,265_137,Clinical oncology,0,19,0.0,3,115,26.087,26.087
+case_118.txt,118,189_71,General medicine (no clear lexical match),0,20,0.0,5,92,54.3478,54.3478
+case_119.txt,119,508_148,Nephrology & urology,4,84,47.619,0,103,0.0,-47.619
+case_120.txt,120,151_70,Dermatology,1,62,16.129,3,85,35.2941,19.1651
+case_121.txt,121,404_139,General medicine (no clear lexical match),2,164,12.1951,8,210,38.0952,25.9001
+case_122.txt,122,215_106,Nephrology & urology,10,152,65.7895,5,165,30.303,-35.4864
+case_123.txt,123,264_135,Endocrinology & metabolic medicine,2,21,95.2381,4,81,49.3827,-45.8554
+case_124.txt,124,594_80,General medicine (no clear lexical match),1,23,43.4783,4,91,43.956,0.4778
+case_125.txt,125,236_108,Haematology & coagulation,0,15,0.0,2,86,23.2558,23.2558
