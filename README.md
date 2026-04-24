@@ -1,4 +1,8 @@
-# Corpus linguistics pipeline (CasiMedicos human vs Mistral)
+# Medical Justifications: Human vs. LLM (Corpus Linguistics)
+
+**GitHub:** [VerbalAid/Medical_Justifications_Human_vs_LLM_-Corpus_Linguistics-](https://github.com/VerbalAid/Medical_Justifications_Human_vs_LLM_-Corpus_Linguistics-)
+
+## Corpus linguistics pipeline (CasiMedicos human vs Mistral)
 
 > **Layout:** This folder is **`register_audit_mcq/`** inside the parent **Terminology** workspace. Use **`../.venv`** for the virtualenv and **`../SnomedCT_.../`** for SNOMED RF2 (see `pipeline/paths.py`: `DEFAULT_RF2_ROOT` points at the parent directory). Run `python -m pipeline.<module>` from the **parent** `Terminology` directory **or** from this folder (both work if the venv is active).
 
